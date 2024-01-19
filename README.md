@@ -7,7 +7,6 @@ I'm extremely pleased with how the project came out. I'm particularly proud of t
 
 <p align="center">
 <img src="/Users/xevendev/Documents/GitHub/Portfolio/images/iHakeem/iHakeem1.png" width="230"  title="Word Guess">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/Users/xevendev/Documents/GitHub/Portfolio/images/iHakeem/iHakeem2.png" width="230" title="Word Guess">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/Users/xevendev/Documents/GitHub/Portfolio/images/iHakeem/iHakeem3.png" width="226" title="Word Guess">
-<img src="/Users/xevendev/Documents/GitHub/Portfolio/images/iHakeem/iHakeem4.png" width="226" title="Word Guess">
 </p>
 
 
