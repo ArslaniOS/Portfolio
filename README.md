@@ -38,3 +38,9 @@ Security is a top priority, with the app incorporating robust encryption and pri
 
  Book With Star Admin was built with Xcode and written entirely in Swift 5; it utilizes Auto Layout for UI design.
  
+ <p align="center">
+<img src="images/BwsAdmin/Bws1.png" width="230"> 
+  <img src="images/BwsAdmin/Bws1.png" width="230"> 
+  <img src="images/BwsAdmin/Bws1.png" width="230"> 
+  <img src="images/BwsAdmin/Bws1.png" width="230"> 
+</p>
