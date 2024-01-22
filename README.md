@@ -34,13 +34,14 @@ iHakeem is built using the MVVM (Model-View-ViewModel) architecture, ensuring a 
 Agile Methodology:
 
 The development process adhered to Agile methodology, fostering collaboration, flexibility, and iterative enhancements throughout the project lifecycle.
-This project reflects a significant milestone in enhancing healthcare accessibility and user experience. Download iHakeem now to elevate your healthcare journey to unprecedented heights.
+This project reflects a significant milestone in enhancing healthcare accessibility and user experience. Download iHakeem now to elevate your healthcare journey to unprecedented heights. 
 
-<p align="center">
-<img src="images/iHakeem/iHakeem1.png" width="230"  title="Word Guess">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/iHakeem/iHakeem2.png" width="230" title="Word Guess">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/iHakeem/iHakeem3.png" width="226" title="Word Guess">
-  <img src="images/iHakeem/iHakeem4.png" width="226" title="Word Guess">
+ <p align="center">
+<img src="images/iHakeem/iHakeem1.png" width="230"> 
+  <img src="images/iHakeem/iHakeem2.png" width="230"> 
+  <img src="images/iHakeem/iHakeem3.png" width="230"> 
+  <img src="images/iHakeem/iHakeem4.png" width="230"> 
 </p>
-
 
 # Book with Star Admin
 
