@@ -1,4 +1,4 @@
-
+<a href="https://www.linkedin.com/in/arslan-yahya-400907169/" target="_blank"><img src="https://img.shields.io/badge/linkedin-laurentBrusa-brightgreen.svg?style=for-the-badge&logo=linkedin&logoColor=white" ></a>
 # iHakeem 
 
 Available on App Store! Link: [iHakeem](https://apps.apple.com/us/app/ihakeem/id1536719251?platform=iphone)
