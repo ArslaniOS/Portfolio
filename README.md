@@ -45,6 +45,7 @@ This project reflects a significant milestone in enhancing healthcare accessibil
 
 
 
+
 # Book with Star Admin
 
 Available on App Store! Link: [BwsAdmin](https://apps.apple.com/pk/app/book-with-star-admin/id6451918028)
@@ -95,6 +96,7 @@ UI Self-Design: Took ownership of the UI design, ensuring a user-friendly and vi
 
 
 
+
 # Star Gymnastics Academy
 
 Available on App Store! Link: [Gymnastics](https://apps.apple.com/pk/app/star-gymnastics-academy/id6464569426)  
@@ -111,5 +113,72 @@ Gymnastics stands as a testament to the dedication and problem-solving skills ex
 <img src="images/Gym/gym2.png" width="230"> 
 <img src="images/Gym/gym3.png" width="230"> 
 <img src="images/Gym/gym4.png" width="230"> 
-<img src="images/Gym/gym5.png" width="230"> 
 </p>
+
+
+
+
+# Book With Star
+
+Available on App Store! Link: [BWS](https://apps.apple.com/pk/app/book-with-star/id1629308220) 
+
+The app, developed with SwiftUI, adheres to MVVM architecture and embraces agile methodologies, epitomizing efficiency and innovation in sports engagement.
+
+In the dynamic climate of the United Arab Emirates, leveraging the outdoors is essential for a vibrant lifestyle. Book with Star emerges as the ultimate facilitator, simplifying the quest for engaging and enjoyable activities. Whether your passion lies in outdoor sports like soccer or you prefer the camaraderie of indoor pursuits such as basketball, Book with Star ensures seamless access to premier facilities in your vicinity. Tailored for both adults seeking sports leagues and children pursuing athletic education, our platform fosters a diverse sports community.
+
+Challenges and Solutions:
+
+Overcoming a significant hurdle, I successfully implemented a custom searchable popup list in SwiftUI for the Book with Star app. Faced with the absence of native third-party solutions, I embraced the challenge of creating a proprietary framework tailored to the unique needs of the app. This involved a meticulous process of design, development, and integration, ensuring a seamless and user-friendly experience for the platform. The result is a cutting-edge feature that enhances user interaction, demonstrating the app's commitment to innovation and tailored solutions.
+
+ <p align="center">
+<img src="images/bws/bw1.png" width="230"> 
+<img src="images/bws/bw2.png" width="230"> 
+<img src="images/bws/bw3.png" width="230"> 
+</p>
+
+
+
+
+# Star Academies Coaches
+
+Available on App Store! Link: [Coaches](https://apps.apple.com/pk/app/star-academies-coaches/id1540379452) 
+
+This comprehensive app not only facilitates sports enthusiasts but also serves as an invaluable tool for coaches and students. Offering real-time access to crucial academy news and updates, it ensures everyone stays informed. Beyond its primary role in sports, the app is designed to elevate the educational experience, particularly for students aspiring to become coaches. By seamlessly organizing their day-to-day workload, the app enhances efficiency and empowers students on their educational journey.
+
+
+ <p align="center">
+<img src="images/coach/ch1.png" width="230"> 
+<img src="images/coach/ch2.png" width="230"> 
+<img src="images/coach/ch3.png" width="230"> 
+<img src="images/coach/ch4.png" width="230"> 
+</p>
+
+
+
+# Family Doc 
+
+Introducing Family Doc, a revolutionary healthcare application meticulously crafted in Swift with UIKit. Family Doc transforms your healthcare journey by seamlessly connecting you with an extensive network of healthcare providers. Whether you seek immediate virtual consultation or prefer a walk-in appointment, Family Doc ensures advanced and accessible healthcare services for your entire family.
+
+Key Features:
+
+Convenient virtual (chat, video) and walk-in appointment booking
+Enjoy the convenience of medication and lab test delivery to your doorstep
+Utilize your smartwatch and compatible devices for remote health monitoring
+Receive medication reminders, track vital readings, and stay on top of appointments
+Access healthcare tips and curated packages for maintaining a healthy lifestyle
+Seamlessly use your health insurance as typically done
+Simplify chronic prescription refills through easy communication with your doctor
+
+Exciting News:
+Family Doc will soon be available on TestFlight, bringing advanced healthcare solutions to your fingertips. 
+Embrace a new era of healthcare accessibility with Family Doc!
+
+ <p align="center">
+<img src="images/FamilyDoc/fm1.png" width="230"> 
+<img src="images/FamilyDoc/fm2.png" width="230"> 
+<img src="images/FamilyDoc/fm3.png" width="230"> 
+<img src="images/FamilyDoc/fm4.png" width="230"> 
+<img src="images/FamilyDoc/fm5.png" width="230"> 
+</p>
+
+
