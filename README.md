@@ -178,7 +178,25 @@ Embrace a new era of healthcare accessibility with Family Doc!
 <img src="images/FamilyDoc/fm2.png" width="230"> 
 <img src="images/FamilyDoc/fm3.png" width="230"> 
 <img src="images/FamilyDoc/fm4.png" width="230"> 
-<img src="images/FamilyDoc/fm5.png" width="230"> 
 </p>
 
+# MedicalAI 
+
+Introducing Medical AI, an innovative health companion designed with SwiftUI, currently under active development. Medical AI leverages cutting-edge OpenAI technology to provide users with a unique chatbot experience for discussing health-related articles. Users can seamlessly engage in conversations with the chatbot, exploring a wide range of health topics.
+
+Key Features:
+
+Interactive Chatbot: Engage in informative conversations with the AI-powered chatbot
+Health Article Discussions: Discuss and explore a variety of health-related articles
+Email Chat Transcripts: Conveniently email chat transcripts for future reference or sharing
+Article Search Functionality: Easily search and access a vast database of health articles
+SwiftUI Interface: Enjoy a modern and user-friendly interface crafted with SwiftUI
+Medical AI is poised to revolutionize how users interact with health information, providing a dynamic platform for discussions and insights. Stay tuned for exciting updates as we continue to enhance and refine the Medical AI experience. Join us on the journey to a smarter, more accessible healthcare future!
+
+ <p align="center">
+<img src="images/MedicalAi/md1.png" width="230"> 
+<img src="images/MedicalAi/md2.png" width="230"> 
+<img src="images/MedicalAi/md3.png" width="230"> 
+<img src="images/MedicalAi/md4.png" width="230"> 
+</p>
 
