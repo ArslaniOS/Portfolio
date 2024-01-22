@@ -82,8 +82,8 @@ Agile Methodology: Employed an agile development approach, fostering flexibility
 UI Self-Design: Took ownership of the UI design, ensuring a user-friendly and visually appealing interface to enhance the overall user experience.
 
  <p align="center">
-<img src="images/BwsAdmin/Bws1.png" width="230"> 
-  <img src="images/BwsAdmin/Bws1.png" width="230"> 
-  <img src="images/BwsAdmin/Bws1.png" width="230"> 
-  <img src="images/BwsAdmin/Bws1.png" width="230"> 
+<img src="images/Volleyball/Volley1.png" width="230"> 
+ <img src="images/Volleyball/Volley2.png" width="230"> 
+ <img src="images/Volleyball/Volley3.png" width="230"> 
+ <img src="images/Volleyball/Volley4.png" width="230"> 
 </p>
