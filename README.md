@@ -1,5 +1,3 @@
-# iOS Developer 
-
 
 # iHakeem 
 
