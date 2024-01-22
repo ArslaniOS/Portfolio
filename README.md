@@ -64,9 +64,9 @@ The development process followed the Agile methodology, promoting collaborative 
  
  <p align="center">
 <img src="images/BwsAdmin/Bws1.png" width="230"> 
-  <img src="images/BwsAdmin/Bws1.png" width="230"> 
-  <img src="images/BwsAdmin/Bws1.png" width="230"> 
-  <img src="images/BwsAdmin/Bws1.png" width="230"> 
+  <img src="images/BwsAdmin/Bws2.png" width="230"> 
+  <img src="images/BwsAdmin/Bws3.png" width="230"> 
+  <img src="images/BwsAdmin/Bws4.png" width="230"> 
 </p>
 
 
