@@ -155,9 +155,9 @@ This comprehensive app not only facilitates sports enthusiasts but also serves a
 
 
 
-# Family Doc 
+# Intely Health
 
-Introducing Family Doc, a revolutionary healthcare application meticulously crafted in Swift with UIKit. Family Doc transforms your healthcare journey by seamlessly connecting you with an extensive network of healthcare providers. Whether you seek immediate virtual consultation or prefer a walk-in appointment, Family Doc ensures advanced and accessible healthcare services for your entire family.
+Introducing Intely health, a revolutionary healthcare application meticulously crafted in Swift with UIKit. Intely health transforms your healthcare journey by seamlessly connecting you with an extensive network of healthcare providers. Whether you seek immediate virtual consultation or prefer a walk-in appointment, Intely health ensures advanced and accessible healthcare services for your entire family.
 
 Key Features:
 
@@ -170,7 +170,7 @@ Seamlessly use your health insurance as typically done
 Simplify chronic prescription refills through easy communication with your doctor
 
 Exciting News:
-Family Doc will soon be available on TestFlight, bringing advanced healthcare solutions to your fingertips. 
+Intely health will soon be available on TestFlight, bringing advanced healthcare solutions to your fingertips. 
 Embrace a new era of healthcare accessibility with Family Doc!
 
  <p align="center">
@@ -199,4 +199,7 @@ Medical AI is poised to revolutionize how users interact with health information
 <img src="images/MedicalAi/md3.png" width="230"> 
 <img src="images/MedicalAi/md4.png" width="230"> 
 </p>
+
+
+
 
