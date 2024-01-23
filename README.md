@@ -194,7 +194,7 @@ MVVM Architecture
 The development process followed the Agile methodology, promoting collaborative efforts, adaptability, and iterative improvements across the project lifecycle.
  
  <p align="center">
-<img src="images/BwsAdmin/Bws1.png" width="230"> 
+<img src="images/BwsAdmin/bws1.png" width="230"> 
   <img src="images/BwsAdmin/bws2.png" width="230"> 
   <img src="images/BwsAdmin/bws3.png" width="230"> 
   <img src="images/BwsAdmin/bws4.png" width="230"> 
