@@ -59,6 +59,8 @@ Receive medication reminders, track vital readings, and stay on top of appointme
 Access healthcare tips and curated packages for maintaining a healthy lifestyle
 Seamlessly use your health insurance as typically done
 Simplify chronic prescription refills through easy communication with your doctor
+Challenges and Solutions:
+While working on Intely Health, a significant challenge arose during the implementation of a human avatar for doctor-patient interactions. The intricate task involved dynamically pointing out joints on the avatar during a call, allowing the doctor to visually correlate with the patient's concerns. The complexity escalated when the pointed joints had to be extracted from the avatar's URL and subsequently returned to the server for processing. Precision was crucial, necessitating meticulous string manipulations and URL handling to ensure accurate and reliable details were fetched, creating a seamless and interactive healthcare experience. This intricate process showcased my problem-solving skills and resilience in overcoming unique challenges.
 
 Exciting News:
 Intely health will soon be available on TestFlight, bringing advanced healthcare solutions to your fingertips. 
