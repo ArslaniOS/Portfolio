@@ -6,7 +6,7 @@
 
 Available on App Store! Link: [iHakeem](https://apps.apple.com/us/app/ihakeem/id1536719251?platform=iphone)
 
-**Project Overvieww**
+**Project Overview**
 Led the development of iHakeem, a cutting-edge healthcare platform built with Swift and UIKit. The project aimed to revolutionize healthcare experiences by seamlessly connecting users to a vast network of healthcare providers, offering advanced and accessible services.The iHakeem project stands as a testament to advancements in healthcare technology, providing users with a holistic and convenient healthcare experience.
 
 **Challenges and Achievements**
