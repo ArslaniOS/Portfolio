@@ -1,5 +1,3 @@
-<a href="https://www.linkedin.com/in/arslan-yahya-400907169/" target="_blank"></a>
-
 
 # iOS Apps
 
