@@ -1,4 +1,4 @@
-<a href="https://www.linkedin.com/in/arslan-yahya-400907169/" target="_blank"></a>&nbsp;&nbsp;<a href="Arslanyahya700@gmail.com"><img src="https://img.shields.io/badge/logo=minutemailer&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/arslan-yahya-400907169/" target="_blank"></a>
 
 
 # iOS Apps
