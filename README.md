@@ -1,4 +1,4 @@
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/arslan-yahya-400907169/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/arslan-yahya-400907169/)
 
 # iOS Apps 
 
