@@ -1,4 +1,4 @@
-<a href="https://www.linkedin.com/in/arslan-yahya-400907169/" target="_blank"></a>&nbsp;&nbsp;<a href="Arslanyahya700@gmail.com">
+<a href="https://www.linkedin.com/in/arslan-yahya-400907169/" target="_blank"></a>&nbsp;&nbsp;<a href="Arslanyahya700@gmail.com"></a>
 
 # iOS Apps
 
