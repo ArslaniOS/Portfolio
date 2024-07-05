@@ -6,35 +6,14 @@
 
 Available on App Store! Link: [iHakeem](https://apps.apple.com/us/app/ihakeem/id1536719251?platform=iphone)
 
-**Project Overview**
-Led the development of iHakeem, a cutting-edge healthcare platform built with Swift and UIKit. The project aimed to revolutionize healthcare experiences by seamlessly connecting users to a vast network of healthcare providers, offering advanced and accessible services.The iHakeem project stands as a testament to advancements in healthcare technology, providing users with a holistic and convenient healthcare experience.
+**Company Name**: Alamana Technology Gen. Trading Co, Quait
+**Project Duration**: June 2021 to oct 2022
+**Tools/Technologies/Environment**: Swift UIKit, Xcode, iOS Sdk's
+**Role**: iOS Developer 
+**Team Size**: 7
+**Project Domain**:The project aimed to revolutionize healthcare experiences by seamlessly connecting users to a vast network of healthcare providers, offering advanced and accessible services.The iHakeem project stands as a testament to advancements in healthcare technology, providing users with a holistic and convenient healthcare experience.
+**Major Achievements**: Developed, led, and successful go-live deployment in the Quait 
 
-**Challenges and Achievements**
-- Overcame challenges in integrating hardware medical devices, delving into Bluetooth Core Low Energy (BLE) and High Energy (Classic). Successfully integrated functionalities for weight measurement, Omron blood pressure monitoring, and blood sugar level tracking.
-- During a critical phase of handling a substantial influx of data, I devised a groundbreaking solution: dynamic views. Faced with the challenge of managing vast quantities of information efficiently, this innovative approach revolutionized our data handling processes.
-- When faced with performance issues in the iHakeem application, I tackled the challenge by implementing dependency injection. This decision aimed to optimize memory usage and enhance overall app performance. By introducing dependency injection, the code became more readable and manageable, leading to improved application stability and efficiency.
-  
-**Project Goal**
-iHakeem was born with a singular mission: to revolutionize healthcare delivery through the power of technology. Our vision was to craft a platform that seamlessly connects users with healthcare providers, introducing innovative features that redefine the standards of interactive healthcare solutions. With iHakeem, we've created a user-friendly ecosystem that not only facilitates access to healthcare services but also fosters meaningful engagements between users and providers. Join us in reshaping the future of healthcare with iHakeem.
-
-**Tech Used**
-- Swift UIKit 
-- Vonage(OpenTok)
-- Cloud Service Azure
-- Core Data
-- RESTful API’s
-- Socket.IO
-- Push Notification
-- Firebase
-- Corebluetooth
-- Google Maps
-- Health kit 
-  
-**Tech Skills**
-- Software development
-- iOS development
-- Integration of software components
-- Project leadership
 
  <p align="center">
 <img src="images/iHakeem/iHakeem1.png" width="230"> 
