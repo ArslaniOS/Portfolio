@@ -41,7 +41,7 @@ Available on App Store! Link: [iHakeem](https://apps.apple.com/us/app/ihakeem/id
 | **Role**               | iOS Developer |
 | **Team Size**          | 8 |
 | **Project Domain**     | The project aimed to revolutionize healthcare experiences by seamlessly connecting users to an extensive network of healthcare providers.|
-| **Major Achievements** | Project leadership, Software Development,Integration of software components|
+| **Major Achievements** | Dynamically pointed out joints on the avatar during calls, enhancing visual correlation with patient concerns.Extracted pointed joints from the avatar's URL and processed them on the server for accurate details. Project leadership, Software Development,Integration of software components|
 
 
  <p align="center">
