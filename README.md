@@ -118,8 +118,8 @@ Available on App Store! Link: [BwsAdmin](https://apps.apple.com/pk/app/book-with
 | **Tools/Technologies/Environment** |Swift UIKIT, Xcode, iOS SDKs|
 | **Role**               | iOS Developer |
 | **Team Size**          | 4 |
-| **Project Domain**     | In a remarkable achievement, the Book with Star Admin app was successfully delivered within a tight 3-month timeframe. This cutting-edge sports tournament management app is strategically designed to enhance the experience for players, team managers, and referees, setting a new standard in the industry.|
-| **Major Achievements** | Completed and successfully go-live |
+| **Project Domain**     |  This cutting-edge sports tournament management app is strategically designed to enhance the experience for players, team managers, and referees, setting a new standard in the industry.|
+| **Major Achievements** |In a remarkable achievement, the Book with Star Admin app was successfully delivered within a tight 3-month timeframe and successfully go-live |
 
 
  <p align="center">
