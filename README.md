@@ -31,34 +31,18 @@ Available on App Store! Link: [iHakeem](https://apps.apple.com/us/app/ihakeem/id
 
 # Intely Health
 
-**Project Overvieww**
-Led the development of Intely Health, a groundbreaking healthcare application built using Swift with UIKit. The project aimed to revolutionize healthcare experiences by seamlessly connecting users to an extensive network of healthcare providers.
+## Project Details
 
-**Challenges and Achievements**
-- Overcame challenges to implement a human avatar for doctor-patient interactions.Dynamically pointed out joints on the avatar during calls, enhancing visual correlation with patient concerns.Extracted pointed joints from the avatar's URL and processed them on the server for accurate details.
-- When confronted with the need to display a popup with a custom view in the application, I encountered difficulties in finding suitable third-party solutions. In response, I opted to develop a custom solution by creating a tailored popup that accommodates images, text, and additional functionality. This initiative allowed for greater control over the popup's design and behavior, ensuring a seamless user experience aligned with the project's requirements.
-  
-**Project Goal** 
-The primary goal of the Intely Health project was to enhance and modernize healthcare delivery by leveraging technology. The focus was on creating a user-friendly platform that connects users with healthcare providers, offers innovative features, and sets a higher standard for interactive healthcare solutions.
+| **Attribute**          | **Description** |
+|------------------------|------------------|
+| **Company Name**       | iMedHealth, USA |
+| **Project Duration**   | Aug 2022 to Dec 2023 |
+| **Tools/Technologies/Environment** | Swift UIKit, Xcode, iOS SDKs|
+| **Role**               | iOS Developer |
+| **Team Size**          | 8 |
+| **Project Domain**     | The project aimed to revolutionize healthcare experiences by seamlessly connecting users to an extensive network of healthcare providers.|
+| **Major Achievements** | Project leadership, Software Development,Integration of software components|
 
-**Tech Used**
-- Swift UIKit 
-- Vonage(OpenTok)
-- Cloud Service AWS
-- RESTful API’s
-- Socket.IO
-- Push Notification
-- Firebase
-- Corebluetooth
-- Google Maps
-- Health kit
-- MVVM 
-  
-**Tech Skills**
-- Software development
-- iOS development
-- Integration of software components
-- Project leadership
 
  <p align="center">
 <img src="images/FamilyDoc/fm1.png" width="230"> 
@@ -69,44 +53,17 @@ The primary goal of the Intely Health project was to enhance and modernize healt
 
 # MedicalAI 
 
-**Project Overvieww**
-Pioneered the development of Medical AI, a groundbreaking health companion crafted with SwiftUI. The project harnessed advanced OpenAI technology to introduce an innovative chatbot, offering insightful and engaging health-related conversations.
+## Project Details
 
-**Challenges and Achievements**
-Visionary Health Companion:
-- Spearheaded the development of Medical AI, redefining user engagement in health discussions.Integrated advanced OpenAI technology to create an innovative chatbot for insightful conversations.
-- In my initial foray into working with Combine, I undertook the task of implementing a generic network class to manage responses. Despite being a newcomer to Combine, I successfully navigated the intricacies and complexities of asynchronous programming to handle network responses effectively. This milestone marked my progression in embracing modern reactive programming paradigms and further enriched my skill set as an iOS developer
-  
-
-**Software Development Leadership**
-Led software development and iOS development efforts for the project.
-Orchestrated the seamless integration of software components to ensure optimal performance.
-
-**Project Leadership**
-Positioned as the project lead for the Medical AI initiative, showcasing leadership and technical prowess.
-Stay tuned for the upcoming launch, marking a milestone in revolutionizing health-related user experiences.
-
-**Interactive Features**
-Engage in informative conversations with the AI-powered chatbot for an interactive experience.
-Discuss and explore a variety of health-related articles for insightful information.
-
-**Ongoing Enhancements**
-Stay tuned for exciting updates as we enhance and refine the Medical AI experience.
-Join us on the journey to a smarter, more accessible healthcare future.
-The Medical AI project stands at the forefront of leveraging AI technology to create a dynamic and interactive platform for health-related discussions and insights.
-
-**Tech Used**
-- SwiftUI 
-- OpenAI API’s
-- Push Notification
-- Firebase
-- MVVM 
-  
-**Tech Skills**
-- Software development
-- iOS development
-- Integration of software components
-- Project leadership
+| **Attribute**          | **Description** |
+|------------------------|------------------|
+| **Company Name**       | Naples, Florida 34119 |
+| **Project Duration**   | Aug 2022 to Dec 2023 |
+| **Tools/Technologies/Environment** | SwiftUI, Xcode, iOS SDKs|
+| **Role**               | iOS Developer |
+| **Team Size**          | 4 |
+| **Project Domain**     | Pioneered the development of Medical AI, a groundbreaking health companion crafted with SwiftUI. The project harnessed advanced OpenAI technology to introduce an innovative chatbot, offering insightful and engaging health-related conversations.|
+| **Major Achievements** | Project leadership, Software Development,Integration of software components|
 
  <p align="center">
 <img src="images/MedicalAi/md1.png" width="230"> 
