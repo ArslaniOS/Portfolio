@@ -12,8 +12,8 @@ Available on App Store! Link: [iHakeem](https://apps.apple.com/us/app/ihakeem/id
 |------------------------|------------------|
 | **Company Name**       | Alamana Technology Gen. Trading Co, Kuwait |
 | **Project Duration**   | June 2021 to October 2022 |
-| **Tools/Technologies/Environment** | Swift UIKit, Xcode, iOS SDKs,Cloud Service Azure,Core Data,Socket.IO,Corebluetooth
-,Health kit,Unit Testing |
+| **Tools/Technologies/Environment** | Swift UIKit, Xcode, iOS SDKs, Cloud Service Azure, Core Data,Socket.IO, Corebluetooth
+,Health kit, Unit Testing, Almaofire, Firebase|
 | **Role**               | iOS Developer |
 | **Team Size**          | 7 |
 | **Project Domain**     | The iHakeem project aimed to revolutionize healthcare experiences by seamlessly connecting users to a vast network of healthcare providers, offering advanced and accessible services, Including features like video calls, secure payment processing with saved receipts, and the ability to locate nearby pharmacies and order medications directly from the iHakeem app. |
@@ -38,7 +38,8 @@ Available on App Store! Link: [iHakeem](https://apps.apple.com/us/app/ihakeem/id
 |------------------------|------------------|
 | **Company Name**       | iMedHealth, USA |
 | **Project Duration**   | Aug 2022 to Dec 2023 |
-| **Tools/Technologies/Environment** | Swift UIKit, Xcode, iOS SDKs|
+| **Tools/Technologies/Environment** | Swift UIKit, Xcode, iOS SDKs,loud Service Azure,Socket.IO,
+ Unit Testing, Almaofire, Firebase|
 | **Role**               | iOS Developer |
 | **Team Size**          | 8 |
 | **Project Domain**     | The project aimed to revolutionize healthcare experiences by seamlessly connecting users to an extensive network of healthcare providers.|
@@ -60,7 +61,7 @@ Available on App Store! Link: [iHakeem](https://apps.apple.com/us/app/ihakeem/id
 |------------------------|------------------|
 | **Company Name**       | My Florida Green, Naples, Florida 34119 |
 | **Project Duration**   |Dec 2023 to Fab 2024 |
-| **Tools/Technologies/Environment** | SwiftUI, Xcode, iOS SDKs|
+| **Tools/Technologies/Environment** | SwiftUI, Xcode, iOS SDKs, OpenAI, ImageProcessing, Socket.IO, Combine, Moduler Approch|
 | **Role**               | iOS Developer |
 | **Team Size**          | 4 |
 | **Project Domain**     | Pioneered the development of Medical AI, a groundbreaking health companion crafted with SwiftUI. The project harnessed advanced OpenAI technology to introduce an innovative chatbot, offering insightful and engaging health-related conversations.|
@@ -87,7 +88,7 @@ Available on App Store! Link: [Coaches](https://apps.apple.com/pk/app/star-acade
 |------------------------|------------------|
 | **Company Name**       | Book With Star, UAE|
 | **Project Duration**   | Jan 2021 to Dec 2022 |
-| **Tools/Technologies/Environment** |  Objective-C, Xcode, iOS SDKs|
+| **Tools/Technologies/Environment** |  Objective-C, Xcode, iOS SDKs, AVFoundation, Alamofire, Live Channels|
 | **Role**               | iOS Developer |
 | **Team Size**          | 4 |
 | **Project Domain**     | The application is strategically designed to elevate the overall educational experience, with a particular focus on students aspiring to become coaches. By seamlessly organizing day-to-day workloads, the app enhances efficiency and empowers students on their educational journey.|
@@ -116,7 +117,7 @@ Available on App Store! Link: [BwsAdmin](https://apps.apple.com/pk/app/book-with
 |------------------------|------------------|
 | **Company Name**       | Book With Star, UAE|
 | **Project Duration**   | July 2023 to oct 2023 |
-| **Tools/Technologies/Environment** |Swift UIKIT, Xcode, iOS SDKs|
+| **Tools/Technologies/Environment** |Swift UIKIT, Xcode, iOS SDKs, Combine, Kingfisher, Lottie-Animations|
 | **Role**               | iOS Developer |
 | **Team Size**          | 4 |
 | **Project Domain**     |  This cutting-edge sports tournament management app is strategically designed to enhance the experience for players, team managers, and referees, setting a new standard in the industry.|
