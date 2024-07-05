@@ -12,8 +12,7 @@ Available on App Store! Link: [iHakeem](https://apps.apple.com/us/app/ihakeem/id
 |------------------------|------------------|
 | **Company Name**       | Alamana Technology Gen. Trading Co, Kuwait |
 | **Project Duration**   | June 2021 to October 2022 |
-| **Tools/Technologies/Environment** |  Swift(5), Xcode, iOS SDKs,loud Service Azure,Socket.IO,
- Unit Testing, Almaofire, Firebase|
+| **Tools/Technologies/Environment** |  Swift(5), Xcode, iOS SDKs,loud Service Azure,Socket.IO
 | **Role**               | iOS Developer |
 | **Team Size**          | 7 |
 | **Project Domain**     | The iHakeem project aimed to revolutionize healthcare experiences by seamlessly connecting users to a vast network of healthcare providers, offering advanced and accessible services, Including features like video calls, secure payment processing with saved receipts, and the ability to locate nearby pharmacies and order medications directly from the iHakeem app. |
