@@ -6,9 +6,12 @@
 
 Available on App Store! Link: [iHakeem](https://apps.apple.com/us/app/ihakeem/id1536719251?platform=iphone)
 
-**Company Name**: Alamana Technology Gen. Trading Co, Quait
-**Project Duration**: June 2021 to oct 2022
-**Tools/Technologies/Environment**: Swift UIKit, Xcode, iOS Sdk's
+**Company Name**: 
+ Alamana Technology Gen. Trading Co, Quait
+**Project Duration**:
+June 2021 to oct 2022
+**Tools/Technologies/Environment**: 
+Swift UIKit, Xcode, iOS Sdk's
 **Role**: iOS Developer 
 **Team Size**: 7
 **Project Domain**:The project aimed to revolutionize healthcare experiences by seamlessly connecting users to a vast network of healthcare providers, offering advanced and accessible services.The iHakeem project stands as a testament to advancements in healthcare technology, providing users with a holistic and convenient healthcare experience.
