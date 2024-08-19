@@ -51,6 +51,28 @@ Available on App Store! Link: [iHakeem](https://apps.apple.com/us/app/ihakeem/id
 <img src="images/FamilyDoc/fm4.png" width="230"> 
 </p>
 
+# HSA Second Opinion 
+Available on App Store! Link: [iHakeem](https://apps.apple.com/us/app/hsa-second-opinion/id6503679610)
+## Project Details
+
+| **Attribute**          | **Description** |
+|------------------------|------------------|
+| **Company Name**       | HSA Second Opinion, Pakistan|
+| **Project Duration**   |Fab 2024 to Aug 2024 |
+| **Tools/Technologies/Environment** | SwiftUI, Xcode, iOS SDKs, JazzCash, SendbirdUIKit, Alamofire, Agile Methodologies, Jira, MVVM, Moduler Approch|
+| **Role**               | iOS Developer |
+| **Team Size**          | 3 |
+| **Project Domain**     | Expertly developed the HSA Second Opinion Utility App, enabling users to securely obtain professional medical opinions and real-time consultations from experienced doctors, all from the convenience of their home or office.|
+| **Major Achievements** |Software Development, Integration of software components, Deployed on Playstore. |
+
+ <p align="center">
+<img src="images/HSA/HS1.png" width="230"> 
+<img src="images//HSA/HS2.png" width="230"> 
+<img src="images//HSA/HS3.png" width="230"> 
+<img src="images//HSA/HS5.png" width="230"> 
+</p>
+
+
 # MedicalAI 
 
 ## Project Details
