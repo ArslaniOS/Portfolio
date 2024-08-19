@@ -59,11 +59,11 @@ Available on App Store! Link: [HSA](https://apps.apple.com/us/app/hsa-second-opi
 |------------------------|------------------|
 | **Company Name**       | HSA Second Opinion, Pakistan|
 | **Project Duration**   |Fab 2024 to Aug 2024 |
-| **Tools/Technologies/Environment** | SwiftUI, Xcode, iOS SDKs, JazzCash, SendbirdUIKit, Alamofire, Agile Methodologies, Jira, MVVM, Moduler Approch|
+| **Tools/Technologies/Environment** | SwiftUI, Xcode, iOS SDKs, JazzCash, SendbirdUIKit, Alamofire, Agile Methodologies, Jira, MVVM, Firebase, Moduler Approch|
 | **Role**               | iOS Developer |
 | **Team Size**          | 3 |
 | **Project Domain**     | Expertly developed the HSA Second Opinion Utility App, enabling users to securely obtain professional medical opinions and real-time consultations from experienced doctors, all from the convenience of their home or office.|
-| **Major Achievements** |Software Development, Integration of software components, Deployed on Playstore. |
+| **Major Achievements** |Integrated software components and successfully deployed the application on the Play Store.|
 
  <p align="center">
 <img src="images/HSA/HS1.png" width="230"> 
@@ -94,6 +94,31 @@ Available on App Store! Link: [HSA](https://apps.apple.com/us/app/hsa-second-opi
 <img src="images/MedicalAi/md4.png" width="230"> 
 </p>
 
+# Book With Star
+
+Available on App Store! Link: [BWS](https://apps.apple.com/pk/app/book-with-star/id1629308220) 
+
+**Project Overvieww**
+
+
+## Project Details
+
+| **Attribute**          | **Description** |
+|------------------------|------------------|
+| **Company Name**       | Book With Star, UAE|
+| **Project Duration**   | March 2022 to Oct 2022 |
+| **Tools/Technologies/Environment** | SwiftUI, Xcode, iOS SDKs, AVFoundation, Combine, Google Maps, Firebase|
+| **Role**               | iOS Developer |
+| **Team Size**          | 4 |
+| **Project Domain**     | Developed the Star Academies app to streamline coaching and learning for students and coaches, offering easy access to training schedules, lesson plans, and attendance tracking, all while keeping users updated with academy news.|
+| **Major Achievements** |Bridged UIKit with integrated software components, leading to a successful deployment on the Play Store.|
+
+
+ <p align="center">
+<img src="images/bws/bw1.png" width="230"> 
+<img src="images/bws/bw2.png" width="230"> 
+<img src="images/bws/bw3.png" width="230"> 
+</p>
 
 # Star Academies Coaches
 
