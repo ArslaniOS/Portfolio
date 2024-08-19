@@ -52,7 +52,7 @@ Available on App Store! Link: [iHakeem](https://apps.apple.com/us/app/ihakeem/id
 </p>
 
 # HSA Second Opinion 
-Available on App Store! Link: [iHakeem](https://apps.apple.com/us/app/hsa-second-opinion/id6503679610)
+Available on App Store! Link: [HSA](https://apps.apple.com/us/app/hsa-second-opinion/id6503679610)
 ## Project Details
 
 | **Attribute**          | **Description** |
