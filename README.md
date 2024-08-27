@@ -15,8 +15,7 @@ Available on App Store! Link: [Safi](https://apps.apple.com/pk/app/safi-stealth-
 | **Tools/Technologies/Environment** |  Swift(5), Azure, Socket.IO, HealthKit, Almaofire, Lottie-Animations, Google Maps, Google Places, Firebase, Relam, StoreKit, OpenTok(Video Calling), MVVM, Agile Methodologies, Jira | 
 | **Role**               | iOS Developer, Project Lead|
 | **Team Size**          | 6 |
-| **Project Domain**     | Safi Stealth Messenger is a secure communication tool designed to protect against phishing,
-smishing, and ransomware attacks by not requiring phone numbers or emails. |
+| **Project Domain**     | Safi Stealth Messenger is a secure communication tool designed to protect against phishing,smishing, and ransomware attacks by not requiring phone numbers or emails.|
 | **Major Achievements** | Successfully converted the app to support offline storage and went live on the App Store. |
 
  <p align="center">
