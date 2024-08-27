@@ -45,6 +45,7 @@ Available on App Store! Link: [TheDocApp](https://apps.apple.com/pk/app/the-doc-
 <img src="images/DocApp/d1.png" width="230"> 
   <img src="images/DocApp/d2.png" width="230"> 
   <img src="images/DocApp/d3.png" width="230"> 
+   <img src="images/DocApp/d4.png" width="230"> 
  
 </p>
 
