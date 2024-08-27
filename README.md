@@ -2,6 +2,30 @@
 
 # iOS Apps 
 
+# Safi - Stealth Messenger
+
+Available on App Store! Link: [Safi](https://apps.apple.com/pk/app/safi-stealth-messenger/id1006457669)
+
+## Project Details
+
+| **Attribute**          | **Description** |
+|------------------------|------------------|
+| **Company Name**       | Squealock Systems, Inc USA |
+| **Project Duration**   | Dec 2020 to March 2022 |
+| **Tools/Technologies/Environment** |  Swift(5), Azure, Socket.IO, HealthKit, Almaofire, Lottie-Animations, Google Maps, Google Places, Firebase, Relam, StoreKit, OpenTok(Video Calling), MVVM, Agile Methodologies, Jira | 
+| **Role**               | iOS Developer, Project Lead|
+| **Team Size**          | 6 |
+| **Project Domain**     | Safi Stealth Messenger is a secure communication tool designed to protect against phishing,
+smishing, and ransomware attacks by not requiring phone numbers or emails. |
+| **Major Achievements** | Successfully converted the app to support offline storage and went live on the App Store. |
+
+ <p align="center">
+<img src="images/stelth/st1.png" width="230"> 
+  <img src="images/iHakeem/st2.png" width="230"> 
+  <img src="images/iHakeem/st3.png" width="230"> 
+  <img src="images/iHakeem/st4.png" width="230"> 
+</p>
+
 # iHakeem 
 
 Available on App Store! Link: [iHakeem](https://apps.apple.com/us/app/ihakeem/id1536719251?platform=iphone)
