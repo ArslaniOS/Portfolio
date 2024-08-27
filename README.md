@@ -21,9 +21,9 @@ smishing, and ransomware attacks by not requiring phone numbers or emails. |
 
  <p align="center">
 <img src="images/stelth/st1.png" width="230"> 
-  <img src="images/iHakeem/st2.png" width="230"> 
-  <img src="images/iHakeem/st3.png" width="230"> 
-  <img src="images/iHakeem/st4.png" width="230"> 
+  <img src="images/stelth/st2.png" width="230"> 
+  <img src="images/stelth/st3.png" width="230"> 
+  <img src="images/stelth/st4.png" width="230"> 
 </p>
 
 # iHakeem 
