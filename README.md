@@ -25,6 +25,29 @@ Available on App Store! Link: [Safi](https://apps.apple.com/pk/app/safi-stealth-
   <img src="images/stelth/st4.png" width="230"> 
 </p>
 
+# The Doc App
+
+Available on App Store! Link: [TheDocApp](https://apps.apple.com/pk/app/the-doc-app/id1193483405)
+
+## Project Details
+
+| **Attribute**          | **Description** |
+|------------------------|------------------|
+| **Company Name**       | My Florida Green, USA |
+| **Project Duration**   | Jan 2021 to Aug 2023 |
+| **Tools/Technologies/Environment** |  Swift(5), UIKIT, Azure, MapKit, Almaofire, Lottie-Animations, Google Maps, Firebase,Vonage, MVVM, Agile Methodologies, Jira. | 
+| **Role**               | iOS Developer|
+| **Team Size**          | 4 |
+| **Project Domain**     |  Engineered an intuitive EMR (Electronic Medical Records) application, streamlining healthcare data management and enhancing patient care delivery.The application lets patients to view appointments history,contact, position, chat live, video call, view purchases, make payments, view invoices and more.|
+| **Major Achievements** |  Developed device integrations and successfully deployed the app live in the United States. |
+
+ <p align="center">
+<img src="images/DocApp/d1.png" width="230"> 
+  <img src="images/DocApp/d2.png" width="230"> 
+  <img src="images/DocApp/d3.png" width="230"> 
+ 
+</p>
+
 # iHakeem 
 
 Available on App Store! Link: [iHakeem](https://apps.apple.com/us/app/ihakeem/id1536719251?platform=iphone)
