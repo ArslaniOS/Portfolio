@@ -11,11 +11,11 @@
   <span style="vertical-align: middle;">![MVVM](https://img.shields.io/badge/MVVM-4CAF50?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAFoEvFoAAAAHElEQVR42mP8/5+hP6FQ1lY7BlNMUwEAUbgD/HUQYYAAAAASUVORK5CYII=)</span>
   <span style="vertical-align: middle;">![Firebase Cloud Messaging](https://img.shields.io/badge/FCM-FFCA28?logo=firebase&logoColor=black)</span>
   <span style="vertical-align: middle;">![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?logo=socket.io&logoColor=white)</span>
-   <span style="vertical-align: middle;">![Realm](https://img.shields.io/badge/Realm-39477F?logo=realm&logoColor=white)</span>
-      <span style="vertical-align: middle;">![Lottie](https://img.shields.io/badge/Lottie%20Animations-FF9900?logo=airbnb&logoColor=white)</span>
-         <span style="vertical-align: middle;">![Agile](https://img.shields.io/badge/Agile-2496ED?logo=agile&logoColor=white)</span>
-           <span style="vertical-align: middle;">![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white)</span
- <span style="vertical-align: middle;">![HealthKit](https://img.shields.io/badge/HealthKit-FF3B30?logo=apple&logoColor=white)</span>
+  <span style="vertical-align: middle;">![Realm](https://img.shields.io/badge/Realm-39477F?logo=realm&logoColor=white)</span>
+  <span style="vertical-align: middle;">![Lottie](https://img.shields.io/badge/Lottie%20Animations-FF9900?logo=airbnb&logoColor=white)</span>
+  <span style="vertical-align: middle;">![Agile](https://img.shields.io/badge/Agile-2496ED?logo=agile&logoColor=white)</span>
+  <span style="vertical-align: middle;">![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white)</span
+  <span style="vertical-align: middle;">![HealthKit](https://img.shields.io/badge/HealthKit-FF3B30?logo=apple&logoColor=white)</span>
   <span style="vertical-align: middle;">![Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure&logoColor=white)</span>
 
 
