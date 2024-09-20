@@ -158,20 +158,31 @@
 </div>
 
 
-# HSA Second Opinion 
-Available on App Store! Link: [HSA](https://apps.apple.com/us/app/hsa-second-opinion/id6503679610)
-## Project Details
+### [HSA Second Opinion](https://apps.apple.com/us/app/hsa-second-opinion/id6503679610) | <span style="vertical-align: middle; font-size: smaller;">(Ninja Technologies (Pvt) Ltd.)</span>
 
-| **Attribute**          | **Description** |
-|------------------------|------------------|
-| **Company Name**       | HSA Second Opinion, Pakistan|
-| **Project Duration**   |Fab 2024 to Aug 2024 |
-| **Tools/Technologies/Environment** | SwiftUI, Xcode, iOS SDKs, JazzCash, SendbirdUIKit, Alamofire, Agile Methodologies, Jira, MVVM, Firebase, Moduler Approch|
-| **Role**               | iOS Developer |
-| **Team Size**          | 3 |
-| **Project Domain**     | Expertly developed the HSA Second Opinion Utility App, enabling users to securely obtain professional medical opinions and real-time consultations from experienced doctors, all from the convenience of their home or office.|
-| **Major Achievements** |Integrated software components and successfully deployed the application on the Play Store.|
+- **Role:** iOS Developer
+- **Technologies:**
+ <span style="vertical-align: middle;">![SwiftUI](https://img.shields.io/badge/SwiftUI-FA7343?logo=swift&logoColor=white)</span>
+ <span style="vertical-align: middle;">![JazzCash](https://img.shields.io/badge/JazzCash-FD7E14?logo=money&logoColor=white)</span>
+  <span style="vertical-align: middle;">![MVVM](https://img.shields.io/badge/MVVM-4CAF50?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAFoEvFoAAAAHElEQVR42mP8/5+hP6FQ1lY7BlNMUwEAUbgD/HUQYYAAAAASUVORK5CYII=)</span>
+  <span style="vertical-align: middle;">![Firebase Cloud Messaging](https://img.shields.io/badge/FCM-FFCA28?logo=firebase&logoColor=black)</span>
+  <span style="vertical-align: middle;">![Sendbird](https://img.shields.io/badge/Sendbird-FF3B30?logo=sendbird&logoColor=white)</span>
 
+- **Features:**
+  - Securely connects users with healthcare professionals for real-time consultations.
+  - Offers seamless payment processing through JazzCash.
+  - Integrates messaging capabilities for enhanced communication between patients and doctors.
+    
+ **Challenges & Solutions:**
+  - Challenge: Ensuring secure and reliable communication during consultations.
+  - Solution: Implemented Sendbird for secure messaging and real-time communication.
+    
+  - Challenge: Integrating payment processing with minimal friction for users.
+  - Solution:  Integrated JazzCash with a user-friendly interface to streamline the payment process.
+
+  - Challenge: Coordinating a small team to meet tight deadlines.
+  - Solution: Utilized Agile methodologies to promote collaboration and quick iterations.
+     
 <div style="background-color: #f0f4f8; padding: 15px; border-radius: 5px; border: 1px solid #e0e0e0; margin-bottom: 30px;">
 <div style="display: flex; justify-content: space-between; margin-bottom: 10px;">
   <img src="images/HSA/HS1.png" alt="Screenshot 1" style="width: 25%; border: 1px solid #ccc; border-radius: 5px;">
