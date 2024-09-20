@@ -320,7 +320,7 @@
 
 ### Code2.0
 - *Role:** iOS Developer
-- **Technologies:**
+  **Technologies:**
 <span style="vertical-align: middle;">
     ![Realm](https://img.shields.io/badge/Realm-007AFF?logo=apple&logoColor=white)
 </span>
