@@ -195,6 +195,7 @@
   - 
 ### MedicalAI 
 - **Role:** iOS Developer
+- **Technologies:**
 <span style="vertical-align: middle;">![SwiftUI](https://img.shields.io/badge/SwiftUI-FA7343?logo=swift&logoColor=white)</span>
 <span style="vertical-align: middle;">![OpenAI](https://img.shields.io/badge/OpenAI-00A3E0?logo=openai&logoColor=white)</span>
 <span style="vertical-align: middle;">![Image Processing](https://img.shields.io/badge/Image_Processing-FF3B30?logo=apple&logoColor=white)</span>
@@ -223,6 +224,7 @@
 
 ### [ Book With Star](https://apps.apple.com/pk/app/book-with-star/id1629308220) | <span style="vertical-align: middle; font-size: smaller;">(Star Academies)</span>
 - **Role:** iOS Developer
+- **Technologies:**
 <span style="vertical-align: middle;">![SwiftUI](https://img.shields.io/badge/SwiftUI-FA7343?logo=swift&logoColor=white)</span>
 <span style="vertical-align: middle;">![AVFoundation](https://img.shields.io/badge/AVFoundation-FF3B30?logo=apple&logoColor=white)</span>
 <span style="vertical-align: middle;">![Combine](https://img.shields.io/badge/Combine-FF6F61?logo=apple&logoColor=white)</span>
@@ -252,7 +254,7 @@
 
 ### [Star Academies Coaches](https://apps.apple.com/pk/app/star-academies-coaches/id1540379452) | <span style="vertical-align: middle; font-size: smaller;">(Star Academies)</span>
 - **Role:** iOS Developer
-  
+- **Technologies:**  
 <span style="vertical-align: middle;">![Objective-C](https://img.shields.io/badge/Objective-C-6C8EBF?logo=apple&logoColor=white)</span>
 <span style="vertical-align: middle;">![AVFoundation](https://img.shields.io/badge/AVFoundation-FF3B30?logo=apple&logoColor=white)</span>
 <span style="vertical-align: middle;">![Alamofire](https://img.shields.io/badge/Alamofire-66CDAA?logo=swift&logoColor=white)</span>
@@ -284,7 +286,9 @@
 # Book with Star Admin
 ### [Book with Star Admin](https://apps.apple.com/pk/app/book-with-star-admin/id6451918028) | <span style="vertical-align: middle; font-size: smaller;">(Star Academies)</span>
 - **Role:** iOS Developer
-  <span style="vertical-align: middle;">![Swift UIKIT](https://img.shields.io/badge/SwiftUI-FF3B30?logo=swift&logoColor=white)</span>
+  
+- **Technologies:**
+   <span style="vertical-align: middle;">![Swift UIKIT](https://img.shields.io/badge/SwiftUI-FF3B30?logo=swift&logoColor=white)</span>
   <span style="vertical-align: middle;">![Xcode](https://img.shields.io/badge/Xcode-007AFF?logo=xcode&logoColor=white)</span>
 <span style="vertical-align: middle;">![Combine](https://img.shields.io/badge/Combine-6C8EBF?logo=apple&logoColor=white)</span>
 <span style="vertical-align: middle;">![Kingfisher](https://img.shields.io/badge/Kingfisher-1DA1F2?logo=swift&logoColor=white)</span>
@@ -315,7 +319,8 @@
 # Assessments 
 
 ### Code2.0
-*Role:** iOS Developer
+- *Role:** iOS Developer
+- **Technologies:**
 <span style="vertical-align: middle;">
     ![Realm](https://img.shields.io/badge/Realm-007AFF?logo=apple&logoColor=white)
 </span>
