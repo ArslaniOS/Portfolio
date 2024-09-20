@@ -83,23 +83,35 @@
 </div>
 
 
-
-# iHakeem 
-
-Available on App Store! Link: [iHakeem](https://apps.apple.com/us/app/ihakeem/id1536719251?platform=iphone)
-
-## Project Details
-
-| **Attribute**          | **Description** |
-|------------------------|------------------|
-| **Company Name**       | Alamana Technology Gen. Trading Co, Kuwait |
-| **Project Duration**   | June 2021 to October 2022 |
-| **Tools/Technologies/Environment** |  Swift(5), Azure, Socket.IO, HealthKit, Almaofire, Lottie-Animations, Google Maps, Google Places, Firebase, CoreData, Core-Bluetooth, Knet Payment Method, OpenTok(Video Calling), MVVM, Agile Methodologies, Jira | 
-| **Role**               | iOS Developer |
-| **Team Size**          | 7 |
-| **Project Domain**     | The iHakeem project aimed to revolutionize healthcare experiences by seamlessly connecting users to a vast network of healthcare providers, offering advanced and accessible services, Including features like video calls, secure payment processing with saved receipts, and the ability to locate nearby pharmacies and order medications directly from the iHakeem app. |
-| **Major Achievements** | Achieved successful integration of hardware devices with the application, even when SDKs were not available or supported. Developed, led, and successfully deployed the project live in Kuwait. |
-
+### [iHakeem](https://apps.apple.com/us/app/ihakeem/id1536719251?platform=iphone) | <span style="vertical-align: middle; font-size: smaller;">(Xeven Solutions (Pvt) Ltd.)</span>
+- **Role:** iOS Developer
+- **Technologies:**
+  <span style="vertical-align: middle;">![Swift](https://img.shields.io/badge/Swift-FA7343?logo=swift&logoColor=white%22%20alt=%22Swift%20Badge%22)</span>
+  <span style="vertical-align: middle;">![MVVM](https://img.shields.io/badge/MVVM-4CAF50?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAFoEvFoAAAAHElEQVR42mP8/5+hP6FQ1lY7BlNMUwEAUbgD/HUQYYAAAAASUVORK5CYII=)</span>
+  <span style="vertical-align: middle;">![Firebase Cloud Messaging](https://img.shields.io/badge/FCM-FFCA28?logo=firebase&logoColor=black)</span>
+  <span style="vertical-align: middle;">![OpenTok](https://img.shields.io/badge/OpenTok-1A73E8?logo=apple&logoColor=white)</span>
+  <span style="vertical-align: middle;">![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?logo=socket.io&logoColor=white)</span>
+  <span style="vertical-align: middle;">![Realm](https://img.shields.io/badge/Realm-39477F?logo=realm&logoColor=white)</span>
+  <span style="vertical-align: middle;">![Lottie](https://img.shields.io/badge/Lottie%20Animations-FF9900?logo=airbnb&logoColor=white)</span>
+  <span style="vertical-align: middle;">![Core Bluetooth](https://img.shields.io/badge/Core_Bluetooth-4285F4?logo=bluetooth&logoColor=white)</span>
+  <span style="vertical-align: middle;">![Agile](https://img.shields.io/badge/Agile-2496ED?logo=agile&logoColor=white)</span>
+  <span style="vertical-align: middle;">![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white)</span>
+  <span style="vertical-align: middle;">![HealthKit](https://img.shields.io/badge/HealthKit-FF3B30?logo=apple&logoColor=white)</span>
+  <span style="vertical-align: middle;">![Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure&logoColor=white)</span>
+    <span style="vertical-align: middle;">![AVFoundation](https://img.shields.io/badge/AVFoundation-FF2D55?logo=apple&logoColor=white)</span>
+  <span style="vertical-align: middle;">![Kingfisher](https://img.shields.io/badge/Kingfisher-1DA1F2?logo=swift&logoColor=white)</span>
+  Knet Payment:
+<span style="vertical-align: middle;">![Knet Payment](https://img.shields.io/badge/Knet_Payment-FF3B30?logo=apple&logoColor=white)</span>
+  
+- **Features:**
+  - Seamlessly connected users to a vast network of healthcare providers, offering advanced services.
+  - Integrated video calls for real-time consultations with doctors.
+  - Secure payment processing with saved receipts using Knet Payment Method.
+  - ContaAbility to locate nearby pharmacies and order medications directly from the app.
+ **Challenges & Solutions:**
+  - Device Integration: Achieved successful integration of hardware devices, even when SDKs were unavailable or unsupported.
+  - Deployment: Developed, led, and successfully deployed the project live in Kuwait, enhancing the country's healthcare experience through innovative technology.
+    
 #### Screenshots:
 <div style="background-color: #f0f4f8; padding: 15px; border-radius: 5px; border: 1px solid #e0e0e0; margin-bottom: 30px;">
 <div style="display: flex; justify-content: space-between; margin-bottom: 10px;">
