@@ -42,21 +42,35 @@
 </div>
 
 
-# The Doc App
 
-Available on App Store! Link: [TheDocApp](https://apps.apple.com/pk/app/the-doc-app/id1193483405)
+### [The Doc App](https://apps.apple.com/pk/app/the-doc-app/id1193483405) | <span style="vertical-align: middle; font-size: smaller;">(Xeven Solutions (Pvt) Ltd.)</span>
+- **Role:** iOS Developer 
 
-## Project Details
+- **Technologies:**
+  <span style="vertical-align: middle;">![Swift](https://img.shields.io/badge/Swift-FA7343?logo=swift&logoColor=white%22%20alt=%22Swift%20Badge%22)</span>
+  <span style="vertical-align: middle;">![MVVM](https://img.shields.io/badge/MVVM-4CAF50?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAFoEvFoAAAAHElEQVR42mP8/5+hP6FQ1lY7BlNMUwEAUbgD/HUQYYAAAAASUVORK5CYII=)</span>
+  <span style="vertical-align: middle;">![Firebase Cloud Messaging](https://img.shields.io/badge/FCM-FFCA28?logo=firebase&logoColor=black)</span>
+  <span style="vertical-align: middle;">![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?logo=socket.io&logoColor=white)</span>
+  <span style="vertical-align: middle;">![Realm](https://img.shields.io/badge/Realm-39477F?logo=realm&logoColor=white)</span>
+  <span style="vertical-align: middle;">![Lottie](https://img.shields.io/badge/Lottie%20Animations-FF9900?logo=airbnb&logoColor=white)</span>
+  <span style="vertical-align: middle;">![Agile](https://img.shields.io/badge/Agile-2496ED?logo=agile&logoColor=white)</span>
+  <span style="vertical-align: middle;">![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white)</span>
+  <span style="vertical-align: middle;">![HealthKit](https://img.shields.io/badge/HealthKit-FF3B30?logo=apple&logoColor=white)</span>
+  <span style="vertical-align: middle;">![Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure&logoColor=white)</span>
+    <span style="vertical-align: middle;">![AVFoundation](https://img.shields.io/badge/AVFoundation-FF2D55?logo=apple&logoColor=white)</span>
+  <span style="vertical-align: middle;">![Kingfisher](https://img.shields.io/badge/Kingfisher-1DA1F2?logo=swift&logoColor=white)</span>
+  
+- **Features:**
+  - Developed an intuitive Electronic Medical Records (EMR) application that streamlines healthcare data management and enhances patient care delivery.
+  - Enabled patients to:
+  - View appointment history.
+  - Contact healthcare providers and see their location.
+  - View purchases, make payments, and review invoices.
 
-| **Attribute**          | **Description** |
-|------------------------|------------------|
-| **Company Name**       | My Florida Green, USA |
-| **Project Duration**   | Jan 2021 to Aug 2023 |
-| **Tools/Technologies/Environment** |  Swift(5), UIKIT, Azure, MapKit, Almaofire, Lottie-Animations, Google Maps, Firebase,Vonage, MVVM, Agile Methodologies, Jira. | 
-| **Role**               | iOS Developer|
-| **Team Size**          | 4 |
-| **Project Domain**     |  Engineered an intuitive EMR (Electronic Medical Records) application, streamlining healthcare data management and enhancing patient care delivery.The application lets patients to view appointments history,contact, position, chat live, video call, view purchases, make payments, view invoices and more.|
-| **Major Achievements** |  Developed device integrations and successfully deployed the app live in the United States. |
+- **Challenges & Solutions:**
+  - Data Synchronization: Overcame challenges related to healthcare data synchronization and management by utilizing Azure for cloud-based storage and real-time data updates.
+  - Regulatory Compliance: Ensured compliance with healthcare regulations while maintaining a high level of security, particularly with patient data during live video calls and communications.
+  - Deployment Success: Deployed the app live in the United States, delivering a robust solution for healthcare professionals and patients.
 
 #### Screenshots:
 <div style="background-color: #f0f4f8; padding: 15px; border-radius: 5px; border: 1px solid #e0e0e0; margin-bottom: 30px;">
