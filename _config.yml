@@ -1,6 +1,7 @@
  
 title: Arslan Nadeem
 logo: /images/assets/img.png
-show_downlads: true 
+show_downlads: false 
+description:" "
 LinkedIn: https://www.linkedin.com/in/arslan-yahya-400907169/
 theme: jekyll-theme-minimal
