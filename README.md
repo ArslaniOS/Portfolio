@@ -45,13 +45,17 @@ Available on App Store! Link: [TheDocApp](https://apps.apple.com/pk/app/the-doc-
 | **Project Domain**     |  Engineered an intuitive EMR (Electronic Medical Records) application, streamlining healthcare data management and enhancing patient care delivery.The application lets patients to view appointments history,contact, position, chat live, video call, view purchases, make payments, view invoices and more.|
 | **Major Achievements** |  Developed device integrations and successfully deployed the app live in the United States. |
 
- <p align="center">
-<img src="images/DocApp/d1.png" width="230"> 
-  <img src="images/DocApp/d2.png" width="230"> 
-  <img src="images/DocApp/d3.png" width="230"> 
-   <img src="images/DocApp/d4.png" width="230"> 
- 
-</p>
+#### Screenshots:
+<div style="background-color: #f0f4f8; padding: 15px; border-radius: 5px; border: 1px solid #e0e0e0; margin-bottom: 30px;">
+<div style="display: flex; justify-content: space-between; margin-bottom: 10px;">
+  <img src="images/DocApp/d1.png" alt="Screenshot 1" style="width: 25%; border: 1px solid #ccc; border-radius: 5px;">
+  <img src="images/DocApp/d2.png" alt="Screenshot 2" style="width: 25%; border: 1px solid #ccc; border-radius: 5px;">
+  <img src="images/DocApp/d3.png" alt="Screenshot 3" style="width: 25%; border: 1px solid #ccc; border-radius: 5px;">
+  <img src="images/DocApp/d4.png" alt="Screenshot 4" style="width: 25%; border: 1px solid #ccc; border-radius: 5px;">
+</div>
+</div>
+
+
 
 # iHakeem 
 
@@ -69,12 +73,15 @@ Available on App Store! Link: [iHakeem](https://apps.apple.com/us/app/ihakeem/id
 | **Project Domain**     | The iHakeem project aimed to revolutionize healthcare experiences by seamlessly connecting users to a vast network of healthcare providers, offering advanced and accessible services, Including features like video calls, secure payment processing with saved receipts, and the ability to locate nearby pharmacies and order medications directly from the iHakeem app. |
 | **Major Achievements** | Achieved successful integration of hardware devices with the application, even when SDKs were not available or supported. Developed, led, and successfully deployed the project live in Kuwait. |
 
- <p align="center">
-<img src="images/iHakeem/iHakeem1.png" width="230"> 
-  <img src="images/iHakeem/iHakeem2.png" width="230"> 
-  <img src="images/iHakeem/iHakeem3.png" width="230"> 
-  <img src="images/iHakeem/iHakeem4.png" width="230"> 
-</p>
+#### Screenshots:
+<div style="background-color: #f0f4f8; padding: 15px; border-radius: 5px; border: 1px solid #e0e0e0; margin-bottom: 30px;">
+<div style="display: flex; justify-content: space-between; margin-bottom: 10px;">
+  <img  src="images/iHakeem/iHakeem1.png" alt="Screenshot 1" style="width: 25%; border: 1px solid #ccc; border-radius: 5px;">
+  <img src="images/iHakeem/iHakeem2.png" alt="Screenshot 2" style="width: 25%; border: 1px solid #ccc; border-radius: 5px;">
+  <img src="images/iHakeem/iHakeem3.png"alt="Screenshot 3" style="width: 25%; border: 1px solid #ccc; border-radius: 5px;">
+  <img  src="images/iHakeem/iHakeem4.png" alt="Screenshot 4" style="width: 25%; border: 1px solid #ccc; border-radius: 5px;">
+</div>
+</div>
 
 
 
