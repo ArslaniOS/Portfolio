@@ -78,7 +78,7 @@ Available on App Store! Link: [iHakeem](https://apps.apple.com/us/app/ihakeem/id
 <div style="display: flex; justify-content: space-between; margin-bottom: 10px;">
   <img  src="images/iHakeem/iHakeem1.png" alt="Screenshot 1" style="width: 25%; border: 1px solid #ccc; border-radius: 5px;">
   <img src="images/iHakeem/iHakeem2.png" alt="Screenshot 2" style="width: 25%; border: 1px solid #ccc; border-radius: 5px;">
-  <img src="images/iHakeem/iHakeem3.png"alt="Screenshot 3" style="width: 25%; border: 1px solid #ccc; border-radius: 5px;">
+  <img src="images/iHakeem/iHakeem3.png" alt="Screenshot 3" style="width: 25%; border: 1px solid #ccc; border-radius: 5px;">
   <img  src="images/iHakeem/iHakeem4.png" alt="Screenshot 4" style="width: 25%; border: 1px solid #ccc; border-radius: 5px;">
 </div>
 </div>
@@ -101,13 +101,15 @@ Available on App Store! Link: [iHakeem](https://apps.apple.com/us/app/ihakeem/id
 | **Project Domain**     | The project aimed to revolutionize healthcare experiences by seamlessly connecting users to an extensive network of healthcare providers.|
 | **Major Achievements** | Dynamically pointed out joints on the avatar during calls, enhancing visual correlation with patient concerns.Extracted pointed joints from the avatar's URL and processed them on the server for accurate details. Project leadership, Software Development,Integration of software components|
 
+<div style="background-color: #f0f4f8; padding: 15px; border-radius: 5px; border: 1px solid #e0e0e0; margin-bottom: 30px;">
+<div style="display: flex; justify-content: space-between; margin-bottom: 10px;">
+  <img  src="images/FamilyDoc/fm1.png" alt="Screenshot 1" style="width: 25%; border: 1px solid #ccc; border-radius: 5px;">
+  <img src="images/FamilyDoc/fm2.png" alt="Screenshot 2" style="width: 25%; border: 1px solid #ccc; border-radius: 5px;">
+  <img src="images/FamilyDoc/fm3.png"  alt="Screenshot 3" style="width: 25%; border: 1px solid #ccc; border-radius: 5px;">
+  <img src="images/FamilyDoc/fm4.png" alt="Screenshot 4" style="width: 25%; border: 1px solid #ccc; border-radius: 5px;">
+</div>
+</div>
 
- <p align="center">
-<img src="images/FamilyDoc/fm1.png" width="230"> 
-<img src="images/FamilyDoc/fm2.png" width="230"> 
-<img src="images/FamilyDoc/fm3.png" width="230"> 
-<img src="images/FamilyDoc/fm4.png" width="230"> 
-</p>
 
 # HSA Second Opinion 
 Available on App Store! Link: [HSA](https://apps.apple.com/us/app/hsa-second-opinion/id6503679610)
@@ -123,12 +125,15 @@ Available on App Store! Link: [HSA](https://apps.apple.com/us/app/hsa-second-opi
 | **Project Domain**     | Expertly developed the HSA Second Opinion Utility App, enabling users to securely obtain professional medical opinions and real-time consultations from experienced doctors, all from the convenience of their home or office.|
 | **Major Achievements** |Integrated software components and successfully deployed the application on the Play Store.|
 
- <p align="center">
-<img src="images/HSA/HS1.png" width="230"> 
-<img src="images//HSA/HS2.png" width="230"> 
-<img src="images//HSA/HS3.png" width="230"> 
-<img src="images//HSA/HS5.png" width="230"> 
-</p>
+<div style="background-color: #f0f4f8; padding: 15px; border-radius: 5px; border: 1px solid #e0e0e0; margin-bottom: 30px;">
+<div style="display: flex; justify-content: space-between; margin-bottom: 10px;">
+  <img src="images/HSA/HS1.png" alt="Screenshot 1" style="width: 25%; border: 1px solid #ccc; border-radius: 5px;">
+  <img src="images//HSA/HS2.png" alt="Screenshot 2" style="width: 25%; border: 1px solid #ccc; border-radius: 5px;">
+  <img src="images//HSA/HS3.png"  alt="Screenshot 3" style="width: 25%; border: 1px solid #ccc; border-radius: 5px;">
+  <img src="images//HSA/HS5.png" alt="Screenshot 4" style="width: 25%; border: 1px solid #ccc; border-radius: 5px;">
+</div>
+</div>
+
 
 
 # MedicalAI 
@@ -145,12 +150,15 @@ Available on App Store! Link: [HSA](https://apps.apple.com/us/app/hsa-second-opi
 | **Project Domain**     | Pioneered the development of Medical AI, a groundbreaking health companion crafted with SwiftUI. The project harnessed advanced OpenAI technology to introduce an innovative chatbot, offering insightful and engaging health-related conversations.|
 | **Major Achievements** | Project leadership, Software Development,Integration of software components|
 
- <p align="center">
-<img src="images/MedicalAi/md1.png" width="230"> 
-<img src="images/MedicalAi/md2.png" width="230"> 
-<img src="images/MedicalAi/md3.png" width="230"> 
-<img src="images/MedicalAi/md4.png" width="230"> 
-</p>
+<div style="background-color: #f0f4f8; padding: 15px; border-radius: 5px; border: 1px solid #e0e0e0; margin-bottom: 30px;">
+<div style="display: flex; justify-content: space-between; margin-bottom: 10px;">
+  <img src="images/MedicalAi/md1.png" alt="Screenshot 1" style="width: 25%; border: 1px solid #ccc; border-radius: 5px;">
+  <img src="images/MedicalAi/md2.png" alt="Screenshot 2" style="width: 25%; border: 1px solid #ccc; border-radius: 5px;">
+  <img src="images/MedicalAi/md3.png" alt="Screenshot 3" style="width: 25%; border: 1px solid #ccc; border-radius: 5px;">
+  <img src="images/MedicalAi/md4.png" alt="Screenshot 4" style="width: 25%; border: 1px solid #ccc; border-radius: 5px;">
+</div>
+</div>
+
 
 # Book With Star
 
@@ -171,12 +179,14 @@ Available on App Store! Link: [BWS](https://apps.apple.com/pk/app/book-with-star
 | **Project Domain**     | Developed the Star Academies app to streamline coaching and learning for students and coaches, offering easy access to training schedules, lesson plans, and attendance tracking, all while keeping users updated with academy news.|
 | **Major Achievements** |Bridged UIKit with integrated software components, leading to a successful deployment on the Play Store.|
 
+<div style="background-color: #f0f4f8; padding: 15px; border-radius: 5px; border: 1px solid #e0e0e0; margin-bottom: 30px;">
+<div style="display: flex; justify-content: space-between; margin-bottom: 10px;">
+  <img src="images/bws/bw1.png" alt="Screenshot 1" style="width: 25%; border: 1px solid #ccc; border-radius: 5px;">
+  <img src="images/bws/bw2.png" alt="Screenshot 2" style="width: 25%; border: 1px solid #ccc; border-radius: 5px;">
+  <img src="images/bws/bw3.png" alt="Screenshot 3" style="width: 25%; border: 1px solid #ccc; border-radius: 5px;">
+</div>
+</div>
 
- <p align="center">
-<img src="images/bws/bw1.png" width="230"> 
-<img src="images/bws/bw2.png" width="230"> 
-<img src="images/bws/bw3.png" width="230"> 
-</p>
 
 # Star Academies Coaches
 
@@ -198,12 +208,15 @@ Available on App Store! Link: [Coaches](https://apps.apple.com/pk/app/star-acade
 | **Major Achievements** | Successful Technical go-live.|
 
 
- <p align="center">
-<img src="images/coach/ch1.png" width="230"> 
-<img src="images/coach/ch2.png" width="230"> 
-<img src="images/coach/ch3.png" width="230"> 
-<img src="images/coach/ch4.png" width="230"> 
-</p>
+<div style="background-color: #f0f4f8; padding: 15px; border-radius: 5px; border: 1px solid #e0e0e0; margin-bottom: 30px;">
+<div style="display: flex; justify-content: space-between; margin-bottom: 10px;">
+  <img src="images/coach/ch1.png" alt="Screenshot 1" style="width: 25%; border: 1px solid #ccc; border-radius: 5px;">
+  <img src="images/coach/ch2.png" alt="Screenshot 2" style="width: 25%; border: 1px solid #ccc; border-radius: 5px;">
+  <img src="images/coach/ch3.png" alt="Screenshot 3" style="width: 25%; border: 1px solid #ccc; border-radius: 5px;">
+   <img src="images/coach/ch4.png" alt="Screenshot 3" style="width: 25%; border: 1px solid #ccc; border-radius: 5px;">
+</div>
+</div>
+
 
 
 
@@ -226,13 +239,15 @@ Available on App Store! Link: [BwsAdmin](https://apps.apple.com/pk/app/book-with
 | **Project Domain**     |  This cutting-edge sports tournament management app is strategically designed to enhance the experience for players, team managers, and referees, setting a new standard in the industry.|
 | **Major Achievements** |In a remarkable achievement, the Book with Star Admin app was successfully delivered within a tight 3-month timeframe and successfully go-live |
 
+<div style="background-color: #f0f4f8; padding: 15px; border-radius: 5px; border: 1px solid #e0e0e0; margin-bottom: 30px;">
+<div style="display: flex; justify-content: space-between; margin-bottom: 10px;">
+  <img src="images/BwsAdmin/Bws1.png" alt="Screenshot 1" style="width: 25%; border: 1px solid #ccc; border-radius: 5px;">
+  <img src="images/BwsAdmin/bws2.png" alt="Screenshot 2" style="width: 25%; border: 1px solid #ccc; border-radius: 5px;">
+  <img  src="images/BwsAdmin/bws3.png" alt="Screenshot 3" style="width: 25%; border: 1px solid #ccc; border-radius: 5px;">
+   <img src="images/BwsAdmin/bws4.png" alt="Screenshot 3" style="width: 25%; border: 1px solid #ccc; border-radius: 5px;">
+</div>
+</div>
 
- <p align="center">
-<img src="images/BwsAdmin/Bws1.png" width="230"> 
-  <img src="images/BwsAdmin/bws2.png" width="230"> 
-  <img src="images/BwsAdmin/bws3.png" width="230"> 
-  <img src="images/BwsAdmin/bws4.png" width="230"> 
-</p>
 
 # Assessments 
 
@@ -242,11 +257,13 @@ Faced with a 5-day coding challenge, I successfully delivered a fully functional
 
 Explore the project and contribute on GitHub: [Code2.0](https://github.com/ArslaniOS/Code2.0.git).
 
- <p align="center">
-<img src="images/Code2.0/c1.png" width="230"> 
-<img src="images/Code2.0/c2.png" width="230"> 
-<img src="images/Code2.0/c3.png" width="230"> 
-<img src="images/Code2.0/c4.png" width="230"> 
+<div style="background-color: #f0f4f8; padding: 15px; border-radius: 5px; border: 1px solid #e0e0e0; margin-bottom: 30px;">
+<div style="display: flex; justify-content: space-between; margin-bottom: 10px;">
+  <img src="images/Code2.0/c1.png" alt="Screenshot 1" style="width: 25%; border: 1px solid #ccc; border-radius: 5px;">
+  <img src="images/Code2.0/c2.png" alt="Screenshot 2" style="width: 25%; border: 1px solid #ccc; border-radius: 5px;">
+  <img src="images/Code2.0/c3.png" alt="Screenshot 3" style="width: 25%; border: 1px solid #ccc; border-radius: 5px;">
+   <img src="images/Code2.0/c4.png" alt="Screenshot 3" style="width: 25%; border: 1px solid #ccc; border-radius: 5px;">
+</div>
+</div>
 
-</p>
 
