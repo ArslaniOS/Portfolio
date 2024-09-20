@@ -322,18 +322,7 @@
 - **Role:** iOS Developer 
 
 - **Technologies:**
-<span style="vertical-align: middle;">
-    ![Realm](https://img.shields.io/badge/Realm-007AFF?logo=apple&logoColor=white)
-</span>
-<span style="vertical-align: middle;">
-    ![Alamofire](https://img.shields.io/badge/Alamofire-0082C7?logo=swift&logoColor=white)
-</span>
-<span style="vertical-align: middle;">
-    ![SwiftUI](https://img.shields.io/badge/SwiftUI-FF4C00?logo=apple&logoColor=white)
-</span>
-<span style="vertical-align: middle;">
-    ![MVVM](https://img.shields.io/badge/MVVM-4A90E2?logo=swift&logoColor=white)
-</span>
+<span style="vertical-align: middle;"> ![Realm](https://img.shields.io/badge/Realm-007AFF?logo=apple&logoColor=white)</span>
 
 - **Features:**
   - Developed a fully functional movie app within a 5-day coding challenge, completing it in just 2 days.
