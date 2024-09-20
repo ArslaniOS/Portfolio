@@ -100,7 +100,6 @@
   <span style="vertical-align: middle;">![Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure&logoColor=white)</span>
     <span style="vertical-align: middle;">![AVFoundation](https://img.shields.io/badge/AVFoundation-FF2D55?logo=apple&logoColor=white)</span>
   <span style="vertical-align: middle;">![Kingfisher](https://img.shields.io/badge/Kingfisher-1DA1F2?logo=swift&logoColor=white)</span>
-  Knet Payment:
 <span style="vertical-align: middle;">![Knet Payment](https://img.shields.io/badge/Knet_Payment-FF3B30?logo=apple&logoColor=white)</span>
   
 - **Features:**
