@@ -223,7 +223,19 @@ Available on App Store! Link: [BwsAdmin](https://apps.apple.com/pk/app/book-with
   <img src="images/BwsAdmin/bws4.png" width="230"> 
 </p>
 
+# Assessments 
 
+# Code2.0
 
+Faced with a 5-day coding challenge, I successfully delivered a fully functional movie app in just 2 days. Built using SwiftUI, this app fetches and displays movie data in a dynamic grid, allows users to mark favorites, and provides detailed movie information. With offline support powered by Realm and a focus on smooth performance, I meticulously applied modular design principles and the MVVM architecture to ensure a modern and efficient solution.
 
+Explore the project and contribute on GitHub: [Code2.0](https://github.com/ArslaniOS/Code2.0.git).
+
+ <p align="center">
+<img src="images/Code2.0/c1.png" width="230"> 
+<img src="images/Code2.0/c2.png" width="230"> 
+<img src="images/Code2.0/c3.png" width="230"> 
+<img src="images/Code2.0/c4.png" width="230"> 
+
+</p>
 
