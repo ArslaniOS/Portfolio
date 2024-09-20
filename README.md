@@ -1,22 +1,29 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/arslan-nadeem-400907169/)
 
-# iOS Apps 
 
-# Safi - Stealth Messenger
+## Projects
 
-Available on App Store! Link: [Safi](https://apps.apple.com/pk/app/safi-stealth-messenger/id1006457669)
+### [Stealth Messenger](https://apps.apple.com/pk/app/safi-stealth-messenger/id1006457669) | <span style="vertical-align: middle; font-size: smaller;">(Xeven Solutions (Pvt) Ltd.)</span>
+- **Role:** iOS Developer 
 
-## Project Details
+- **Technologies:**
+  <span style="vertical-align: middle;">![Swift](https://img.shields.io/badge/Swift-FA7343?logo=swift&logoColor=white%22%20alt=%22Swift%20Badge%22)</span>
+  <span style="vertical-align: middle;">![MVVM](https://img.shields.io/badge/MVVM-4CAF50?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAFoEvFoAAAAHElEQVR42mP8/5+hP6FQ1lY7BlNMUwEAUbgD/HUQYYAAAAASUVORK5CYII=)</span>
+  <span style="vertical-align: middle;">![Firebase Cloud Messaging](https://img.shields.io/badge/FCM-FFCA28?logo=firebase&logoColor=black)</span>
+  <span style="vertical-align: middle;">![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?logo=socket.io&logoColor=white)</span>
+  <span style="vertical-align: middle;">![Apple in App Purchase](https://img.shields.io/badge/In--App%20Purchase-FFCC30?logo=apple&logoColor=white%22%20alt=%22In-App%20Purchase%20Badge)</span>
 
-| **Attribute**          | **Description** |
-|------------------------|------------------|
-| **Company Name**       | Squealock Systems, Inc USA |
-| **Project Duration**   | Dec 2020 to March 2022 |
-| **Tools/Technologies/Environment** |  Swift(5), Azure, Socket.IO, HealthKit, Almaofire, Lottie-Animations, Google Maps, Google Places, Firebase, Relam, StoreKit, OpenTok(Video Calling), MVVM, Agile Methodologies, Jira | 
-| **Role**               | iOS Developer, Project Lead|
-| **Team Size**          | 6 |
-| **Project Domain**     | Safi Stealth Messenger is a secure communication tool designed to protect against phishing,smishing, and ransomware attacks by not requiring phone numbers or emails.|
-| **Major Achievements** | Successfully converted the app to support offline storage and went live on the App Store. |
+
+- **Features:**
+  - Secure communication tool designed to protect against phishing, smishing, and ransomware attacks without requiring phone numbers or emails.
+  - Supported group chats, video calls, in-app purchases, and end-to-end encrypted messaging.
+  - Custom theme change functionality, allowing users to personalize their interface.
+
+- **Challenges & Solutions:**
+  - Successfully converted the app to support offline storage, improving user engagement and ensuring seamless functionality without internet access.
+  - Launched the app on the App Store, delivering a secure messaging solution.
+  - Optimized data fetching and UI performance, resolving issues with large datasets.
+
 
 #### Screenshots:
 <div style="background-color: #f0f4f8; padding: 15px; border-radius: 5px; border: 1px solid #e0e0e0; margin-bottom: 30px;">
