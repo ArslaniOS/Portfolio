@@ -192,21 +192,24 @@
 </div>
 </div>
 
-
-
-# MedicalAI 
-
-## Project Details
-
-| **Attribute**          | **Description** |
-|------------------------|------------------|
-| **Company Name**       | My Florida Green, Naples, Florida 34119 |
-| **Project Duration**   |Dec 2023 to Fab 2024 |
-| **Tools/Technologies/Environment** | SwiftUI, Xcode, iOS SDKs, OpenAI, ImageProcessing, Socket.IO, Combine, Moduler Approch|
-| **Role**               | iOS Developer |
-| **Team Size**          | 4 |
-| **Project Domain**     | Pioneered the development of Medical AI, a groundbreaking health companion crafted with SwiftUI. The project harnessed advanced OpenAI technology to introduce an innovative chatbot, offering insightful and engaging health-related conversations.|
-| **Major Achievements** | Project leadership, Software Development,Integration of software components|
+  - 
+### MedicalAI 
+- **Role:** iOS Developer
+<span style="vertical-align: middle;">![SwiftUI](https://img.shields.io/badge/SwiftUI-FA7343?logo=swift&logoColor=white)</span>
+<span style="vertical-align: middle;">![OpenAI](https://img.shields.io/badge/OpenAI-00A3E0?logo=openai&logoColor=white)</span>
+<span style="vertical-align: middle;">![Image Processing](https://img.shields.io/badge/Image_Processing-FF3B30?logo=apple&logoColor=white)</span>
+<span style="vertical-align: middle;">![Combine](https://img.shields.io/badge/Combine-FF6F61?logo=apple&logoColor=white)</span>
+<span style="vertical-align: middle;">![Modular Approach](https://img.shields.io/badge/Modular_Approach-4CAF50?logo=apple&logoColor=white)</span>
+- **Features:**
+  - Innovative Chatbot: Developed a health companion chatbot powered by OpenAI for engaging conversations.
+  - User-Friendly Interface: Crafted using SwiftUI for a modern and intuitive user experience.
+  - Real-Time Interaction: Enabled seamless interactions between users and the chatbot for immediate responses.
+    
+ **Challenges & Solutions:**
+  - Integration of OpenAI: Successfully integrated OpenAI technology to ensure accurate and relevant health conversations.
+  - Performance Optimization: Implemented performance optimizations for smooth user interactions and fast response times.
+  - Modular Architecture: Adopted a modular approach to ensure maintainability and scalability of the application.
+  - Tight Deadline Challenge: Faced the challenge of building the app in SwiftUI with a tight deadline of 2 months while still being relatively new to SwiftUI. Managed to learn and implement simultaneously, completing the project in just 15 days ahead of schedule.
 
 <div style="background-color: #f0f4f8; padding: 15px; border-radius: 5px; border: 1px solid #e0e0e0; margin-bottom: 30px;">
 <div style="display: flex; justify-content: space-between; margin-bottom: 10px;">
@@ -218,25 +221,26 @@
 </div>
 
 
-# Book With Star
+### [ Book With Star](https://apps.apple.com/pk/app/book-with-star/id1629308220) | <span style="vertical-align: middle; font-size: smaller;">(Star Academies)</span>
+- **Role:** iOS Developer
+<span style="vertical-align: middle;">![SwiftUI](https://img.shields.io/badge/SwiftUI-FA7343?logo=swift&logoColor=white)</span>
+<span style="vertical-align: middle;">![AVFoundation](https://img.shields.io/badge/AVFoundation-FF3B30?logo=apple&logoColor=white)</span>
+<span style="vertical-align: middle;">![Combine](https://img.shields.io/badge/Combine-FF6F61?logo=apple&logoColor=white)</span>
+<span style="vertical-align: middle;">![Google Maps](https://img.shields.io/badge/Google_Maps-4285F4?logo=googlemaps&logoColor=white)</span>
+<span style="vertical-align: middle;">![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=white)</span>
 
-Available on App Store! Link: [BWS](https://apps.apple.com/pk/app/book-with-star/id1629308220) 
-
-**Project Overvieww**
-
-
-## Project Details
-
-| **Attribute**          | **Description** |
-|------------------------|------------------|
-| **Company Name**       | Book With Star, UAE|
-| **Project Duration**   | March 2022 to Oct 2022 |
-| **Tools/Technologies/Environment** | SwiftUI, Xcode, iOS SDKs, AVFoundation, Combine, Google Maps, Firebase|
-| **Role**               | iOS Developer |
-| **Team Size**          | 4 |
-| **Project Domain**     | Developed the Star Academies app to streamline coaching and learning for students and coaches, offering easy access to training schedules, lesson plans, and attendance tracking, all while keeping users updated with academy news.|
-| **Major Achievements** |Bridged UIKit with integrated software components, leading to a successful deployment on the Play Store.|
-
+- **Features:**
+  - Coaching and Learning Platform: Developed the Star Academies app to streamline coaching and learning for students and coaches.
+  - Training Schedules: Provided easy access to training schedules, allowing users to plan their sessions efficiently.
+  - Lesson Plans: Offered structured lesson plans for better learning outcomes.
+  - Attendance Tracking: Implemented attendance tracking features to monitor student participation.
+  - News Updates: Kept users informed with real-time academy news and updates.
+    
+ **Challenges & Solutions:**
+  - Integration of UIKit and SwiftUI: Faced the challenge of bridging UIKit with integrated software components, which required extensive troubleshooting and adaptation to ensure compatibility.
+  - User Experience Optimization: Optimized the user experience while transitioning to SwiftUI, balancing performance with new features to meet user expectations.
+  - Deployment Timelines: Managed tight deadlines while ensuring all components were tested thoroughly before deployment.
+  
 <div style="background-color: #f0f4f8; padding: 15px; border-radius: 5px; border: 1px solid #e0e0e0; margin-bottom: 30px;">
 <div style="display: flex; justify-content: space-between; margin-bottom: 10px;">
   <img src="images/bws/bw1.png" alt="Screenshot 1" style="width: 25%; border: 1px solid #ccc; border-radius: 5px;">
@@ -246,26 +250,25 @@ Available on App Store! Link: [BWS](https://apps.apple.com/pk/app/book-with-star
 </div>
 
 
-# Star Academies Coaches
+### [Star Academies Coaches](https://apps.apple.com/pk/app/star-academies-coaches/id1540379452) | <span style="vertical-align: middle; font-size: smaller;">(Star Academies)</span>
+- **Role:** iOS Developer
+  
+<span style="vertical-align: middle;">![Objective-C](https://img.shields.io/badge/Objective-C-6C8EBF?logo=apple&logoColor=white)</span>
+<span style="vertical-align: middle;">![AVFoundation](https://img.shields.io/badge/AVFoundation-FF3B30?logo=apple&logoColor=white)</span>
+<span style="vertical-align: middle;">![Alamofire](https://img.shields.io/badge/Alamofire-66CDAA?logo=swift&logoColor=white)</span>
+<span style="vertical-align: middle;">![Live Channels](https://img.shields.io/badge/Live_Channels-FF3B30?logo=apple&logoColor=white)</span>
 
-Available on App Store! Link: [Coaches](https://apps.apple.com/pk/app/star-academies-coaches/id1540379452) 
-
-**Project Overvieww**
-
-
-## Project Details
-
-| **Attribute**          | **Description** |
-|------------------------|------------------|
-| **Company Name**       | Book With Star, UAE|
-| **Project Duration**   | Jan 2021 to Dec 2022 |
-| **Tools/Technologies/Environment** |  Objective-C, Xcode, iOS SDKs, AVFoundation, Alamofire, Live Channels|
-| **Role**               | iOS Developer |
-| **Team Size**          | 4 |
-| **Project Domain**     | The application is strategically designed to elevate the overall educational experience, with a particular focus on students aspiring to become coaches. By seamlessly organizing day-to-day workloads, the app enhances efficiency and empowers students on their educational journey.|
-| **Major Achievements** | Successful Technical go-live.|
-
-
+- **Features:**
+  - Educational Enhancement: Designed to elevate the overall educational experience for students aspiring to become coaches.
+  - Workload Organization: Seamlessly organized day-to-day workloads, helping users manage their time effectively.
+  - Efficiency Boost: Enhanced efficiency in task management, empowering students on their educational journey.
+  - Coaching Support: Provided tools and resources specifically tailored for students looking to pursue coaching careers.
+    
+ **Challenges & Solutions:**
+  - Transition to Objective-C: Faced the challenge of working with Objective-C for existing codebases, which required quick adaptation and learning.
+  - Integration of Live Channels: Successfully integrated Live Channels for real-time interactions, ensuring a smooth user experience.
+  - Deployment Timelines: Managed tight timelines to ensure a successful technical go-live while maintaining high-quality standards.
+    
 <div style="background-color: #f0f4f8; padding: 15px; border-radius: 5px; border: 1px solid #e0e0e0; margin-bottom: 30px;">
 <div style="display: flex; justify-content: space-between; margin-bottom: 10px;">
   <img src="images/coach/ch1.png" alt="Screenshot 1" style="width: 25%; border: 1px solid #ccc; border-radius: 5px;">
@@ -279,23 +282,25 @@ Available on App Store! Link: [Coaches](https://apps.apple.com/pk/app/star-acade
 
 
 # Book with Star Admin
+### [Book with Star Admin](https://apps.apple.com/pk/app/book-with-star-admin/id6451918028) | <span style="vertical-align: middle; font-size: smaller;">(Star Academies)</span>
+- **Role:** iOS Developer
+  <span style="vertical-align: middle;">![Swift UIKIT](https://img.shields.io/badge/SwiftUI-FF3B30?logo=swift&logoColor=white)</span>
+  <span style="vertical-align: middle;">![Xcode](https://img.shields.io/badge/Xcode-007AFF?logo=xcode&logoColor=white)</span>
+<span style="vertical-align: middle;">![Combine](https://img.shields.io/badge/Combine-6C8EBF?logo=apple&logoColor=white)</span>
+<span style="vertical-align: middle;">![Kingfisher](https://img.shields.io/badge/Kingfisher-1DA1F2?logo=swift&logoColor=white)</span>
+<span style="vertical-align: middle;">![Lottie](https://img.shields.io/badge/Lottie-FF3B30?logo=lottie&logoColor=white)</span>
+<span style="vertical-align: middle;">![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=white)</span>
 
-Available on App Store! Link: [BwsAdmin](https://apps.apple.com/pk/app/book-with-star-admin/id6451918028)
-
-**Project Overvieww**
-
-
-## Project Details
-
-| **Attribute**          | **Description** |
-|------------------------|------------------|
-| **Company Name**       | Book With Star, UAE|
-| **Project Duration**   | July 2023 to oct 2023 |
-| **Tools/Technologies/Environment** |Swift UIKIT, Xcode, iOS SDKs, Combine, Kingfisher, Lottie-Animations|
-| **Role**               | iOS Developer |
-| **Team Size**          | 4 |
-| **Project Domain**     |  This cutting-edge sports tournament management app is strategically designed to enhance the experience for players, team managers, and referees, setting a new standard in the industry.|
-| **Major Achievements** |In a remarkable achievement, the Book with Star Admin app was successfully delivered within a tight 3-month timeframe and successfully go-live |
+- **Features:**
+  - Tournament Management: Designed to enhance the experience for players, team managers, and referees in sports tournaments.
+  - User-Friendly Interface: Provided an intuitive and engaging user interface that streamlines tournament operations.
+  - Real-Time Updates: Enabled real-time updates and notifications for players and managers, ensuring everyone stays informed.
+  - Performance Tracking: Incorporated features for tracking player and team performance throughout tournaments.
+    
+ **Challenges & Solutions:**
+  - Tight Timeline: Successfully delivered the project within a tight 3-month timeframe, requiring effective time management and prioritization.
+  - Ensuring Quality: Maintained high-quality standards while meeting deadlines through rigorous testing and continuous feedback loops.
+  - Faced the challenge of managing dynamic UI, particularly in handling runtime columns and rows, ensuring a seamless user experience.
 
 <div style="background-color: #f0f4f8; padding: 15px; border-radius: 5px; border: 1px solid #e0e0e0; margin-bottom: 30px;">
 <div style="display: flex; justify-content: space-between; margin-bottom: 10px;">
@@ -309,9 +314,29 @@ Available on App Store! Link: [BwsAdmin](https://apps.apple.com/pk/app/book-with
 
 # Assessments 
 
-# Code2.0
+### Code2.0
+*Role:** iOS Developer
+<span style="vertical-align: middle;">
+    ![Realm](https://img.shields.io/badge/Realm-007AFF?logo=apple&logoColor=white)
+</span>
+<span style="vertical-align: middle;">
+    ![Alamofire](https://img.shields.io/badge/Alamofire-0082C7?logo=swift&logoColor=white)
+</span>
+<span style="vertical-align: middle;">
+    ![SwiftUI](https://img.shields.io/badge/SwiftUI-FF4C00?logo=apple&logoColor=white)
+</span>
+<span style="vertical-align: middle;">
+    ![MVVM](https://img.shields.io/badge/MVVM-4A90E2?logo=swift&logoColor=white)
+</span>
 
-Faced with a 5-day coding challenge, I successfully delivered a fully functional movie app in just 2 days. Built using SwiftUI, this app fetches and displays movie data in a dynamic grid, allows users to mark favorites, and provides detailed movie information. With offline support powered by Realm and a focus on smooth performance, I meticulously applied modular design principles and the MVVM architecture to ensure a modern and efficient solution.
+- **Features:**
+  - Developed a fully functional movie app within a 5-day coding challenge, completing it in just 2 days.
+  - The app fetches and displays movie data in a dynamic grid, allowing users to mark favorites and access detailed movie information.
+  - Integrated offline support powered by Realm for enhanced usability.
+     
+ **Challenges & Solutions:**
+  - Overcame the tight 2-day deadline while ensuring smooth performance and a modern user experience.
+  - Applied modular design principles and MVVM architecture to create an efficient and maintainable codebase, addressing the complexities of data fetching and UI updates.
 
 Explore the project and contribute on GitHub: [Code2.0](https://github.com/ArslaniOS/Code2.0.git).
 
