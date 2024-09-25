@@ -315,6 +315,7 @@
 </div>
 </div>
 
+<!-- 
 
 # Assessments 
 
@@ -345,6 +346,6 @@ Explore the project and contribute on GitHub: [Code2.0](https://github.com/Arsla
   <img src="images/Code2.0/c3.png" alt="Screenshot 3" style="width: 25%; border: 1px solid #ccc; border-radius: 5px;">
    <img src="images/Code2.0/c4.png" alt="Screenshot 3" style="width: 25%; border: 1px solid #ccc; border-radius: 5px;">
 </div>
-</div>
+</div> */
 
-
+-->
