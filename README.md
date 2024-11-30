@@ -30,7 +30,9 @@
   <img src="images/MedicalAi/md4.png" alt="Screenshot 4" style="width: 25%; border: 1px solid #ccc; border-radius: 5px;">
 </div>
 </div>
-### [Star Academies Coaches](https://apps.apple.com/pk/app/star-academies-coaches/id1540379452) | <span style="vertical-align: middle; font-size: smaller;">(Star Academies)</span>
+
+### [Star Academies Coaches](https://apps.apple.com/pk/app/star-academies-coaches/id1540379452) |
+<span style="vertical-align: middle; font-size: smaller;">(Star Academies)</span>
 - **Role:** iOS Developer
 - **Technologies:**  
 <span style="vertical-align: middle;">![Objective-C](https://img.shields.io/badge/Objective-C-6C8EBF?logo=apple&logoColor=white)</span>
@@ -57,7 +59,9 @@
    <img src="images/coach/ch4.png" alt="Screenshot 3" style="width: 25%; border: 1px solid #ccc; border-radius: 5px;">
 </div>
 </div>
-### [iHakeem](https://apps.apple.com/us/app/ihakeem/id1536719251?platform=iphone) | <span style="vertical-align: middle; font-size: smaller;">(Xeven Solutions (Pvt) Ltd.)</span>
+
+### [iHakeem](https://apps.apple.com/us/app/ihakeem/id1536719251?platform=iphone) | 
+<span style="vertical-align: middle; font-size: smaller;">(Xeven Solutions (Pvt) Ltd.)</span>
 - **Role:** iOS Developer
 - **Technologies:**
   <span style="vertical-align: middle;">![Swift](https://img.shields.io/badge/Swift-FA7343?logo=swift&logoColor=white%22%20alt=%22Swift%20Badge%22)</span>
@@ -95,6 +99,7 @@
   <img  src="images/iHakeem/iHakeem4.png" alt="Screenshot 4" style="width: 25%; border: 1px solid #ccc; border-radius: 5px;">
 </div>
 </div>
+
 ### [ Book With Star](https://apps.apple.com/pk/app/book-with-star/id1629308220) | <span style="vertical-align: middle; font-size: smaller;">(Star Academies)</span>
 - **Role:** iOS Developer
 - **Technologies:**
@@ -331,5 +336,5 @@ Explore the project and contribute on GitHub: [Code2.0](https://github.com/Arsla
   <img src="images/Code2.0/c3.png" alt="Screenshot 3" style="width: 25%; border: 1px solid #ccc; border-radius: 5px;">
    <img src="images/Code2.0/c4.png" alt="Screenshot 3" style="width: 25%; border: 1px solid #ccc; border-radius: 5px;">
 </div>
-</div> */
+</div> 
 
