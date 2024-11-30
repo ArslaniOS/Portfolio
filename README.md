@@ -3,85 +3,33 @@
 
 ## Projects
 
-### [Stealth Messenger](https://apps.apple.com/pk/app/safi-stealth-messenger/id1006457669) | <span style="vertical-align: middle; font-size: smaller;">(Xeven Solutions (Pvt) Ltd.)</span>
-- **Role:** iOS Developer 
-
+### MedicalAI 
+- **Role:** iOS Developer
 - **Technologies:**
-  <span style="vertical-align: middle;">![Swift](https://img.shields.io/badge/Swift-FA7343?logo=swift&logoColor=white%22%20alt=%22Swift%20Badge%22)</span>
-  <span style="vertical-align: middle;">![MVVM](https://img.shields.io/badge/MVVM-4CAF50?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAFoEvFoAAAAHElEQVR42mP8/5+hP6FQ1lY7BlNMUwEAUbgD/HUQYYAAAAASUVORK5CYII=)</span>
-  <span style="vertical-align: middle;">![Firebase Cloud Messaging](https://img.shields.io/badge/FCM-FFCA28?logo=firebase&logoColor=black)</span>
-  <span style="vertical-align: middle;">![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?logo=socket.io&logoColor=white)</span>
-  <span style="vertical-align: middle;">![Realm](https://img.shields.io/badge/Realm-39477F?logo=realm&logoColor=white)</span>
-  <span style="vertical-align: middle;">![Lottie](https://img.shields.io/badge/Lottie%20Animations-FF9900?logo=airbnb&logoColor=white)</span>
-  <span style="vertical-align: middle;">![Agile](https://img.shields.io/badge/Agile-2496ED?logo=agile&logoColor=white)</span>
-  <span style="vertical-align: middle;">![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white)</span>
-  <span style="vertical-align: middle;">![HealthKit](https://img.shields.io/badge/HealthKit-FF3B30?logo=apple&logoColor=white)</span>
-  <span style="vertical-align: middle;">![Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure&logoColor=white)</span>
-    <span style="vertical-align: middle;">![AVFoundation](https://img.shields.io/badge/AVFoundation-FF2D55?logo=apple&logoColor=white)</span>
-  <span style="vertical-align: middle;">![Kingfisher](https://img.shields.io/badge/Kingfisher-1DA1F2?logo=swift&logoColor=white)</span>
-
+<span style="vertical-align: middle;">![SwiftUI](https://img.shields.io/badge/SwiftUI-FA7343?logo=swift&logoColor=white)</span>
+<span style="vertical-align: middle;">![OpenAI](https://img.shields.io/badge/OpenAI-00A3E0?logo=openai&logoColor=white)</span>
+<span style="vertical-align: middle;">![Image Processing](https://img.shields.io/badge/Image_Processing-FF3B30?logo=apple&logoColor=white)</span>
+<span style="vertical-align: middle;">![Combine](https://img.shields.io/badge/Combine-FF6F61?logo=apple&logoColor=white)</span>
+<span style="vertical-align: middle;">![Modular Approach](https://img.shields.io/badge/Modular_Approach-4CAF50?logo=apple&logoColor=white)</span>
 - **Features:**
-  - Secure communication tool designed to protect against phishing, smishing, and ransomware attacks without requiring phone numbers or emails.
-  - Supported group chats, video calls, in-app purchases, and end-to-end encrypted messaging.
-  - Custom theme change functionality, allowing users to personalize their interface.
+  - Innovative Chatbot: Developed a health companion chatbot powered by OpenAI for engaging conversations.
+  - User-Friendly Interface: Crafted using SwiftUI for a modern and intuitive user experience.
+  - Real-Time Interaction: Enabled seamless interactions between users and the chatbot for immediate responses.
+    
+ **Challenges & Solutions:**
+  - Integration of OpenAI: Successfully integrated OpenAI technology to ensure accurate and relevant health conversations.
+  - Performance Optimization: Implemented performance optimizations for smooth user interactions and fast response times.
+  - Modular Architecture: Adopted a modular approach to ensure maintainability and scalability of the application.
+  - Tight Deadline Challenge: Faced the challenge of building the app in SwiftUI with a tight deadline of 2 months while still being relatively new to SwiftUI. Managed to learn and implement simultaneously, completing the project in just 15 days ahead of schedule.
 
-- **Challenges & Solutions:**
-  - Successfully converted the app to support offline storage, improving user engagement and ensuring seamless functionality without internet access.
-  - Launched the app on the App Store, delivering a secure messaging solution.
-  - Optimized data fetching and UI performance, resolving issues with large datasets.
-
-
-#### Screenshots:
 <div style="background-color: #f0f4f8; padding: 15px; border-radius: 5px; border: 1px solid #e0e0e0; margin-bottom: 30px;">
 <div style="display: flex; justify-content: space-between; margin-bottom: 10px;">
-  <img src="images/stelth/st1.png" alt="Screenshot 1" style="width: 25%; border: 1px solid #ccc; border-radius: 5px;">
-  <img src="images/stelth/st2.png" alt="Screenshot 2" style="width: 25%; border: 1px solid #ccc; border-radius: 5px;">
-  <img src="images/stelth/st3.png" alt="Screenshot 3" style="width: 25%; border: 1px solid #ccc; border-radius: 5px;">
-  <img src="images/stelth/st4.png" alt="Screenshot 4" style="width: 25%; border: 1px solid #ccc; border-radius: 5px;">
+  <img src="images/MedicalAi/md1.png" alt="Screenshot 1" style="width: 25%; border: 1px solid #ccc; border-radius: 5px;">
+  <img src="images/MedicalAi/md2.png" alt="Screenshot 2" style="width: 25%; border: 1px solid #ccc; border-radius: 5px;">
+  <img src="images/MedicalAi/md3.png" alt="Screenshot 3" style="width: 25%; border: 1px solid #ccc; border-radius: 5px;">
+  <img src="images/MedicalAi/md4.png" alt="Screenshot 4" style="width: 25%; border: 1px solid #ccc; border-radius: 5px;">
 </div>
 </div>
-
-
-
-### [The Doc App](https://apps.apple.com/pk/app/the-doc-app/id1193483405) | <span style="vertical-align: middle; font-size: smaller;">(Xeven Solutions (Pvt) Ltd.)</span>
-- **Role:** iOS Developer 
-
-- **Technologies:**
-  <span style="vertical-align: middle;">![Swift](https://img.shields.io/badge/Swift-FA7343?logo=swift&logoColor=white%22%20alt=%22Swift%20Badge%22)</span>
-  <span style="vertical-align: middle;">![MVVM](https://img.shields.io/badge/MVVM-4CAF50?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAFoEvFoAAAAHElEQVR42mP8/5+hP6FQ1lY7BlNMUwEAUbgD/HUQYYAAAAASUVORK5CYII=)</span>
-  <span style="vertical-align: middle;">![Firebase Cloud Messaging](https://img.shields.io/badge/FCM-FFCA28?logo=firebase&logoColor=black)</span>
-  <span style="vertical-align: middle;">![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?logo=socket.io&logoColor=white)</span>
-  <span style="vertical-align: middle;">![Realm](https://img.shields.io/badge/Realm-39477F?logo=realm&logoColor=white)</span>
-  <span style="vertical-align: middle;">![Lottie](https://img.shields.io/badge/Lottie%20Animations-FF9900?logo=airbnb&logoColor=white)</span>
-  <span style="vertical-align: middle;">![Agile](https://img.shields.io/badge/Agile-2496ED?logo=agile&logoColor=white)</span>
-  <span style="vertical-align: middle;">![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white)</span>
-  <span style="vertical-align: middle;">![HealthKit](https://img.shields.io/badge/HealthKit-FF3B30?logo=apple&logoColor=white)</span>
-  <span style="vertical-align: middle;">![Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure&logoColor=white)</span>
-    <span style="vertical-align: middle;">![AVFoundation](https://img.shields.io/badge/AVFoundation-FF2D55?logo=apple&logoColor=white)</span>
-  <span style="vertical-align: middle;">![Kingfisher](https://img.shields.io/badge/Kingfisher-1DA1F2?logo=swift&logoColor=white)</span>
-  
-- **Features:**
-  - Developed an intuitive Electronic Medical Records (EMR) application that streamlines healthcare data management and enhances patient care delivery.
-  - Enabled patients to:
-  - View appointment history.
-  - Contact healthcare providers and see their location.
-  - View purchases, make payments, and review invoices.
-
-- **Challenges & Solutions:**
-  - Data Synchronization: Overcame challenges related to healthcare data synchronization and management by utilizing Azure for cloud-based storage and real-time data updates.
-  - Regulatory Compliance: Ensured compliance with healthcare regulations while maintaining a high level of security, particularly with patient data during live video calls and communications.
-  - Deployment Success: Deployed the app live in the United States, delivering a robust solution for healthcare professionals and patients.
-
-#### Screenshots:
-<div style="background-color: #f0f4f8; padding: 15px; border-radius: 5px; border: 1px solid #e0e0e0; margin-bottom: 30px;">
-<div style="display: flex; justify-content: space-between; margin-bottom: 10px;">
-  <img src="images/DocApp/d1.png" alt="Screenshot 1" style="width: 25%; border: 1px solid #ccc; border-radius: 5px;">
-  <img src="images/DocApp/d2.png" alt="Screenshot 2" style="width: 25%; border: 1px solid #ccc; border-radius: 5px;">
-  <img src="images/DocApp/d3.png" alt="Screenshot 3" style="width: 25%; border: 1px solid #ccc; border-radius: 5px;">
-  <img src="images/DocApp/d4.png" alt="Screenshot 4" style="width: 25%; border: 1px solid #ccc; border-radius: 5px;">
-</div>
-</div>
-
 
 ### [iHakeem](https://apps.apple.com/us/app/ihakeem/id1536719251?platform=iphone) | <span style="vertical-align: middle; font-size: smaller;">(Xeven Solutions (Pvt) Ltd.)</span>
 - **Role:** iOS Developer
@@ -123,7 +71,82 @@
 </div>
 
 
+### [Stealth Messenger](https://apps.apple.com/pk/app/safi-stealth-messenger/id1006457669) | <span style="vertical-align: middle; font-size: smaller;">(Xeven Solutions (Pvt) Ltd.)</span>
+- **Role:** iOS Developer 
 
+- **Technologies:**
+  <span style="vertical-align: middle;">![Swift](https://img.shields.io/badge/Swift-FA7343?logo=swift&logoColor=white%22%20alt=%22Swift%20Badge%22)</span>
+  <span style="vertical-align: middle;">![MVVM](https://img.shields.io/badge/MVVM-4CAF50?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAFoEvFoAAAAHElEQVR42mP8/5+hP6FQ1lY7BlNMUwEAUbgD/HUQYYAAAAASUVORK5CYII=)</span>
+  <span style="vertical-align: middle;">![Firebase Cloud Messaging](https://img.shields.io/badge/FCM-FFCA28?logo=firebase&logoColor=black)</span>
+  <span style="vertical-align: middle;">![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?logo=socket.io&logoColor=white)</span>
+  <span style="vertical-align: middle;">![Realm](https://img.shields.io/badge/Realm-39477F?logo=realm&logoColor=white)</span>
+  <span style="vertical-align: middle;">![Lottie](https://img.shields.io/badge/Lottie%20Animations-FF9900?logo=airbnb&logoColor=white)</span>
+  <span style="vertical-align: middle;">![Agile](https://img.shields.io/badge/Agile-2496ED?logo=agile&logoColor=white)</span>
+  <span style="vertical-align: middle;">![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white)</span>
+  <span style="vertical-align: middle;">![HealthKit](https://img.shields.io/badge/HealthKit-FF3B30?logo=apple&logoColor=white)</span>
+  <span style="vertical-align: middle;">![Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure&logoColor=white)</span>
+    <span style="vertical-align: middle;">![AVFoundation](https://img.shields.io/badge/AVFoundation-FF2D55?logo=apple&logoColor=white)</span>
+  <span style="vertical-align: middle;">![Kingfisher](https://img.shields.io/badge/Kingfisher-1DA1F2?logo=swift&logoColor=white)</span>
+
+- **Features:**
+  - Secure communication tool designed to protect against phishing, smishing, and ransomware attacks without requiring phone numbers or emails.
+  - Supported group chats, video calls, in-app purchases, and end-to-end encrypted messaging.
+  - Custom theme change functionality, allowing users to personalize their interface.
+
+- **Challenges & Solutions:**
+  - Successfully converted the app to support offline storage, improving user engagement and ensuring seamless functionality without internet access.
+  - Launched the app on the App Store, delivering a secure messaging solution.
+  - Optimized data fetching and UI performance, resolving issues with large datasets.
+
+
+#### Screenshots:
+<div style="background-color: #f0f4f8; padding: 15px; border-radius: 5px; border: 1px solid #e0e0e0; margin-bottom: 30px;">
+<div style="display: flex; justify-content: space-between; margin-bottom: 10px;">
+  <img src="images/stelth/st1.png" alt="Screenshot 1" style="width: 25%; border: 1px solid #ccc; border-radius: 5px;">
+  <img src="images/stelth/st2.png" alt="Screenshot 2" style="width: 25%; border: 1px solid #ccc; border-radius: 5px;">
+  <img src="images/stelth/st3.png" alt="Screenshot 3" style="width: 25%; border: 1px solid #ccc; border-radius: 5px;">
+  <img src="images/stelth/st4.png" alt="Screenshot 4" style="width: 25%; border: 1px solid #ccc; border-radius: 5px;">
+</div>
+</div>
+
+### [The Doc App](https://apps.apple.com/pk/app/the-doc-app/id1193483405) | <span style="vertical-align: middle; font-size: smaller;">(Xeven Solutions (Pvt) Ltd.)</span>
+- **Role:** iOS Developer 
+
+- **Technologies:**
+  <span style="vertical-align: middle;">![Swift](https://img.shields.io/badge/Swift-FA7343?logo=swift&logoColor=white%22%20alt=%22Swift%20Badge%22)</span>
+  <span style="vertical-align: middle;">![MVVM](https://img.shields.io/badge/MVVM-4CAF50?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAFoEvFoAAAAHElEQVR42mP8/5+hP6FQ1lY7BlNMUwEAUbgD/HUQYYAAAAASUVORK5CYII=)</span>
+  <span style="vertical-align: middle;">![Firebase Cloud Messaging](https://img.shields.io/badge/FCM-FFCA28?logo=firebase&logoColor=black)</span>
+  <span style="vertical-align: middle;">![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?logo=socket.io&logoColor=white)</span>
+  <span style="vertical-align: middle;">![Realm](https://img.shields.io/badge/Realm-39477F?logo=realm&logoColor=white)</span>
+  <span style="vertical-align: middle;">![Lottie](https://img.shields.io/badge/Lottie%20Animations-FF9900?logo=airbnb&logoColor=white)</span>
+  <span style="vertical-align: middle;">![Agile](https://img.shields.io/badge/Agile-2496ED?logo=agile&logoColor=white)</span>
+  <span style="vertical-align: middle;">![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white)</span>
+  <span style="vertical-align: middle;">![HealthKit](https://img.shields.io/badge/HealthKit-FF3B30?logo=apple&logoColor=white)</span>
+  <span style="vertical-align: middle;">![Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure&logoColor=white)</span>
+    <span style="vertical-align: middle;">![AVFoundation](https://img.shields.io/badge/AVFoundation-FF2D55?logo=apple&logoColor=white)</span>
+  <span style="vertical-align: middle;">![Kingfisher](https://img.shields.io/badge/Kingfisher-1DA1F2?logo=swift&logoColor=white)</span>
+  
+- **Features:**
+  - Developed an intuitive Electronic Medical Records (EMR) application that streamlines healthcare data management and enhances patient care delivery.
+  - Enabled patients to:
+  - View appointment history.
+  - Contact healthcare providers and see their location.
+  - View purchases, make payments, and review invoices.
+
+- **Challenges & Solutions:**
+  - Data Synchronization: Overcame challenges related to healthcare data synchronization and management by utilizing Azure for cloud-based storage and real-time data updates.
+  - Regulatory Compliance: Ensured compliance with healthcare regulations while maintaining a high level of security, particularly with patient data during live video calls and communications.
+  - Deployment Success: Deployed the app live in the United States, delivering a robust solution for healthcare professionals and patients.
+
+#### Screenshots:
+<div style="background-color: #f0f4f8; padding: 15px; border-radius: 5px; border: 1px solid #e0e0e0; margin-bottom: 30px;">
+<div style="display: flex; justify-content: space-between; margin-bottom: 10px;">
+  <img src="images/DocApp/d1.png" alt="Screenshot 1" style="width: 25%; border: 1px solid #ccc; border-radius: 5px;">
+  <img src="images/DocApp/d2.png" alt="Screenshot 2" style="width: 25%; border: 1px solid #ccc; border-radius: 5px;">
+  <img src="images/DocApp/d3.png" alt="Screenshot 3" style="width: 25%; border: 1px solid #ccc; border-radius: 5px;">
+  <img src="images/DocApp/d4.png" alt="Screenshot 4" style="width: 25%; border: 1px solid #ccc; border-radius: 5px;">
+</div>
+</div>
 
 ### Intely Health
 - **Role:** iOS Developer
@@ -193,34 +216,6 @@
 </div>
 
   - 
-### MedicalAI 
-- **Role:** iOS Developer
-- **Technologies:**
-<span style="vertical-align: middle;">![SwiftUI](https://img.shields.io/badge/SwiftUI-FA7343?logo=swift&logoColor=white)</span>
-<span style="vertical-align: middle;">![OpenAI](https://img.shields.io/badge/OpenAI-00A3E0?logo=openai&logoColor=white)</span>
-<span style="vertical-align: middle;">![Image Processing](https://img.shields.io/badge/Image_Processing-FF3B30?logo=apple&logoColor=white)</span>
-<span style="vertical-align: middle;">![Combine](https://img.shields.io/badge/Combine-FF6F61?logo=apple&logoColor=white)</span>
-<span style="vertical-align: middle;">![Modular Approach](https://img.shields.io/badge/Modular_Approach-4CAF50?logo=apple&logoColor=white)</span>
-- **Features:**
-  - Innovative Chatbot: Developed a health companion chatbot powered by OpenAI for engaging conversations.
-  - User-Friendly Interface: Crafted using SwiftUI for a modern and intuitive user experience.
-  - Real-Time Interaction: Enabled seamless interactions between users and the chatbot for immediate responses.
-    
- **Challenges & Solutions:**
-  - Integration of OpenAI: Successfully integrated OpenAI technology to ensure accurate and relevant health conversations.
-  - Performance Optimization: Implemented performance optimizations for smooth user interactions and fast response times.
-  - Modular Architecture: Adopted a modular approach to ensure maintainability and scalability of the application.
-  - Tight Deadline Challenge: Faced the challenge of building the app in SwiftUI with a tight deadline of 2 months while still being relatively new to SwiftUI. Managed to learn and implement simultaneously, completing the project in just 15 days ahead of schedule.
-
-<div style="background-color: #f0f4f8; padding: 15px; border-radius: 5px; border: 1px solid #e0e0e0; margin-bottom: 30px;">
-<div style="display: flex; justify-content: space-between; margin-bottom: 10px;">
-  <img src="images/MedicalAi/md1.png" alt="Screenshot 1" style="width: 25%; border: 1px solid #ccc; border-radius: 5px;">
-  <img src="images/MedicalAi/md2.png" alt="Screenshot 2" style="width: 25%; border: 1px solid #ccc; border-radius: 5px;">
-  <img src="images/MedicalAi/md3.png" alt="Screenshot 3" style="width: 25%; border: 1px solid #ccc; border-radius: 5px;">
-  <img src="images/MedicalAi/md4.png" alt="Screenshot 4" style="width: 25%; border: 1px solid #ccc; border-radius: 5px;">
-</div>
-</div>
-
 
 ### [ Book With Star](https://apps.apple.com/pk/app/book-with-star/id1629308220) | <span style="vertical-align: middle; font-size: smaller;">(Star Academies)</span>
 - **Role:** iOS Developer
