@@ -324,8 +324,7 @@
  **Challenges & Solutions:**
   - Overcame the tight 2-day deadline while ensuring smooth performance and a modern user experience.
   - Applied modular design principles and MVVM architecture to create an efficient and maintainable codebase, addressing the complexities of data fetching and UI updates.
-
-/*Explore the project and contribute on GitHub: [Code2.0](https://github.com/ArslaniOS/Code2.0.git).*/
+<!---*Explore the project and contribute on GitHub: [Code2.0](https://github.com/ArslaniOS/Code2.0.git)-->
 
 <div style="background-color: #f0f4f8; padding: 15px; border-radius: 5px; border: 1px solid #e0e0e0; margin-bottom: 30px;">
 <div style="display: flex; justify-content: space-between; margin-bottom: 10px;">
