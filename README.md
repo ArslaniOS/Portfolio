@@ -31,8 +31,7 @@
 </div>
 </div>
 
-### [Star Academies Coaches](https://apps.apple.com/pk/app/star-academies-coaches/id1540379452) |
-<span style="vertical-align: middle; font-size: smaller;">(Star Academies)</span>
+### [Star Academies Coaches](https://apps.apple.com/pk/app/star-academies-coaches/id1540379452) | <span style="vertical-align: middle; font-size: smaller;">(Star Academies)</span>
 - **Role:** iOS Developer
 - **Technologies:**  
 <span style="vertical-align: middle;">![Objective-C](https://img.shields.io/badge/Objective-C-6C8EBF?logo=apple&logoColor=white)</span>
@@ -60,8 +59,7 @@
 </div>
 </div>
 
-### [iHakeem](https://apps.apple.com/us/app/ihakeem/id1536719251?platform=iphone) | 
-<span style="vertical-align: middle; font-size: smaller;">(Xeven Solutions (Pvt) Ltd.)</span>
+### [iHakeem](https://apps.apple.com/us/app/ihakeem/id1536719251?platform=iphone) | <span style="vertical-align: middle; font-size: smaller;">(Xeven Solutions (Pvt) Ltd.)</span>
 - **Role:** iOS Developer
 - **Technologies:**
   <span style="vertical-align: middle;">![Swift](https://img.shields.io/badge/Swift-FA7343?logo=swift&logoColor=white%22%20alt=%22Swift%20Badge%22)</span>
@@ -327,7 +325,7 @@
   - Overcame the tight 2-day deadline while ensuring smooth performance and a modern user experience.
   - Applied modular design principles and MVVM architecture to create an efficient and maintainable codebase, addressing the complexities of data fetching and UI updates.
 
-Explore the project and contribute on GitHub: [Code2.0](https://github.com/ArslaniOS/Code2.0.git).
+/*Explore the project and contribute on GitHub: [Code2.0](https://github.com/ArslaniOS/Code2.0.git).*/
 
 <div style="background-color: #f0f4f8; padding: 15px; border-radius: 5px; border: 1px solid #e0e0e0; margin-bottom: 30px;">
 <div style="display: flex; justify-content: space-between; margin-bottom: 10px;">
