@@ -30,7 +30,33 @@
   <img src="images/MedicalAi/md4.png" alt="Screenshot 4" style="width: 25%; border: 1px solid #ccc; border-radius: 5px;">
 </div>
 </div>
+### [Star Academies Coaches](https://apps.apple.com/pk/app/star-academies-coaches/id1540379452) | <span style="vertical-align: middle; font-size: smaller;">(Star Academies)</span>
+- **Role:** iOS Developer
+- **Technologies:**  
+<span style="vertical-align: middle;">![Objective-C](https://img.shields.io/badge/Objective-C-6C8EBF?logo=apple&logoColor=white)</span>
+<span style="vertical-align: middle;">![AVFoundation](https://img.shields.io/badge/AVFoundation-FF3B30?logo=apple&logoColor=white)</span>
+<span style="vertical-align: middle;">![Alamofire](https://img.shields.io/badge/Alamofire-66CDAA?logo=swift&logoColor=white)</span>
+<span style="vertical-align: middle;">![Live Channels](https://img.shields.io/badge/Live_Channels-FF3B30?logo=apple&logoColor=white)</span>
 
+- **Features:**
+  - Educational Enhancement: Designed to elevate the overall educational experience for students aspiring to become coaches.
+  - Workload Organization: Seamlessly organized day-to-day workloads, helping users manage their time effectively.
+  - Efficiency Boost: Enhanced efficiency in task management, empowering students on their educational journey.
+  - Coaching Support: Provided tools and resources specifically tailored for students looking to pursue coaching careers.
+    
+ **Challenges & Solutions:**
+  - Transition to Objective-C: Faced the challenge of working with Objective-C for existing codebases, which required quick adaptation and learning.
+  - Integration of Live Channels: Successfully integrated Live Channels for real-time interactions, ensuring a smooth user experience.
+  - Deployment Timelines: Managed tight timelines to ensure a successful technical go-live while maintaining high-quality standards.
+    
+<div style="background-color: #f0f4f8; padding: 15px; border-radius: 5px; border: 1px solid #e0e0e0; margin-bottom: 30px;">
+<div style="display: flex; justify-content: space-between; margin-bottom: 10px;">
+  <img src="images/coach/ch1.png" alt="Screenshot 1" style="width: 25%; border: 1px solid #ccc; border-radius: 5px;">
+  <img src="images/coach/ch2.png" alt="Screenshot 2" style="width: 25%; border: 1px solid #ccc; border-radius: 5px;">
+  <img src="images/coach/ch3.png" alt="Screenshot 3" style="width: 25%; border: 1px solid #ccc; border-radius: 5px;">
+   <img src="images/coach/ch4.png" alt="Screenshot 3" style="width: 25%; border: 1px solid #ccc; border-radius: 5px;">
+</div>
+</div>
 ### [iHakeem](https://apps.apple.com/us/app/ihakeem/id1536719251?platform=iphone) | <span style="vertical-align: middle; font-size: smaller;">(Xeven Solutions (Pvt) Ltd.)</span>
 - **Role:** iOS Developer
 - **Technologies:**
@@ -69,7 +95,34 @@
   <img  src="images/iHakeem/iHakeem4.png" alt="Screenshot 4" style="width: 25%; border: 1px solid #ccc; border-radius: 5px;">
 </div>
 </div>
+### [ Book With Star](https://apps.apple.com/pk/app/book-with-star/id1629308220) | <span style="vertical-align: middle; font-size: smaller;">(Star Academies)</span>
+- **Role:** iOS Developer
+- **Technologies:**
+<span style="vertical-align: middle;">![SwiftUI](https://img.shields.io/badge/SwiftUI-FA7343?logo=swift&logoColor=white)</span>
+<span style="vertical-align: middle;">![AVFoundation](https://img.shields.io/badge/AVFoundation-FF3B30?logo=apple&logoColor=white)</span>
+<span style="vertical-align: middle;">![Combine](https://img.shields.io/badge/Combine-FF6F61?logo=apple&logoColor=white)</span>
+<span style="vertical-align: middle;">![Google Maps](https://img.shields.io/badge/Google_Maps-4285F4?logo=googlemaps&logoColor=white)</span>
+<span style="vertical-align: middle;">![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=white)</span>
 
+- **Features:**
+  - Coaching and Learning Platform: Developed the Star Academies app to streamline coaching and learning for students and coaches.
+  - Training Schedules: Provided easy access to training schedules, allowing users to plan their sessions efficiently.
+  - Lesson Plans: Offered structured lesson plans for better learning outcomes.
+  - Attendance Tracking: Implemented attendance tracking features to monitor student participation.
+  - News Updates: Kept users informed with real-time academy news and updates.
+    
+ **Challenges & Solutions:**
+  - Integration of UIKit and SwiftUI: Faced the challenge of bridging UIKit with integrated software components, which required extensive troubleshooting and adaptation to ensure compatibility.
+  - User Experience Optimization: Optimized the user experience while transitioning to SwiftUI, balancing performance with new features to meet user expectations.
+  - Deployment Timelines: Managed tight deadlines while ensuring all components were tested thoroughly before deployment.
+  
+<div style="background-color: #f0f4f8; padding: 15px; border-radius: 5px; border: 1px solid #e0e0e0; margin-bottom: 30px;">
+<div style="display: flex; justify-content: space-between; margin-bottom: 10px;">
+  <img src="images/bws/bw1.png" alt="Screenshot 1" style="width: 25%; border: 1px solid #ccc; border-radius: 5px;">
+  <img src="images/bws/bw2.png" alt="Screenshot 2" style="width: 25%; border: 1px solid #ccc; border-radius: 5px;">
+  <img src="images/bws/bw3.png" alt="Screenshot 3" style="width: 25%; border: 1px solid #ccc; border-radius: 5px;">
+</div>
+</div>
 
 ### [Stealth Messenger](https://apps.apple.com/pk/app/safi-stealth-messenger/id1006457669) | <span style="vertical-align: middle; font-size: smaller;">(Xeven Solutions (Pvt) Ltd.)</span>
 - **Role:** iOS Developer 
@@ -215,69 +268,6 @@
 </div>
 </div>
 
-  - 
-
-### [ Book With Star](https://apps.apple.com/pk/app/book-with-star/id1629308220) | <span style="vertical-align: middle; font-size: smaller;">(Star Academies)</span>
-- **Role:** iOS Developer
-- **Technologies:**
-<span style="vertical-align: middle;">![SwiftUI](https://img.shields.io/badge/SwiftUI-FA7343?logo=swift&logoColor=white)</span>
-<span style="vertical-align: middle;">![AVFoundation](https://img.shields.io/badge/AVFoundation-FF3B30?logo=apple&logoColor=white)</span>
-<span style="vertical-align: middle;">![Combine](https://img.shields.io/badge/Combine-FF6F61?logo=apple&logoColor=white)</span>
-<span style="vertical-align: middle;">![Google Maps](https://img.shields.io/badge/Google_Maps-4285F4?logo=googlemaps&logoColor=white)</span>
-<span style="vertical-align: middle;">![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=white)</span>
-
-- **Features:**
-  - Coaching and Learning Platform: Developed the Star Academies app to streamline coaching and learning for students and coaches.
-  - Training Schedules: Provided easy access to training schedules, allowing users to plan their sessions efficiently.
-  - Lesson Plans: Offered structured lesson plans for better learning outcomes.
-  - Attendance Tracking: Implemented attendance tracking features to monitor student participation.
-  - News Updates: Kept users informed with real-time academy news and updates.
-    
- **Challenges & Solutions:**
-  - Integration of UIKit and SwiftUI: Faced the challenge of bridging UIKit with integrated software components, which required extensive troubleshooting and adaptation to ensure compatibility.
-  - User Experience Optimization: Optimized the user experience while transitioning to SwiftUI, balancing performance with new features to meet user expectations.
-  - Deployment Timelines: Managed tight deadlines while ensuring all components were tested thoroughly before deployment.
-  
-<div style="background-color: #f0f4f8; padding: 15px; border-radius: 5px; border: 1px solid #e0e0e0; margin-bottom: 30px;">
-<div style="display: flex; justify-content: space-between; margin-bottom: 10px;">
-  <img src="images/bws/bw1.png" alt="Screenshot 1" style="width: 25%; border: 1px solid #ccc; border-radius: 5px;">
-  <img src="images/bws/bw2.png" alt="Screenshot 2" style="width: 25%; border: 1px solid #ccc; border-radius: 5px;">
-  <img src="images/bws/bw3.png" alt="Screenshot 3" style="width: 25%; border: 1px solid #ccc; border-radius: 5px;">
-</div>
-</div>
-
-
-### [Star Academies Coaches](https://apps.apple.com/pk/app/star-academies-coaches/id1540379452) | <span style="vertical-align: middle; font-size: smaller;">(Star Academies)</span>
-- **Role:** iOS Developer
-- **Technologies:**  
-<span style="vertical-align: middle;">![Objective-C](https://img.shields.io/badge/Objective-C-6C8EBF?logo=apple&logoColor=white)</span>
-<span style="vertical-align: middle;">![AVFoundation](https://img.shields.io/badge/AVFoundation-FF3B30?logo=apple&logoColor=white)</span>
-<span style="vertical-align: middle;">![Alamofire](https://img.shields.io/badge/Alamofire-66CDAA?logo=swift&logoColor=white)</span>
-<span style="vertical-align: middle;">![Live Channels](https://img.shields.io/badge/Live_Channels-FF3B30?logo=apple&logoColor=white)</span>
-
-- **Features:**
-  - Educational Enhancement: Designed to elevate the overall educational experience for students aspiring to become coaches.
-  - Workload Organization: Seamlessly organized day-to-day workloads, helping users manage their time effectively.
-  - Efficiency Boost: Enhanced efficiency in task management, empowering students on their educational journey.
-  - Coaching Support: Provided tools and resources specifically tailored for students looking to pursue coaching careers.
-    
- **Challenges & Solutions:**
-  - Transition to Objective-C: Faced the challenge of working with Objective-C for existing codebases, which required quick adaptation and learning.
-  - Integration of Live Channels: Successfully integrated Live Channels for real-time interactions, ensuring a smooth user experience.
-  - Deployment Timelines: Managed tight timelines to ensure a successful technical go-live while maintaining high-quality standards.
-    
-<div style="background-color: #f0f4f8; padding: 15px; border-radius: 5px; border: 1px solid #e0e0e0; margin-bottom: 30px;">
-<div style="display: flex; justify-content: space-between; margin-bottom: 10px;">
-  <img src="images/coach/ch1.png" alt="Screenshot 1" style="width: 25%; border: 1px solid #ccc; border-radius: 5px;">
-  <img src="images/coach/ch2.png" alt="Screenshot 2" style="width: 25%; border: 1px solid #ccc; border-radius: 5px;">
-  <img src="images/coach/ch3.png" alt="Screenshot 3" style="width: 25%; border: 1px solid #ccc; border-radius: 5px;">
-   <img src="images/coach/ch4.png" alt="Screenshot 3" style="width: 25%; border: 1px solid #ccc; border-radius: 5px;">
-</div>
-</div>
-
-
-
-
 # Book with Star Admin
 ### [Book with Star Admin](https://apps.apple.com/pk/app/book-with-star-admin/id6451918028) | <span style="vertical-align: middle; font-size: smaller;">(Star Academies)</span>
 - **Role:** iOS Developer
@@ -310,7 +300,7 @@
 </div>
 </div>
 
-<!-- 
+
 
 # Assessments 
 
@@ -343,4 +333,3 @@ Explore the project and contribute on GitHub: [Code2.0](https://github.com/Arsla
 </div>
 </div> */
 
--->
