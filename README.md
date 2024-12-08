@@ -1,6 +1,5 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/arslan-nadeem-400907169/)
-[![Phone](https://img.shields.io/badge/Phone-%2B923126282028-brightgreen)](tel:+923126282028)
-
+[![Phone](https://img.shields.io/badge/Phone-%2B923126282028-brightgreen?style=flat&logo=phone)](tel:+923126282028)
 
 ## Projects
 
