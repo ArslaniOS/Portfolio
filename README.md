@@ -254,13 +254,42 @@
 
 #### Screenshots:
 <div style="padding: 15px; border-radius: 5px; border: 1px solid #e0e0e0; margin-bottom: 30px;">
-  <div style="display: flex; justify-content: space-between; margin-bottom: 0;">
-    <img src="images/DocApp/d1.png" alt="Screenshot 1" style="width: 30%; border: 1px solid #ccc; border-radius: 5px; transform: scale(1.1);">
-    <img src="images/DocApp/d2.png" alt="Screenshot 2" style="width: 30%; border: 1px solid #ccc; border-radius: 5px; transform: scale(1.1);">
-    <img src="images/DocApp/d3.png" alt="Screenshot 3" style="width: 30%; border: 1px solid #ccc; border-radius: 5px; transform: scale(1.1);">
-    <img src="images/DocApp/d4.png" alt="Screenshot 4" style="width: 30%; border: 1px solid #ccc; border-radius: 5px; transform: scale(1.1);">
+  <div style="display: flex; flex-wrap: wrap; justify-content: space-between; gap: 10px; margin-bottom: 0;">
+    <img src="images/DocApp/d1.png" alt="Screenshot 1" style="width: 30%; border: 1px solid #ccc; border-radius: 5px; transform: scale(1.1); object-fit: cover;">
+    <img src="images/DocApp/d2.png" alt="Screenshot 2" style="width: 30%; border: 1px solid #ccc; border-radius: 5px; transform: scale(1.1); object-fit: cover;">
+    <img src="images/DocApp/d3.png" alt="Screenshot 3" style="width: 30%; border: 1px solid #ccc; border-radius: 5px; transform: scale(1.1); object-fit: cover;">
+    <img src="images/DocApp/d4.png" alt="Screenshot 4" style="width: 30%; border: 1px solid #ccc; border-radius: 5px; transform: scale(1.1); object-fit: cover;">
   </div>
 </div>
+
+<style>
+  /* Hover effect to zoom images */
+  img:hover {
+    transform: scale(1.1); /* Slight zoom effect on hover */
+  }
+
+  /* Ensure images wrap properly when needed */
+  .image-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    justify-content: space-between;
+  }
+
+  /* Responsive for smaller screens */
+  @media (max-width: 768px) {
+    img {
+      width: 45%; /* 2 images per row on smaller screens */
+    }
+  }
+
+  @media (max-width: 480px) {
+    img {
+      width: 100%; /* 1 image per row on very small screens */
+    }
+  }
+</style>
+
 
 
 ### Intely Health
@@ -358,7 +387,7 @@
   - Faced the challenge of managing dynamic UI, particularly in handling runtime columns and rows, ensuring a seamless user experience.
 
 <div style="padding: 15px; border-radius: 5px; border: 1px solid #e0e0e0; margin-bottom: 30px;">
-  <div style="display: flex; flex-wrap: wrap; justify-content: space-between; margin-bottom: 10px; gap: 15px;">
+  <div style="display: flex; flex-wrap: wrap; justify-content: space-between; margin-bottom: 10px; gap: 10px;">
     <img src="images/BwsAdmin/Bws1.png" alt="Screenshot 1" style="width: 23%; border: 1px solid #ccc; border-radius: 5px; transition: transform 0.3s ease; transform: scale(1); object-fit: cover;">
     <img src="images/BwsAdmin/bws2.png" alt="Screenshot 2" style="width: 23%; border: 1px solid #ccc; border-radius: 5px; transition: transform 0.3s ease; transform: scale(1); object-fit: cover;">
     <img src="images/BwsAdmin/bws3.png" alt="Screenshot 3" style="width: 23%; border: 1px solid #ccc; border-radius: 5px; transition: transform 0.3s ease; transform: scale(1); object-fit: cover;">
@@ -386,10 +415,6 @@
   }
 </style>
 
-
-
-
-
 # Assessments 
 
 ### Code2.0
@@ -412,7 +437,7 @@
 <!---*Explore the project and contribute on GitHub: [Code2.0](https://github.com/ArslaniOS/Code2.0.git)-->
 
 <div style="padding: 15px; border-radius: 5px; border: 1px solid #e0e0e0; margin-bottom: 30px;">
-  <div style="display: flex; flex-wrap: wrap; justify-content: space-between; gap: 20px; margin-bottom: 10px;">
+  <div style="display: flex; flex-wrap: wrap; justify-content: space-between; gap: 10px; margin-bottom: 10px;">
     <img src="images/Code2.0/c1.png" alt="Screenshot 1" style="width: 23%; border: 1px solid #ccc; border-radius: 5px; transition: transform 0.3s ease; transform: scale(1); object-fit: cover;">
     <img src="images/Code2.0/c2.png" alt="Screenshot 2" style="width: 23%; border: 1px solid #ccc; border-radius: 5px; transition: transform 0.3s ease; transform: scale(1); object-fit: cover;">
     <img src="images/Code2.0/c3.png" alt="Screenshot 3" style="width: 23%; border: 1px solid #ccc; border-radius: 5px; transition: transform 0.3s ease; transform: scale(1); object-fit: cover;">
@@ -439,6 +464,7 @@
     }
   }
 </style>
+
 
 
 
