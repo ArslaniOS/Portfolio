@@ -335,3 +335,29 @@
 </div>
 </div> 
 
+- **Role:** iOS Developer 
+- **Technologies:**
+<span style="vertical-align: middle;">![SwiftUI](https://img.shields.io/badge/SwiftUI-FF4C00?logo=apple&logoColor=white)</span>
+<span style="vertical-align: middle;"> ![MVVM](https://img.shields.io/badge/MVVM-4A90E2?logo=swift&logoColor=white)</span>
+
+- **Features:**
+  - Designed and developed a fully functional app in just 8 hours as part of a 30-hour coding challenge.
+  - The app features a clean, intuitive design with smooth user interactions, ensuring a seamless experience.
+  - Integrated key functionalities within a short timeframe, meeting all project requirements with precision.
+     
+ **Challenges & Solutions:**
+  - Overcame time constraints to deliver a high-quality app within 8 hours while maintaining an exceptional user interface.
+  - Focused on optimizing workflow and leveraging efficient design tools to maximize productivity under tight deadlines.
+<!---*Explore the project and contribute on GitHub: [Code2.0](https://github.com/ArslaniOS/Code2.0.git)-->
+
+<div style="background-color: #f0f4f8; padding: 15px; border-radius: 5px; border: 1px solid #e0e0e0; margin-bottom: 30px;">
+<div style="display: flex; justify-content: space-between; margin-bottom: 10px;">
+  <img src="images/Spiral/s1.png" alt="Screenshot 1" style="width: 25%; border: 1px solid #ccc; border-radius: 5px;">
+  <img src="images/Spiral/s2.png" alt="Screenshot 2" style="width: 25%; border: 1px solid #ccc; border-radius: 5px;">
+  <img src="images/Spiral/s3.png" alt="Screenshot 3" style="width: 25%; border: 1px solid #ccc; border-radius: 5px;">
+   <img src="images/Spiral/s4.png" alt="Screenshot 3" style="width: 25%; border: 1px solid #ccc; border-radius: 5px;">
+     <img src="images/Spiral/s5.png" alt="Screenshot 3" style="width: 25%; border: 1px solid #ccc; border-radius: 5px;">
+     <img src="images/Spiral/s6.png" alt="Screenshot 3" style="width: 25%; border: 1px solid #ccc; border-radius: 5px;">
+</div>
+</div> 
+
