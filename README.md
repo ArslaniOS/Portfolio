@@ -23,13 +23,20 @@
   - Tight Deadline Challenge: Faced the challenge of building the app in SwiftUI with a tight deadline of 2 months while still being relatively new to SwiftUI. Managed to learn and implement simultaneously, completing the project in just 15 days ahead of schedule.
 
 <div style="background-color: #f0f4f8; padding: 15px; border-radius: 5px; border: 1px solid #e0e0e0; margin-bottom: 30px;">
-<div style="display: flex; justify-content: space-between; margin-bottom: 10px;">
-  <img src="images/MedicalAi/md1.png" alt="Screenshot 1" style="width: 25%; border: 1px solid #ccc; border-radius: 5px;">
-  <img src="images/MedicalAi/md2.png" alt="Screenshot 2" style="width: 25%; border: 1px solid #ccc; border-radius: 5px;">
-  <img src="images/MedicalAi/md3.png" alt="Screenshot 3" style="width: 25%; border: 1px solid #ccc; border-radius: 5px;">
-  <img src="images/MedicalAi/md4.png" alt="Screenshot 4" style="width: 25%; border: 1px solid #ccc; border-radius: 5px;">
+  <div style="display: flex; flex-wrap: wrap; justify-content: space-between; margin-bottom: 10px;">
+    <img src="images/MedicalAi/md1.png" alt="Screenshot 1" class="image-hover" style="width: 23%; margin-bottom: 10px; border: 1px solid #ccc; border-radius: 5px; transition: transform 0.3s ease; transform: scale(1); object-fit: cover;">
+    <img src="images/MedicalAi/md2.png" alt="Screenshot 2" class="image-hover" style="width: 23%; margin-bottom: 10px; border: 1px solid #ccc; border-radius: 5px; transition: transform 0.3s ease; transform: scale(1); object-fit: cover;">
+    <img src="images/MedicalAi/md3.png" alt="Screenshot 3" class="image-hover" style="width: 23%; margin-bottom: 10px; border: 1px solid #ccc; border-radius: 5px; transition: transform 0.3s ease; transform: scale(1); object-fit: cover;">
+    <img src="images/MedicalAi/md4.png" alt="Screenshot 4" class="image-hover" style="width: 23%; margin-bottom: 10px; border: 1px solid #ccc; border-radius: 5px; transition: transform 0.3s ease; transform: scale(1); object-fit: cover;">
+  </div>
 </div>
-</div>
+
+<style>
+  .image-hover:hover {
+    transform: scale(1.05); /* Slight zoom effect */
+  }
+</style>
+
 
 ### [Star Academies Coaches](https://apps.apple.com/pk/app/star-academies-coaches/id1540379452) | <span style="vertical-align: middle; font-size: smaller;">(Star Academies)</span>
 - **Role:** iOS Developer
@@ -50,14 +57,34 @@
   - Integration of Live Channels: Successfully integrated Live Channels for real-time interactions, ensuring a smooth user experience.
   - Deployment Timelines: Managed tight timelines to ensure a successful technical go-live while maintaining high-quality standards.
     
-<div style="background-color: #f0f4f8; padding: 15px; border-radius: 5px; border: 1px solid #e0e0e0; margin-bottom: 30px;">
-<div style="display: flex; justify-content: space-between; margin-bottom: 10px;">
-  <img src="images/coach/ch1.png" alt="Screenshot 1" style="width: 25%; border: 1px solid #ccc; border-radius: 5px;">
-  <img src="images/coach/ch2.png" alt="Screenshot 2" style="width: 25%; border: 1px solid #ccc; border-radius: 5px;">
-  <img src="images/coach/ch3.png" alt="Screenshot 3" style="width: 25%; border: 1px solid #ccc; border-radius: 5px;">
-   <img src="images/coach/ch4.png" alt="Screenshot 3" style="width: 25%; border: 1px solid #ccc; border-radius: 5px;">
+<div style="background-color: #FFF599; padding: 15px; border-radius: 5px; border: 1px solid #e0e0e0; margin-bottom: 30px;">
+  <div style="display: flex; flex-wrap: wrap; justify-content: space-between; margin-bottom: 10px;">
+    <img src="images/coach/ch1.png" alt="Screenshot 1" class="image-hover" style="width: 23%; margin-bottom: 10px; border: 1px solid #ccc; border-radius: 5px; transition: transform 0.3s ease; transform: scale(1); object-fit: cover;">
+    <img src="images/coach/ch2.png" alt="Screenshot 2" class="image-hover" style="width: 23%; margin-bottom: 10px; border: 1px solid #ccc; border-radius: 5px; transition: transform 0.3s ease; transform: scale(1); object-fit: cover;">
+    <img src="images/coach/ch3.png" alt="Screenshot 3" class="image-hover" style="width: 23%; margin-bottom: 10px; border: 1px solid #ccc; border-radius: 5px; transition: transform 0.3s ease; transform: scale(1); object-fit: cover;">
+    <img src="images/coach/ch4.png" alt="Screenshot 4" class="image-hover" style="width: 23%; margin-bottom: 10px; border: 1px solid #ccc; border-radius: 5px; transition: transform 0.3s ease; transform: scale(1); object-fit: cover;">
+  </div>
 </div>
-</div>
+
+<style>
+  .image-hover:hover {
+    transform: scale(1.05); /* Slight zoom effect */
+  }
+
+  /* Responsive for smaller screens */
+  @media (max-width: 768px) {
+    .image-hover {
+      width: 48%; /* 2 images per row on smaller screens */
+    }
+  }
+
+  @media (max-width: 480px) {
+    .image-hover {
+      width: 100%; /* 1 image per row on very small screens */
+    }
+  }
+</style>
+
 
 ### [iHakeem](https://apps.apple.com/us/app/ihakeem/id1536719251?platform=iphone) | <span style="vertical-align: middle; font-size: smaller;">(Xeven Solutions (Pvt) Ltd.)</span>
 - **Role:** iOS Developer
