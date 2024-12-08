@@ -57,7 +57,7 @@
   - Integration of Live Channels: Successfully integrated Live Channels for real-time interactions, ensuring a smooth user experience.
   - Deployment Timelines: Managed tight timelines to ensure a successful technical go-live while maintaining high-quality standards.
     
-<div style="background-color: #FFF599; padding: 15px; border-radius: 5px; border: 1px solid #e0e0e0; margin-bottom: 30px;">
+<div style="background-color: #000000; padding: 15px; border-radius: 5px; border: 1px solid #e0e0e0; margin-bottom: 30px;">
   <div style="display: flex; flex-wrap: wrap; justify-content: space-between; margin-bottom: 10px;">
     <img src="images/coach/ch1.png" alt="Screenshot 1" class="image-hover" style="width: 23%; margin-bottom: 10px; border: 1px solid #ccc; border-radius: 5px; transition: transform 0.3s ease; transform: scale(1); object-fit: cover;">
     <img src="images/coach/ch2.png" alt="Screenshot 2" class="image-hover" style="width: 23%; margin-bottom: 10px; border: 1px solid #ccc; border-radius: 5px; transition: transform 0.3s ease; transform: scale(1); object-fit: cover;">
@@ -116,14 +116,34 @@
   - Deployment: Developed, led, and successfully deployed the project live in Kuwait, enhancing the country's healthcare experience through innovative technology.
     
 #### Screenshots:
-<div style="background-color: #f0f4f8; padding: 15px; border-radius: 5px; border: 1px solid #e0e0e0; margin-bottom: 30px;">
-<div style="display: flex; justify-content: space-between; margin-bottom: 10px;">
-  <img  src="images/iHakeem/iHakeem1.png" alt="Screenshot 1" style="width: 25%; border: 1px solid #ccc; border-radius: 5px;">
-  <img src="images/iHakeem/iHakeem2.png" alt="Screenshot 2" style="width: 25%; border: 1px solid #ccc; border-radius: 5px;">
-  <img src="images/iHakeem/iHakeem3.png" alt="Screenshot 3" style="width: 25%; border: 1px solid #ccc; border-radius: 5px;">
-  <img  src="images/iHakeem/iHakeem4.png" alt="Screenshot 4" style="width: 25%; border: 1px solid #ccc; border-radius: 5px;">
+<div style="background-color: #D6F6F6; padding: 15px; border-radius: 5px; border: 1px solid #e0e0e0; margin-bottom: 30px;">
+  <div style="display: flex; flex-wrap: wrap; justify-content: space-between; margin-bottom: 10px;">
+    <img src="images/iHakeem/iHakeem1.png" alt="Screenshot 1" class="image-hover" style="width: 23%; margin-bottom: 10px; border: 1px solid #ccc; border-radius: 5px; transition: transform 0.3s ease; transform: scale(1); object-fit: cover;">
+    <img src="images/iHakeem/iHakeem2.png" alt="Screenshot 2" class="image-hover" style="width: 23%; margin-bottom: 10px; border: 1px solid #ccc; border-radius: 5px; transition: transform 0.3s ease; transform: scale(1); object-fit: cover;">
+    <img src="images/iHakeem/iHakeem3.png" alt="Screenshot 3" class="image-hover" style="width: 23%; margin-bottom: 10px; border: 1px solid #ccc; border-radius: 5px; transition: transform 0.3s ease; transform: scale(1); object-fit: cover;">
+    <img src="images/iHakeem/iHakeem4.png" alt="Screenshot 4" class="image-hover" style="width: 23%; margin-bottom: 10px; border: 1px solid #ccc; border-radius: 5px; transition: transform 0.3s ease; transform: scale(1); object-fit: cover;">
+  </div>
 </div>
-</div>
+
+<style>
+  .image-hover:hover {
+    transform: scale(1.05); /* Slight zoom effect */
+  }
+
+  /* Responsive for smaller screens */
+  @media (max-width: 768px) {
+    .image-hover {
+      width: 48%; /* 2 images per row on smaller screens */
+    }
+  }
+
+  @media (max-width: 480px) {
+    .image-hover {
+      width: 100%; /* 1 image per row on very small screens */
+    }
+  }
+</style>
+
 
 ### [ Book With Star](https://apps.apple.com/pk/app/book-with-star/id1629308220) | <span style="vertical-align: middle; font-size: smaller;">(Star Academies)</span>
 - **Role:** iOS Developer
@@ -146,13 +166,14 @@
   - User Experience Optimization: Optimized the user experience while transitioning to SwiftUI, balancing performance with new features to meet user expectations.
   - Deployment Timelines: Managed tight deadlines while ensuring all components were tested thoroughly before deployment.
   
-<div style="background-color: #f0f4f8; padding: 15px; border-radius: 5px; border: 1px solid #e0e0e0; margin-bottom: 30px;">
-<div style="display: flex; justify-content: space-between; margin-bottom: 10px;">
-  <img src="images/bws/bw1.png" alt="Screenshot 1" style="width: 25%; border: 1px solid #ccc; border-radius: 5px;">
-  <img src="images/bws/bw2.png" alt="Screenshot 2" style="width: 25%; border: 1px solid #ccc; border-radius: 5px;">
-  <img src="images/bws/bw3.png" alt="Screenshot 3" style="width: 25%; border: 1px solid #ccc; border-radius: 5px;">
+<div style="padding: 15px; border-radius: 5px; border: 1px solid #e0e0e0; margin-bottom: 30px;">
+  <div style="display: flex; justify-content: space-between; margin-bottom: 0;">
+    <img src="images/bws/bw1.png" alt="Screenshot 1" style="width: 33.33%; border: 1px solid #ccc; border-radius: 5px;">
+    <img src="images/bws/bw2.png" alt="Screenshot 2" style="width: 33.33%; border: 1px solid #ccc; border-radius: 5px;">
+    <img src="images/bws/bw3.png" alt="Screenshot 3" style="width: 33.33%; border: 1px solid #ccc; border-radius: 5px;">
+  </div>
 </div>
-</div>
+
 
 ### [Stealth Messenger](https://apps.apple.com/pk/app/safi-stealth-messenger/id1006457669) | <span style="vertical-align: middle; font-size: smaller;">(Xeven Solutions (Pvt) Ltd.)</span>
 - **Role:** iOS Developer 
@@ -183,13 +204,14 @@
 
 
 #### Screenshots:
-<div style="background-color: #f0f4f8; padding: 15px; border-radius: 5px; border: 1px solid #e0e0e0; margin-bottom: 30px;">
-<div style="display: flex; justify-content: space-between; margin-bottom: 10px;">
-  <img src="images/stelth/st1.png" alt="Screenshot 1" style="width: 25%; border: 1px solid #ccc; border-radius: 5px;">
-  <img src="images/stelth/st3.png" alt="Screenshot 3" style="width: 25%; border: 1px solid #ccc; border-radius: 5px;">
-  <img src="images/stelth/st4.png" alt="Screenshot 4" style="width: 25%; border: 1px solid #ccc; border-radius: 5px;">
+<div style="padding: 15px; border-radius: 5px; border: 1px solid #e0e0e0; margin-bottom: 30px;">
+  <div style="display: flex; justify-content: space-between; margin-bottom: 0;">
+    <img src="images/stelth/st1.png" alt="Screenshot 1" style="width: 33.33%; border: 1px solid #ccc; border-radius: 5px;">
+    <img src="images/stelth/st3.png" alt="Screenshot 3" style="width: 33.33%; border: 1px solid #ccc; border-radius: 5px;">
+    <img src="images/stelth/st4.png" alt="Screenshot 4" style="width: 33.33%; border: 1px solid #ccc; border-radius: 5px;">
+  </div>
 </div>
-</div>
+
 
 ### [The Doc App](https://apps.apple.com/pk/app/the-doc-app/id1193483405) | <span style="vertical-align: middle; font-size: smaller;">(Xeven Solutions (Pvt) Ltd.)</span>
 - **Role:** iOS Developer 
@@ -221,14 +243,15 @@
   - Deployment Success: Deployed the app live in the United States, delivering a robust solution for healthcare professionals and patients.
 
 #### Screenshots:
-<div style="background-color: #f0f4f8; padding: 15px; border-radius: 5px; border: 1px solid #e0e0e0; margin-bottom: 30px;">
-<div style="display: flex; justify-content: space-between; margin-bottom: 10px;">
-  <img src="images/DocApp/d1.png" alt="Screenshot 1" style="width: 25%; border: 1px solid #ccc; border-radius: 5px;">
-  <img src="images/DocApp/d2.png" alt="Screenshot 2" style="width: 25%; border: 1px solid #ccc; border-radius: 5px;">
-  <img src="images/DocApp/d3.png" alt="Screenshot 3" style="width: 25%; border: 1px solid #ccc; border-radius: 5px;">
-  <img src="images/DocApp/d4.png" alt="Screenshot 4" style="width: 25%; border: 1px solid #ccc; border-radius: 5px;">
+<div style="padding: 15px; border-radius: 5px; border: 1px solid #e0e0e0; margin-bottom: 30px;">
+  <div style="display: flex; justify-content: space-between; margin-bottom: 0;">
+    <img src="images/DocApp/d1.png" alt="Screenshot 1" style="width: 30%; border: 1px solid #ccc; border-radius: 5px; transform: scale(1.1);">
+    <img src="images/DocApp/d2.png" alt="Screenshot 2" style="width: 30%; border: 1px solid #ccc; border-radius: 5px; transform: scale(1.1);">
+    <img src="images/DocApp/d3.png" alt="Screenshot 3" style="width: 30%; border: 1px solid #ccc; border-radius: 5px; transform: scale(1.1);">
+    <img src="images/DocApp/d4.png" alt="Screenshot 4" style="width: 30%; border: 1px solid #ccc; border-radius: 5px; transform: scale(1.1);">
+  </div>
 </div>
-</div>
+
 
 ### Intely Health
 - **Role:** iOS Developer
@@ -253,7 +276,7 @@
   -  Challenge: Leading a diverse team in a fast-paced environment.
      Solution: Fostered collaboration through regular stand-ups and clear communication channels, ensuring project alignment and timely delivery.
 
-<div style="background-color: #f0f4f8; padding: 15px; border-radius: 5px; border: 1px solid #e0e0e0; margin-bottom: 30px;">
+<div style="padding: 15px; border-radius: 5px; border: 1px solid #e0e0e0; margin-bottom: 30px;">
   <div style="display: flex; flex-wrap: wrap; justify-content: space-between; margin-bottom: 10px;">
     <img src="images/FamilyDoc/fm1.png" alt="Screenshot 1" style="width: 23%; margin-bottom: 10px; border: 1px solid #ccc; border-radius: 5px; transition: transform 0.3s ease; transform: scale(1); object-fit: cover;">
     <img src="images/FamilyDoc/fm2.png" alt="Screenshot 2" style="width: 23%; margin-bottom: 10px; border: 1px solid #ccc; border-radius: 5px; transition: transform 0.3s ease; transform: scale(1); object-fit: cover;">
@@ -261,6 +284,7 @@
     <img src="images/FamilyDoc/fm4.png" alt="Screenshot 4" style="width: 23%; margin-bottom: 10px; border: 1px solid #ccc; border-radius: 5px; transition: transform 0.3s ease; transform: scale(1); object-fit: cover;">
   </div>
 </div>
+
 
 
 
@@ -289,14 +313,15 @@
   - Challenge: Coordinating a small team to meet tight deadlines.
   - Solution: Utilized Agile methodologies to promote collaboration and quick iterations.
      
-<div style="background-color: #f0f4f8; padding: 15px; border-radius: 5px; border: 1px solid #e0e0e0; margin-bottom: 30px;">
-<div style="display: flex; justify-content: space-between; margin-bottom: 10px;">
-  <img src="images/HSA/HS1.png" alt="Screenshot 1" style="width: 25%; border: 1px solid #ccc; border-radius: 5px;">
-  <img src="images//HSA/HS2.png" alt="Screenshot 2" style="width: 25%; border: 1px solid #ccc; border-radius: 5px;">
-  <img src="images//HSA/HS3.png"  alt="Screenshot 3" style="width: 25%; border: 1px solid #ccc; border-radius: 5px;">
-  <img src="images//HSA/HS5.png" alt="Screenshot 4" style="width: 25%; border: 1px solid #ccc; border-radius: 5px;">
+<div style="padding: 15px; border-radius: 5px; border: 1px solid #e0e0e0; margin-bottom: 30px;">
+  <div style="display: flex; justify-content: space-between; margin-bottom: 10px; gap: 10px;">
+    <img src="images/HSA/HS1.png" alt="Screenshot 1" style="width: 25%; border: 1px solid #ccc; border-radius: 5px; transition: transform 0.3s ease; transform: scale(1.05); object-fit: cover;">
+    <img src="images/HSA/HS2.png" alt="Screenshot 2" style="width: 25%; border: 1px solid #ccc; border-radius: 5px; transition: transform 0.3s ease; transform: scale(1.05); object-fit: cover;">
+    <img src="images/HSA/HS3.png" alt="Screenshot 3" style="width: 25%; border: 1px solid #ccc; border-radius: 5px; transition: transform 0.3s ease; transform: scale(1.05); object-fit: cover;">
+    <img src="images/HSA/HS5.png" alt="Screenshot 4" style="width: 25%; border: 1px solid #ccc; border-radius: 5px; transition: transform 0.3s ease; transform: scale(1.05); object-fit: cover;">
+  </div>
 </div>
-</div>
+
 
 # Book with Star Admin
 ### [Book with Star Admin](https://apps.apple.com/pk/app/book-with-star-admin/id6451918028) | <span style="vertical-align: middle; font-size: smaller;">(Star Academies)</span>
@@ -321,14 +346,15 @@
   - Ensuring Quality: Maintained high-quality standards while meeting deadlines through rigorous testing and continuous feedback loops.
   - Faced the challenge of managing dynamic UI, particularly in handling runtime columns and rows, ensuring a seamless user experience.
 
-<div style="background-color: #f0f4f8; padding: 15px; border-radius: 5px; border: 1px solid #e0e0e0; margin-bottom: 30px;">
-<div style="display: flex; justify-content: space-between; margin-bottom: 10px;">
-  <img src="images/BwsAdmin/Bws1.png" alt="Screenshot 1" style="width: 25%; border: 1px solid #ccc; border-radius: 5px;">
-  <img src="images/BwsAdmin/bws2.png" alt="Screenshot 2" style="width: 25%; border: 1px solid #ccc; border-radius: 5px;">
-  <img  src="images/BwsAdmin/bws3.png" alt="Screenshot 3" style="width: 25%; border: 1px solid #ccc; border-radius: 5px;">
-   <img src="images/BwsAdmin/bws4.png" alt="Screenshot 3" style="width: 25%; border: 1px solid #ccc; border-radius: 5px;">
+<div style="padding: 15px; border-radius: 5px; border: 1px solid #e0e0e0; margin-bottom: 30px;">
+  <div style="display: flex; justify-content: space-between; margin-bottom: 10px; gap: 15px;">
+    <img src="images/BwsAdmin/Bws1.png" alt="Screenshot 1" style="width: 25%; border: 1px solid #ccc; border-radius: 5px; transition: transform 0.3s ease; transform: scale(1.05); object-fit: cover;">
+    <img src="images/BwsAdmin/bws2.png" alt="Screenshot 2" style="width: 25%; border: 1px solid #ccc; border-radius: 5px; transition: transform 0.3s ease; transform: scale(1.05); object-fit: cover;">
+    <img src="images/BwsAdmin/bws3.png" alt="Screenshot 3" style="width: 25%; border: 1px solid #ccc; border-radius: 5px; transition: transform 0.3s ease; transform: scale(1.05); object-fit: cover;">
+    <img src="images/BwsAdmin/bws4.png" alt="Screenshot 4" style="width: 25%; border: 1px solid #ccc; border-radius: 5px; transition: transform 0.3s ease; transform: scale(1.05); object-fit: cover;">
+  </div>
 </div>
-</div>
+
 
 
 
@@ -353,14 +379,15 @@
   - Applied modular design principles and MVVM architecture to create an efficient and maintainable codebase, addressing the complexities of data fetching and UI updates.
 <!---*Explore the project and contribute on GitHub: [Code2.0](https://github.com/ArslaniOS/Code2.0.git)-->
 
-<div style="background-color: #f0f4f8; padding: 15px; border-radius: 5px; border: 1px solid #e0e0e0; margin-bottom: 30px;">
-<div style="display: flex; justify-content: space-between; margin-bottom: 10px;">
-  <img src="images/Code2.0/c1.png" alt="Screenshot 1" style="width: 25%; border: 1px solid #ccc; border-radius: 5px;">
-  <img src="images/Code2.0/c2.png" alt="Screenshot 2" style="width: 25%; border: 1px solid #ccc; border-radius: 5px;">
-  <img src="images/Code2.0/c3.png" alt="Screenshot 3" style="width: 25%; border: 1px solid #ccc; border-radius: 5px;">
-   <img src="images/Code2.0/c4.png" alt="Screenshot 3" style="width: 25%; border: 1px solid #ccc; border-radius: 5px;">
+<div style="padding: 15px; border-radius: 5px; border: 1px solid #e0e0e0; margin-bottom: 30px;">
+  <div style="display: flex; justify-content: space-between; gap: 20px; margin-bottom: 10px;">
+    <img src="images/Code2.0/c1.png" alt="Screenshot 1" style="width: 23%; border: 1px solid #ccc; border-radius: 5px; transition: transform 0.3s ease; transform: scale(1.05); object-fit: cover;">
+    <img src="images/Code2.0/c2.png" alt="Screenshot 2" style="width: 23%; border: 1px solid #ccc; border-radius: 5px; transition: transform 0.3s ease; transform: scale(1.05); object-fit: cover;">
+    <img src="images/Code2.0/c3.png" alt="Screenshot 3" style="width: 23%; border: 1px solid #ccc; border-radius: 5px; transition: transform 0.3s ease; transform: scale(1.05); object-fit: cover;">
+    <img src="images/Code2.0/c4.png" alt="Screenshot 4" style="width: 23%; border: 1px solid #ccc; border-radius: 5px; transition: transform 0.3s ease; transform: scale(1.05); object-fit: cover;">
+  </div>
 </div>
-</div> 
+
 
 - **Role:** iOS Developer 
 - **Technologies:**
