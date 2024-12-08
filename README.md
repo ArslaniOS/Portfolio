@@ -227,13 +227,14 @@
      Solution: Fostered collaboration through regular stand-ups and clear communication channels, ensuring project alignment and timely delivery.
 
 <div style="background-color: #f0f4f8; padding: 15px; border-radius: 5px; border: 1px solid #e0e0e0; margin-bottom: 30px;">
-<div style="display: flex; justify-content: space-between; margin-bottom: 10px;">
-  <img  src="images/FamilyDoc/fm1.png" alt="Screenshot 1" style="width: 25%; border: 1px solid #ccc; border-radius: 5px;">
-  <img src="images/FamilyDoc/fm2.png" alt="Screenshot 2" style="width: 25%; border: 1px solid #ccc; border-radius: 5px;">
-  <img src="images/FamilyDoc/fm3.png"  alt="Screenshot 3" style="width: 25%; border: 1px solid #ccc; border-radius: 5px;">
-  <img src="images/FamilyDoc/fm4.png" alt="Screenshot 4" style="width: 25%; border: 1px solid #ccc; border-radius: 5px;">
+  <div style="display: flex; flex-wrap: wrap; justify-content: space-between; margin-bottom: 10px;">
+    <img src="images/FamilyDoc/fm1.png" alt="Screenshot 1" style="width: 23%; margin-bottom: 10px; border: 1px solid #ccc; border-radius: 5px; transition: transform 0.3s ease; transform: scale(1); object-fit: cover;">
+    <img src="images/FamilyDoc/fm2.png" alt="Screenshot 2" style="width: 23%; margin-bottom: 10px; border: 1px solid #ccc; border-radius: 5px; transition: transform 0.3s ease; transform: scale(1); object-fit: cover;">
+    <img src="images/FamilyDoc/fm3.png" alt="Screenshot 3" style="width: 23%; margin-bottom: 10px; border: 1px solid #ccc; border-radius: 5px; transition: transform 0.3s ease; transform: scale(1); object-fit: cover;">
+    <img src="images/FamilyDoc/fm4.png" alt="Screenshot 4" style="width: 23%; margin-bottom: 10px; border: 1px solid #ccc; border-radius: 5px; transition: transform 0.3s ease; transform: scale(1); object-fit: cover;">
+  </div>
 </div>
-</div>
+
 
 
 ### [HSA Second Opinion](https://apps.apple.com/us/app/hsa-second-opinion/id6503679610) | <span style="vertical-align: middle; font-size: smaller;">(Ninja Technologies (Pvt) Ltd.)</span>
@@ -351,13 +352,14 @@
 
 <div style="background-color: #f0f4f8; padding: 15px; border-radius: 5px; border: 1px solid #e0e0e0; margin-bottom: 30px;">
   <div style="display: flex; flex-wrap: wrap; justify-content: space-between; margin-bottom: 10px;">
-    <img src="images/Spiral/s1.png" alt="Screenshot 1" style="width: 16.5%; margin-bottom: 10px; border: 1px solid #ccc; border-radius: 5px;">
-    <img src="images/Spiral/s2.png" alt="Screenshot 2" style="width: 16.5%; margin-bottom: 10px; border: 1px solid #ccc; border-radius: 5px;">
-    <img src="images/Spiral/s3.png" alt="Screenshot 3" style="width: 16.5%; margin-bottom: 10px; border: 1px solid #ccc; border-radius: 5px;">
-    <img src="images/Spiral/s4.png" alt="Screenshot 4" style="width: 16.5%; margin-bottom: 10px; border: 1px solid #ccc; border-radius: 5px;">
-    <img src="images/Spiral/s5.png" alt="Screenshot 5" style="width: 16.5%; margin-bottom: 10px; border: 1px solid #ccc; border-radius: 5px;">
-    <img src="images/Spiral/s6.png" alt="Screenshot 6" style="width: 16.5%; margin-bottom: 10px; border: 1px solid #ccc; border-radius: 5px;">
+    <img src="images/Spiral/s1.png" alt="Screenshot 1" style="width: 16.5%; margin-bottom: 10px; border: 1px solid #ccc; border-radius: 5px; transition: transform 0.3s ease; transform: scale(1.05);">
+    <img src="images/Spiral/s2.png" alt="Screenshot 2" style="width: 16.5%; margin-bottom: 10px; border: 1px solid #ccc; border-radius: 5px; transition: transform 0.3s ease; transform: scale(1.05);">
+    <img src="images/Spiral/s3.png" alt="Screenshot 3" style="width: 16.5%; margin-bottom: 10px; border: 1px solid #ccc; border-radius: 5px; transition: transform 0.3s ease; transform: scale(1.05);">
+    <img src="images/Spiral/s4.png" alt="Screenshot 4" style="width: 16.5%; margin-bottom: 10px; border: 1px solid #ccc; border-radius: 5px; transition: transform 0.3s ease; transform: scale(1.05);">
+    <img src="images/Spiral/s5.png" alt="Screenshot 5" style="width: 16.5%; margin-bottom: 10px; border: 1px solid #ccc; border-radius: 5px; transition: transform 0.3s ease; transform: scale(1.05);">
+    <img src="images/Spiral/s6.png" alt="Screenshot 6" style="width: 16.5%; margin-bottom: 10px; border: 1px solid #ccc; border-radius: 5px; transition: transform 0.3s ease; transform: scale(1.05);">
   </div>
 </div>
+
 
 
