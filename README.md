@@ -368,13 +368,34 @@
   - Solution: Utilized Agile methodologies to promote collaboration and quick iterations.
      
 <div style="padding: 15px; border-radius: 5px; border: 1px solid #e0e0e0; margin-bottom: 30px;">
-  <div style="display: flex; flex-wrap: wrap; justify-content: space-between; margin-bottom: 10px; gap: 10px;">
-    <img src="images/HSA/HS1.png" alt="Screenshot 1" style="width: 23%; border: 1px solid #ccc; border-radius: 5px; transition: transform 0.3s ease; transform: scale(1); object-fit: cover;">
-    <img src="images/HSA/HS2.png" alt="Screenshot 2" style="width: 23%; border: 1px solid #ccc; border-radius: 5px; transition: transform 0.3s ease; transform: scale(1); object-fit: cover;">
-    <img src="images/HSA/HS3.png" alt="Screenshot 3" style="width: 23%; border: 1px solid #ccc; border-radius: 5px; transition: transform 0.3s ease; transform: scale(1); object-fit: cover;">
-    <img src="images/HSA/HS5.png" alt="Screenshot 4" style="width: 23%; border: 1px solid #ccc; border-radius: 5px; transition: transform 0.3s ease; transform: scale(1); object-fit: cover;">
+  <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(23%, 1fr)); gap: 10px;">
+    <img src="images/HSA/HS1.png" alt="Screenshot 1" style="width: 100%; border: 1px solid #ccc; border-radius: 5px; transition: transform 0.3s ease; transform: scale(1); object-fit: cover;">
+    <img src="images/HSA/HS2.png" alt="Screenshot 2" style="width: 100%; border: 1px solid #ccc; border-radius: 5px; transition: transform 0.3s ease; transform: scale(1); object-fit: cover;">
+    <img src="images/HSA/HS3.png" alt="Screenshot 3" style="width: 100%; border: 1px solid #ccc; border-radius: 5px; transition: transform 0.3s ease; transform: scale(1); object-fit: cover;">
+    <img src="images/HSA/HS5.png" alt="Screenshot 4" style="width: 100%; border: 1px solid #ccc; border-radius: 5px; transition: transform 0.3s ease; transform: scale(1); object-fit: cover;">
   </div>
 </div>
+
+<style>
+  /* Hover effect to zoom images */
+  img:hover {
+    transform: scale(1.05); /* Slight zoom effect */
+  }
+
+  /* Responsive for smaller screens */
+  @media (max-width: 768px) {
+    div[style*="grid-template-columns"] {
+      grid-template-columns: repeat(auto-fill, minmax(48%, 1fr)); /* 2 images per row on smaller screens */
+    }
+  }
+
+  @media (max-width: 480px) {
+    div[style*="grid-template-columns"] {
+      grid-template-columns: repeat(auto-fill, minmax(100%, 1fr)); /* 1 image per row on very small screens */
+    }
+  }
+</style>
+
 
 
 
@@ -402,11 +423,11 @@
   - Faced the challenge of managing dynamic UI, particularly in handling runtime columns and rows, ensuring a seamless user experience.
 
 <div style="padding: 15px; border-radius: 5px; border: 1px solid #e0e0e0; margin-bottom: 30px;">
-  <div style="display: flex; flex-wrap: wrap; justify-content: space-between; margin-bottom: 10px; gap: 10px;">
-    <img src="images/BwsAdmin/Bws1.png" alt="Screenshot 1" style="width: 23%; border: 1px solid #ccc; border-radius: 5px; transition: transform 0.3s ease; transform: scale(1); object-fit: cover;">
-    <img src="images/BwsAdmin/bws2.png" alt="Screenshot 2" style="width: 23%; border: 1px solid #ccc; border-radius: 5px; transition: transform 0.3s ease; transform: scale(1); object-fit: cover;">
-    <img src="images/BwsAdmin/bws3.png" alt="Screenshot 3" style="width: 23%; border: 1px solid #ccc; border-radius: 5px; transition: transform 0.3s ease; transform: scale(1); object-fit: cover;">
-    <img src="images/BwsAdmin/bws4.png" alt="Screenshot 4" style="width: 23%; border: 1px solid #ccc; border-radius: 5px; transition: transform 0.3s ease; transform: scale(1); object-fit: cover;">
+  <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(23%, 1fr)); gap: 10px;">
+    <img src="images/BwsAdmin/Bws1.png" alt="Screenshot 1" style="width: 100%; border: 1px solid #ccc; border-radius: 5px; transition: transform 0.3s ease; transform: scale(1); object-fit: cover;">
+    <img src="images/BwsAdmin/bws2.png" alt="Screenshot 2" style="width: 100%; border: 1px solid #ccc; border-radius: 5px; transition: transform 0.3s ease; transform: scale(1); object-fit: cover;">
+    <img src="images/BwsAdmin/bws3.png" alt="Screenshot 3" style="width: 100%; border: 1px solid #ccc; border-radius: 5px; transition: transform 0.3s ease; transform: scale(1); object-fit: cover;">
+    <img src="images/BwsAdmin/bws4.png" alt="Screenshot 4" style="width: 100%; border: 1px solid #ccc; border-radius: 5px; transition: transform 0.3s ease; transform: scale(1); object-fit: cover;">
   </div>
 </div>
 
@@ -418,19 +439,19 @@
 
   /* Responsive for smaller screens */
   @media (max-width: 768px) {
-    img {
-      width: 48%; /* 2 images per row on smaller screens */
+    div[style*="grid-template-columns"] {
+      grid-template-columns: repeat(auto-fill, minmax(48%, 1fr)); /* 2 images per row on smaller screens */
     }
   }
 
   @media (max-width: 480px) {
-    img {
-      width: 100%; /* 1 image per row on very small screens */
+    div[style*="grid-template-columns"] {
+      grid-template-columns: repeat(auto-fill, minmax(100%, 1fr)); /* 1 image per row on very small screens */
     }
   }
 </style>
 
-# Assessments 
+
 
 ### Code2.0
 - **Role:** iOS Developer 
@@ -442,21 +463,19 @@
 <span style="vertical-align: middle;"> ![MVVM](https://img.shields.io/badge/MVVM-4A90E2?logo=swift&logoColor=white)</span>
 
 - **Features:**
-  - Developed a fully functional movie app within a 5-day coding challenge, completing it in just 2 days.
+  - Successfully developed a fully functional movie app within a tight timeline.
   - The app fetches and displays movie data in a dynamic grid, allowing users to mark favorites and access detailed movie information.
-  - Integrated offline support powered by Realm for enhanced usability.
-     
- **Challenges & Solutions:**
-  - Overcame the tight 2-day deadline while ensuring smooth performance and a modern user experience.
-  - Applied modular design principles and MVVM architecture to create an efficient and maintainable codebase, addressing the complexities of data fetching and UI updates.
+  - Integrated offline support powered by Realm for enhanced usability and a seamless user experience.
+  - Followed modular design principles and MVVM architecture to ensure an efficient and maintainable codebase.
+
 <!---*Explore the project and contribute on GitHub: [Code2.0](https://github.com/ArslaniOS/Code2.0.git)-->
 
 <div style="padding: 15px; border-radius: 5px; border: 1px solid #e0e0e0; margin-bottom: 30px;">
-  <div style="display: flex; flex-wrap: wrap; justify-content: space-between; gap: 10px; margin-bottom: 10px;">
-    <img src="images/Code2.0/c1.png" alt="Screenshot 1" style="width: 23%; border: 1px solid #ccc; border-radius: 5px; transition: transform 0.3s ease; transform: scale(1); object-fit: cover;">
-    <img src="images/Code2.0/c2.png" alt="Screenshot 2" style="width: 23%; border: 1px solid #ccc; border-radius: 5px; transition: transform 0.3s ease; transform: scale(1); object-fit: cover;">
-    <img src="images/Code2.0/c3.png" alt="Screenshot 3" style="width: 23%; border: 1px solid #ccc; border-radius: 5px; transition: transform 0.3s ease; transform: scale(1); object-fit: cover;">
-    <img src="images/Code2.0/c4.png" alt="Screenshot 4" style="width: 23%; border: 1px solid #ccc; border-radius: 5px; transition: transform 0.3s ease; transform: scale(1); object-fit: cover;">
+  <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(23%, 1fr)); gap: 10px;">
+    <img src="images/Code2.0/c1.png" alt="Screenshot 1" style="width: 100%; border: 1px solid #ccc; border-radius: 5px; transition: transform 0.3s ease; transform: scale(1); object-fit: cover;">
+    <img src="images/Code2.0/c2.png" alt="Screenshot 2" style="width: 100%; border: 1px solid #ccc; border-radius: 5px; transition: transform 0.3s ease; transform: scale(1); object-fit: cover;">
+    <img src="images/Code2.0/c3.png" alt="Screenshot 3" style="width: 100%; border: 1px solid #ccc; border-radius: 5px; transition: transform 0.3s ease; transform: scale(1); object-fit: cover;">
+    <img src="images/Code2.0/c4.png" alt="Screenshot 4" style="width: 100%; border: 1px solid #ccc; border-radius: 5px; transition: transform 0.3s ease; transform: scale(1); object-fit: cover;">
   </div>
 </div>
 
@@ -468,20 +487,21 @@
 
   /* Responsive for smaller screens */
   @media (max-width: 768px) {
-    img {
-      width: 48%; /* 2 images per row on smaller screens */
+    div[style*="grid-template-columns"] {
+      grid-template-columns: repeat(auto-fill, minmax(48%, 1fr)); /* 2 images per row on smaller screens */
     }
   }
 
   @media (max-width: 480px) {
-    img {
-      width: 100%; /* 1 image per row on very small screens */
+    div[style*="grid-template-columns"] {
+      grid-template-columns: repeat(auto-fill, minmax(100%, 1fr)); /* 1 image per row on very small screens */
     }
   }
 </style>
 
 
 
+### Spiral 
 
 - **Role:** iOS Developer 
 - **Technologies:**
@@ -489,13 +509,9 @@
 <span style="vertical-align: middle;"> ![MVVM](https://img.shields.io/badge/MVVM-4A90E2?logo=swift&logoColor=white)</span>
 
 - **Features:**
-  - Designed and developed a fully functional app in just 8 hours as part of a 30-hour coding challenge.
-  - The app features a clean, intuitive design with smooth user interactions, ensuring a seamless experience.
+  - Designed and developed a fully functional app.
+  - Delivered a clean, intuitive design with smooth user interactions for a seamless experience.
   - Integrated key functionalities within a short timeframe, meeting all project requirements with precision.
-     
- **Challenges & Solutions:**
-  - Overcame time constraints to deliver a high-quality app within 8 hours while maintaining an exceptional user interface.
-  - Focused on optimizing workflow and leveraging efficient design tools to maximize productivity under tight deadlines.
 <!---*Explore the project and contribute on GitHub: [Code2.0](https://github.com/ArslaniOS/Code2.0.git)-->
 
 <div style="background-color: #f0f4f8; padding: 15px; border-radius: 5px; border: 1px solid #e0e0e0; margin-bottom: 30px;">
