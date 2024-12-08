@@ -159,7 +159,7 @@
 <div style="background-color: #f0f4f8; padding: 15px; border-radius: 5px; border: 1px solid #e0e0e0; margin-bottom: 30px;">
 <div style="display: flex; justify-content: space-between; margin-bottom: 10px;">
   <img src="images/stelth/st1.png" alt="Screenshot 1" style="width: 25%; border: 1px solid #ccc; border-radius: 5px;">
-  <img src="images/stelth/st2.png" alt="Screenshot 2" style="width: 25%; border: 1px solid #ccc; border-radius: 5px;">
+<!---*<img src="images/stelth/st2.png" alt="Screenshot 2" style="width: 25%; border: 1px solid #ccc; border-radius: 5px;"> -->
   <img src="images/stelth/st3.png" alt="Screenshot 3" style="width: 25%; border: 1px solid #ccc; border-radius: 5px;">
   <img src="images/stelth/st4.png" alt="Screenshot 4" style="width: 25%; border: 1px solid #ccc; border-radius: 5px;">
 </div>
