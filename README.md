@@ -23,7 +23,7 @@
   - Tight Deadline Challenge: Faced the challenge of building the app in SwiftUI with a tight deadline of 2 months while still being relatively new to SwiftUI. Managed to learn and implement simultaneously, completing the project in just 15 days ahead of schedule.
 
 <div style="background-color: #f0f4f8; padding: 20px; border-radius: 10px; border: 1px solid #e0e0e0; margin-bottom: 30px;">
-  <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(23%, 1fr)); gap: 5px;">
+  <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(23%, 1fr)); gap: 10px;">
     <img src="images/MedicalAi/md1.png" alt="Screenshot 1" class="image-hover" style="width: 100%; border: 1px solid #ccc; border-radius: 5px; transition: transform 0.3s ease; transform: scale(1); object-fit: cover;">
     <img src="images/MedicalAi/md2.png" alt="Screenshot 2" class="image-hover" style="width: 100%; border: 1px solid #ccc; border-radius: 5px; transition: transform 0.3s ease; transform: scale(1); object-fit: cover;">
     <img src="images/MedicalAi/md3.png" alt="Screenshot 3" class="image-hover" style="width: 100%; border: 1px solid #ccc; border-radius: 5px; transition: transform 0.3s ease; transform: scale(1); object-fit: cover;">
@@ -48,6 +48,7 @@
     }
   }
 </style>
+
 
 
 
