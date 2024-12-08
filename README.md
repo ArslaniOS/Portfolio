@@ -22,12 +22,12 @@
   - Modular Architecture: Adopted a modular approach to ensure maintainability and scalability of the application.
   - Tight Deadline Challenge: Faced the challenge of building the app in SwiftUI with a tight deadline of 2 months while still being relatively new to SwiftUI. Managed to learn and implement simultaneously, completing the project in just 15 days ahead of schedule.
 
-<div style="background-color: #f0f4f8; padding: 15px; border-radius: 5px; border: 1px solid #e0e0e0; margin-bottom: 30px;">
-  <div style="display: flex; flex-wrap: wrap; justify-content: space-between; margin-bottom: 10px;">
-    <img src="images/MedicalAi/md1.png" alt="Screenshot 1" class="image-hover" style="width: 23%; margin-bottom: 10px; border: 1px solid #ccc; border-radius: 5px; transition: transform 0.3s ease; transform: scale(1); object-fit: cover;">
-    <img src="images/MedicalAi/md2.png" alt="Screenshot 2" class="image-hover" style="width: 23%; margin-bottom: 10px; border: 1px solid #ccc; border-radius: 5px; transition: transform 0.3s ease; transform: scale(1); object-fit: cover;">
-    <img src="images/MedicalAi/md3.png" alt="Screenshot 3" class="image-hover" style="width: 23%; margin-bottom: 10px; border: 1px solid #ccc; border-radius: 5px; transition: transform 0.3s ease; transform: scale(1); object-fit: cover;">
-    <img src="images/MedicalAi/md4.png" alt="Screenshot 4" class="image-hover" style="width: 23%; margin-bottom: 10px; border: 1px solid #ccc; border-radius: 5px; transition: transform 0.3s ease; transform: scale(1); object-fit: cover;">
+<div style="background-color: #f0f4f8; padding: 20px; border-radius: 10px; border: 1px solid #e0e0e0; margin-bottom: 30px;">
+  <div style="display: flex; flex-wrap: wrap; justify-content: space-around; gap: 10px;">
+    <img src="images/MedicalAi/md1.png" alt="Screenshot 1" class="image-hover" style="width: 23%; border: 1px solid #ccc; border-radius: 5px; transition: transform 0.3s ease; transform: scale(1); object-fit: cover;">
+    <img src="images/MedicalAi/md2.png" alt="Screenshot 2" class="image-hover" style="width: 23%; border: 1px solid #ccc; border-radius: 5px; transition: transform 0.3s ease; transform: scale(1); object-fit: cover;">
+    <img src="images/MedicalAi/md3.png" alt="Screenshot 3" class="image-hover" style="width: 23%; border: 1px solid #ccc; border-radius: 5px; transition: transform 0.3s ease; transform: scale(1); object-fit: cover;">
+    <img src="images/MedicalAi/md4.png" alt="Screenshot 4" class="image-hover" style="width: 23%; border: 1px solid #ccc; border-radius: 5px; transition: transform 0.3s ease; transform: scale(1); object-fit: cover;">
   </div>
 </div>
 
@@ -36,6 +36,7 @@
     transform: scale(1.05); /* Slight zoom effect */
   }
 </style>
+
 
 
 ### [Star Academies Coaches](https://apps.apple.com/pk/app/star-academies-coaches/id1540379452) | <span style="vertical-align: middle; font-size: smaller;">(Star Academies)</span>
@@ -57,7 +58,7 @@
   - Integration of Live Channels: Successfully integrated Live Channels for real-time interactions, ensuring a smooth user experience.
   - Deployment Timelines: Managed tight timelines to ensure a successful technical go-live while maintaining high-quality standards.
     
-<div style="background-color: #000000; padding: 15px; border-radius: 5px; border: 1px solid #e0e0e0; margin-bottom: 30px;">
+<div style="padding: 15px; border-radius: 5px; border: 1px solid #e0e0e0; margin-bottom: 30px;">
   <div style="display: flex; flex-wrap: wrap; justify-content: space-between; margin-bottom: 10px;">
     <img src="images/coach/ch1.png" alt="Screenshot 1" class="image-hover" style="width: 23%; margin-bottom: 10px; border: 1px solid #ccc; border-radius: 5px; transition: transform 0.3s ease; transform: scale(1); object-fit: cover;">
     <img src="images/coach/ch2.png" alt="Screenshot 2" class="image-hover" style="width: 23%; margin-bottom: 10px; border: 1px solid #ccc; border-radius: 5px; transition: transform 0.3s ease; transform: scale(1); object-fit: cover;">
@@ -84,6 +85,7 @@
     }
   }
 </style>
+
 
 
 ### [iHakeem](https://apps.apple.com/us/app/ihakeem/id1536719251?platform=iphone) | <span style="vertical-align: middle; font-size: smaller;">(Xeven Solutions (Pvt) Ltd.)</span>
@@ -116,7 +118,7 @@
   - Deployment: Developed, led, and successfully deployed the project live in Kuwait, enhancing the country's healthcare experience through innovative technology.
     
 #### Screenshots:
-<div style="background-color: #D6F6F6; padding: 15px; border-radius: 5px; border: 1px solid #e0e0e0; margin-bottom: 30px;">
+<div style="padding: 15px; border-radius: 5px; border: 1px solid #e0e0e0; margin-bottom: 30px;">
   <div style="display: flex; flex-wrap: wrap; justify-content: space-between; margin-bottom: 10px;">
     <img src="images/iHakeem/iHakeem1.png" alt="Screenshot 1" class="image-hover" style="width: 23%; margin-bottom: 10px; border: 1px solid #ccc; border-radius: 5px; transition: transform 0.3s ease; transform: scale(1); object-fit: cover;">
     <img src="images/iHakeem/iHakeem2.png" alt="Screenshot 2" class="image-hover" style="width: 23%; margin-bottom: 10px; border: 1px solid #ccc; border-radius: 5px; transition: transform 0.3s ease; transform: scale(1); object-fit: cover;">
@@ -126,8 +128,14 @@
 </div>
 
 <style>
+  .image-hover {
+    transition: transform 0.3s ease; 
+    transform: scale(1);
+    object-fit: cover; /* Ensures the images fill the area without distortion */
+  }
+
   .image-hover:hover {
-    transform: scale(1.05); /* Slight zoom effect */
+    transform: scale(1.1); /* Increased zoom effect for better visibility */
   }
 
   /* Responsive for smaller screens */
@@ -143,6 +151,7 @@
     }
   }
 </style>
+
 
 
 ### [ Book With Star](https://apps.apple.com/pk/app/book-with-star/id1629308220) | <span style="vertical-align: middle; font-size: smaller;">(Star Academies)</span>
@@ -173,6 +182,7 @@
     <img src="images/bws/bw3.png" alt="Screenshot 3" style="width: 33.33%; border: 1px solid #ccc; border-radius: 5px;">
   </div>
 </div>
+
 
 
 ### [Stealth Messenger](https://apps.apple.com/pk/app/safi-stealth-messenger/id1006457669) | <span style="vertical-align: middle; font-size: smaller;">(Xeven Solutions (Pvt) Ltd.)</span>
@@ -314,13 +324,14 @@
   - Solution: Utilized Agile methodologies to promote collaboration and quick iterations.
      
 <div style="padding: 15px; border-radius: 5px; border: 1px solid #e0e0e0; margin-bottom: 30px;">
-  <div style="display: flex; justify-content: space-between; margin-bottom: 10px; gap: 10px;">
-    <img src="images/HSA/HS1.png" alt="Screenshot 1" style="width: 25%; border: 1px solid #ccc; border-radius: 5px; transition: transform 0.3s ease; transform: scale(1.05); object-fit: cover;">
-    <img src="images/HSA/HS2.png" alt="Screenshot 2" style="width: 25%; border: 1px solid #ccc; border-radius: 5px; transition: transform 0.3s ease; transform: scale(1.05); object-fit: cover;">
-    <img src="images/HSA/HS3.png" alt="Screenshot 3" style="width: 25%; border: 1px solid #ccc; border-radius: 5px; transition: transform 0.3s ease; transform: scale(1.05); object-fit: cover;">
-    <img src="images/HSA/HS5.png" alt="Screenshot 4" style="width: 25%; border: 1px solid #ccc; border-radius: 5px; transition: transform 0.3s ease; transform: scale(1.05); object-fit: cover;">
+  <div style="display: flex; flex-wrap: wrap; justify-content: space-between; margin-bottom: 10px; gap: 10px;">
+    <img src="images/HSA/HS1.png" alt="Screenshot 1" style="width: 23%; border: 1px solid #ccc; border-radius: 5px; transition: transform 0.3s ease; transform: scale(1); object-fit: cover;">
+    <img src="images/HSA/HS2.png" alt="Screenshot 2" style="width: 23%; border: 1px solid #ccc; border-radius: 5px; transition: transform 0.3s ease; transform: scale(1); object-fit: cover;">
+    <img src="images/HSA/HS3.png" alt="Screenshot 3" style="width: 23%; border: 1px solid #ccc; border-radius: 5px; transition: transform 0.3s ease; transform: scale(1); object-fit: cover;">
+    <img src="images/HSA/HS5.png" alt="Screenshot 4" style="width: 23%; border: 1px solid #ccc; border-radius: 5px; transition: transform 0.3s ease; transform: scale(1); object-fit: cover;">
   </div>
 </div>
+
 
 
 # Book with Star Admin
@@ -347,13 +358,34 @@
   - Faced the challenge of managing dynamic UI, particularly in handling runtime columns and rows, ensuring a seamless user experience.
 
 <div style="padding: 15px; border-radius: 5px; border: 1px solid #e0e0e0; margin-bottom: 30px;">
-  <div style="display: flex; justify-content: space-between; margin-bottom: 10px; gap: 15px;">
-    <img src="images/BwsAdmin/Bws1.png" alt="Screenshot 1" style="width: 25%; border: 1px solid #ccc; border-radius: 5px; transition: transform 0.3s ease; transform: scale(1.05); object-fit: cover;">
-    <img src="images/BwsAdmin/bws2.png" alt="Screenshot 2" style="width: 25%; border: 1px solid #ccc; border-radius: 5px; transition: transform 0.3s ease; transform: scale(1.05); object-fit: cover;">
-    <img src="images/BwsAdmin/bws3.png" alt="Screenshot 3" style="width: 25%; border: 1px solid #ccc; border-radius: 5px; transition: transform 0.3s ease; transform: scale(1.05); object-fit: cover;">
-    <img src="images/BwsAdmin/bws4.png" alt="Screenshot 4" style="width: 25%; border: 1px solid #ccc; border-radius: 5px; transition: transform 0.3s ease; transform: scale(1.05); object-fit: cover;">
+  <div style="display: flex; flex-wrap: wrap; justify-content: space-between; margin-bottom: 10px; gap: 15px;">
+    <img src="images/BwsAdmin/Bws1.png" alt="Screenshot 1" style="width: 23%; border: 1px solid #ccc; border-radius: 5px; transition: transform 0.3s ease; transform: scale(1); object-fit: cover;">
+    <img src="images/BwsAdmin/bws2.png" alt="Screenshot 2" style="width: 23%; border: 1px solid #ccc; border-radius: 5px; transition: transform 0.3s ease; transform: scale(1); object-fit: cover;">
+    <img src="images/BwsAdmin/bws3.png" alt="Screenshot 3" style="width: 23%; border: 1px solid #ccc; border-radius: 5px; transition: transform 0.3s ease; transform: scale(1); object-fit: cover;">
+    <img src="images/BwsAdmin/bws4.png" alt="Screenshot 4" style="width: 23%; border: 1px solid #ccc; border-radius: 5px; transition: transform 0.3s ease; transform: scale(1); object-fit: cover;">
   </div>
 </div>
+
+<style>
+  /* Hover effect to zoom images */
+  img:hover {
+    transform: scale(1.05);
+  }
+
+  /* Responsive for smaller screens */
+  @media (max-width: 768px) {
+    img {
+      width: 48%; /* 2 images per row on smaller screens */
+    }
+  }
+
+  @media (max-width: 480px) {
+    img {
+      width: 100%; /* 1 image per row on very small screens */
+    }
+  }
+</style>
+
 
 
 
@@ -380,13 +412,34 @@
 <!---*Explore the project and contribute on GitHub: [Code2.0](https://github.com/ArslaniOS/Code2.0.git)-->
 
 <div style="padding: 15px; border-radius: 5px; border: 1px solid #e0e0e0; margin-bottom: 30px;">
-  <div style="display: flex; justify-content: space-between; gap: 20px; margin-bottom: 10px;">
-    <img src="images/Code2.0/c1.png" alt="Screenshot 1" style="width: 23%; border: 1px solid #ccc; border-radius: 5px; transition: transform 0.3s ease; transform: scale(1.05); object-fit: cover;">
-    <img src="images/Code2.0/c2.png" alt="Screenshot 2" style="width: 23%; border: 1px solid #ccc; border-radius: 5px; transition: transform 0.3s ease; transform: scale(1.05); object-fit: cover;">
-    <img src="images/Code2.0/c3.png" alt="Screenshot 3" style="width: 23%; border: 1px solid #ccc; border-radius: 5px; transition: transform 0.3s ease; transform: scale(1.05); object-fit: cover;">
-    <img src="images/Code2.0/c4.png" alt="Screenshot 4" style="width: 23%; border: 1px solid #ccc; border-radius: 5px; transition: transform 0.3s ease; transform: scale(1.05); object-fit: cover;">
+  <div style="display: flex; flex-wrap: wrap; justify-content: space-between; gap: 20px; margin-bottom: 10px;">
+    <img src="images/Code2.0/c1.png" alt="Screenshot 1" style="width: 23%; border: 1px solid #ccc; border-radius: 5px; transition: transform 0.3s ease; transform: scale(1); object-fit: cover;">
+    <img src="images/Code2.0/c2.png" alt="Screenshot 2" style="width: 23%; border: 1px solid #ccc; border-radius: 5px; transition: transform 0.3s ease; transform: scale(1); object-fit: cover;">
+    <img src="images/Code2.0/c3.png" alt="Screenshot 3" style="width: 23%; border: 1px solid #ccc; border-radius: 5px; transition: transform 0.3s ease; transform: scale(1); object-fit: cover;">
+    <img src="images/Code2.0/c4.png" alt="Screenshot 4" style="width: 23%; border: 1px solid #ccc; border-radius: 5px; transition: transform 0.3s ease; transform: scale(1); object-fit: cover;">
   </div>
 </div>
+
+<style>
+  /* Hover effect to zoom images */
+  img:hover {
+    transform: scale(1.05); /* Slight zoom effect */
+  }
+
+  /* Responsive for smaller screens */
+  @media (max-width: 768px) {
+    img {
+      width: 48%; /* 2 images per row on smaller screens */
+    }
+  }
+
+  @media (max-width: 480px) {
+    img {
+      width: 100%; /* 1 image per row on very small screens */
+    }
+  }
+</style>
+
 
 
 - **Role:** iOS Developer 
