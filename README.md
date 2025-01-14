@@ -2,6 +2,54 @@
 [![Phone](https://img.shields.io/badge/Phone-%2B923126282028-brightgreen?style=flat&logo=phone)](tel:+923126282028)
 
 ## Projects
+### Urban Mop 
+- **Role:** iOS Developer
+- **Technologies:**
+<span style="vertical-align: middle;">![Swift UIKit](https://img.shields.io/badge/Swift_UIKit-FA7343?logo=swift&logoColor=white)</span>
+<span style="vertical-align: middle;">![MVC](https://img.shields.io/badge/MVC-4CAF50?logo=apple&logoColor=white)</span>
+<span style="vertical-align: middle;">![Telr Payment Method](https://img.shields.io/badge/Telr_Payment_Method-00A3E0?logo=payment&logoColor=white)</span>
+<span style="vertical-align: middle;">![Tabby Payment Method](https://img.shields.io/badge/Tabby_Payment_Method-FF6F61?logo=payment&logoColor=white)</span>
+<span style="vertical-align: middle;">![Google Map](https://img.shields.io/badge/Google_Map-34A853?logo=googlemaps&logoColor=white)</span>
+<span style="vertical-align: middle;">![Alamofire](https://img.shields.io/badge/Alamofire-FF3B30?logo=swift&logoColor=white)</span>
+<span style="vertical-align: middle;">![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=white)</span>
+
+- **Features:**
+  - Comprehensive Home Services: Users can book a wide range of services, including sofa cleaning, maid services, AC maintenance, and other home appliance repairs.
+  - Flexible Payment Options: Supports Telr, Tabby, Stripe, wallet, cash, and rewards-based payments for user convenience.
+  - Seamless Booking Experience: A streamlined process for service selection, scheduling, and payments.
+    
+ **Challenges & Solutions:**
+  - Payment Gateway Integration: Integrated multiple payment options for a flexible and secure payment experience.
+  - Dynamic Service Management: Designed a scalable architecture to handle various service categories efficiently.
+  - User-Centric Design: Crafted a clean and intuitive interface for effortless navigation and booking.on.
+  - Deadline Mastery: Delivered the project ahead of schedule, meeting tight timelines while ensuring high-quality standards.
+
+<div style="background-color: #f0f4f8; padding: 20px; border-radius: 10px; border: 1px solid #e0e0e0; margin-bottom: 30px;">
+  <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(23%, 1fr)); gap: 10px;">
+    <img src="images/UrbanUser/1.1.png" alt="Screenshot 1" class="image-hover" style="width: 100%; border: 1px solid #ccc; border-radius: 5px; transition: transform 0.3s ease; transform: scale(1); object-fit: cover;">
+    <img src="images/UrbanUser/1.2.png" alt="Screenshot 2" class="image-hover" style="width: 100%; border: 1px solid #ccc; border-radius: 5px; transition: transform 0.3s ease; transform: scale(1); object-fit: cover;">
+    <img src="images/UrbanUser/1.3.png" alt="Screenshot 3" class="image-hover" style="width: 100%; border: 1px solid #ccc; border-radius: 5px; transition: transform 0.3s ease; transform: scale(1); object-fit: cover;">
+    <img src="images/UrbanUser/1.4.png" alt="Screenshot 4" class="image-hover" style="width: 100%; border: 1px solid #ccc; border-radius: 5px; transition: transform 0.3s ease; transform: scale(1); object-fit: cover;">
+  </div>
+</div>
+
+<style>
+  .image-hover:hover {
+    transform: scale(1.05); /* Slight zoom effect */
+  }
+
+  @media (max-width: 768px) {
+    div[style*="grid-template-columns"] {
+      grid-template-columns: repeat(auto-fill, minmax(48%, 1fr)); /* 2 images per row on smaller screens */
+    }
+  }
+
+  @media (max-width: 480px) {
+    div[style*="grid-template-columns"] {
+      grid-template-columns: repeat(auto-fill, minmax(100%, 1fr)); /* 1 image per row on very small screens */
+    }
+  }
+</style>
 
 ### MedicalAI 
 - **Role:** iOS Developer
