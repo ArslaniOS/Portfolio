@@ -2,6 +2,58 @@
 [![Phone](https://img.shields.io/badge/Phone-%2B923126282028-brightgreen?style=flat&logo=phone)](tel:+923126282028)
 
 ## Projects
+
+### Cabby
+- **Role:** iOS Developer
+- **Technologies:**
+<span style="vertical-align: middle;">![Swift UIKit](https://img.shields.io/badge/Swift_UIKit-FA7343?logo=swift&logoColor=white)</span>
+<span style="vertical-align: middle;">![MVC](https://img.shields.io/badge/MVC-4CAF50?logo=apple&logoColor=white)</span>
+<span style="vertical-align: middle;">![Stripe](https://img.shields.io/badge/Stripe_Payment_Method-00A3E0?logo=payment&logoColor=white)</span>
+<span style="vertical-align: middle;">![Google Map](https://img.shields.io/badge/Google_Map-34A853?logo=googlemaps&logoColor=white)</span>
+<span style="vertical-align: middle;">![Alamofire](https://img.shields.io/badge/Alamofire-FF3B30?logo=swift&logoColor=white)</span>
+<span style="vertical-align: middle;">![Firebase Realtime Tracking](https://img.shields.io/badge/Firebase_Realtime_Tracking-FFCA28?logo=firebase&logoColor=white)</span>
+<span style="vertical-align: middle;">![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?logo=socketdotio&logoColor=white)</span>
+
+- **Features:**
+  - Driver Dashboard: Provides a comprehensive overview of earnings, trip history, and upcoming ride requests.
+  - Real-Time Navigation: Integrated Google Maps for accurate navigation and route optimization.
+  - Ride Notifications: Firebase-powered real-time notifications for ride requests, updates, and cancellations.
+    
+ **Challenges & Solutions:**
+  - Real-Time Tracking: Leveraged Firebase and Socket.IO for live trip updates and location tracking.
+  - Scalable Architecture: Designed a robust system to manage high ride request volumes efficiently.
+  - Enhanced User Experience: Developed a driver-friendly interface for easy access to trip details and navigation.
+  - Deadline Mastery: Delivered the app ahead of schedule, ensuring all features were rigorously tested and optimized.
+
+<div style="background-color: #f0f4f8; padding: 20px; border-radius: 10px; border: 1px solid #e0e0e0; margin-bottom: 30px;">
+  <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(23%, 1fr)); gap: 10px;">
+    <img src="images/Caby/1.1.png" alt="Screenshot 1" class="image-hover" style="width: 100%; border: 1px solid #ccc; border-radius: 5px; transition: transform 0.3s ease; transform: scale(1); object-fit: cover;">
+    <img src="images/Caby/1.2.png" alt="Screenshot 2" class="image-hover" style="width: 100%; border: 1px solid #ccc; border-radius: 5px; transition: transform 0.3s ease; transform: scale(1); object-fit: cover;">
+    <img src="images/Caby/1.3.png" alt="Screenshot 3" class="image-hover" style="width: 100%; border: 1px solid #ccc; border-radius: 5px; transition: transform 0.3s ease; transform: scale(1); object-fit: cover;">
+    <img src="images/Caby/1.4.png" alt="Screenshot 4" class="image-hover" style="width: 100%; border: 1px solid #ccc; border-radius: 5px; transition: transform 0.3s ease; transform: scale(1); object-fit: cover;">
+   <img src="images/Caby/1.5.png" alt="Screenshot 4" class="image-hover" style="width: 100%; border: 1px solid #ccc; border-radius: 5px; transition: transform 0.3s ease; transform: scale(1); object-fit: cover;">
+   <img src="images/Caby/1.6.png" alt="Screenshot 4" class="image-hover" style="width: 100%; border: 1px solid #ccc; border-radius: 5px; transition: transform 0.3s ease; transform: scale(1); object-fit: cover;">
+       <img src="images/Caby/1.7.png" alt="Screenshot 4" class="image-hover" style="width: 100%; border: 1px solid #ccc; border-radius: 5px; transition: transform 0.3s ease; transform: scale(1); object-fit: cover;">
+  </div>
+</div>
+<style>
+  .image-hover:hover {
+    transform: scale(1.05); /* Slight zoom effect */
+  }
+
+  @media (max-width: 768px) {
+    div[style*="grid-template-columns"] {
+      grid-template-columns: repeat(auto-fill, minmax(48%, 1fr)); /* 2 images per row on smaller screens */
+    }
+  }
+
+  @media (max-width: 480px) {
+    div[style*="grid-template-columns"] {
+      grid-template-columns: repeat(auto-fill, minmax(100%, 1fr)); /* 1 image per row on very small screens */
+    }
+  }
+</style>
+
 ### Urban Mop 
 - **Role:** iOS Developer
 - **Technologies:**
@@ -35,7 +87,6 @@
    <img src="images/UrbanUser/1.6.png" alt="Screenshot 4" class="image-hover" style="width: 100%; border: 1px solid #ccc; border-radius: 5px; transition: transform 0.3s ease; transform: scale(1); object-fit: cover;">
   </div>
 </div>
-
 <style>
   .image-hover:hover {
     transform: scale(1.05); /* Slight zoom effect */
