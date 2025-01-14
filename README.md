@@ -7,8 +7,9 @@
 - **Technologies:**
 <span style="vertical-align: middle;">![Swift UIKit](https://img.shields.io/badge/Swift_UIKit-FA7343?logo=swift&logoColor=white)</span>
 <span style="vertical-align: middle;">![MVC](https://img.shields.io/badge/MVC-4CAF50?logo=apple&logoColor=white)</span>
-<span style="vertical-align: middle;">![Telr Payment Method](https://img.shields.io/badge/Telr_Payment_Method-00A3E0?logo=payment&logoColor=white)</span>
-<span style="vertical-align: middle;">![Tabby Payment Method](https://img.shields.io/badge/Tabby_Payment_Method-FF6F61?logo=payment&logoColor=white)</span>
+<span style="vertical-align: middle;">![Stripe Payment](https://img.shields.io/badge/Stripe_Payment_Method-00A3E0?logo=payment&logoColor=white)</span>
+<span style="vertical-align: middle;">![Telr Payment](https://img.shields.io/badge/Telr_Payment_Method-00A3E0?logo=payment&logoColor=white)</span>
+<span style="vertical-align: middle;">![Tabby Payment](https://img.shields.io/badge/Tabby_Payment_Method-FF6F61?logo=payment&logoColor=white)</span>
 <span style="vertical-align: middle;">![Google Map](https://img.shields.io/badge/Google_Map-34A853?logo=googlemaps&logoColor=white)</span>
 <span style="vertical-align: middle;">![Alamofire](https://img.shields.io/badge/Alamofire-FF3B30?logo=swift&logoColor=white)</span>
 <span style="vertical-align: middle;">![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=white)</span>
