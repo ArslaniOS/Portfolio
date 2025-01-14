@@ -31,6 +31,8 @@
     <img src="images/UrbanUser/1.2.png" alt="Screenshot 2" class="image-hover" style="width: 100%; border: 1px solid #ccc; border-radius: 5px; transition: transform 0.3s ease; transform: scale(1); object-fit: cover;">
     <img src="images/UrbanUser/1.3.png" alt="Screenshot 3" class="image-hover" style="width: 100%; border: 1px solid #ccc; border-radius: 5px; transition: transform 0.3s ease; transform: scale(1); object-fit: cover;">
     <img src="images/UrbanUser/1.4.png" alt="Screenshot 4" class="image-hover" style="width: 100%; border: 1px solid #ccc; border-radius: 5px; transition: transform 0.3s ease; transform: scale(1); object-fit: cover;">
+   <img src="images/UrbanUser/1.5.png" alt="Screenshot 4" class="image-hover" style="width: 100%; border: 1px solid #ccc; border-radius: 5px; transition: transform 0.3s ease; transform: scale(1); object-fit: cover;">
+   <img src="images/UrbanUser/1.6.png" alt="Screenshot 4" class="image-hover" style="width: 100%; border: 1px solid #ccc; border-radius: 5px; transition: transform 0.3s ease; transform: scale(1); object-fit: cover;">
   </div>
 </div>
 
