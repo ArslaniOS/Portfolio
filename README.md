@@ -606,8 +606,10 @@ This is a demo e-commerce project designed to showcase my coding abilities, arch
 Completed this project in just 5 days with a scalable UI, flexible architecture, and clean, testable MVVM design. ✅ Built with reusable components, SOLID principles, and full responsiveness for iPhone & iPad. 🚀 Check out the code here: [Link](https://github.com/ArslaniOS/E_Com.git)
 - **Role:** iOS Developer 
 - **Technologies:**
-<span style="vertical-align: middle;">![SwiftUI](https://img.shields.io/badge/SwiftUI-FF4C00?logo=apple&logoColor=white)</span>
+  <span style="vertical-align: middle;">![Swift](https://img.shields.io/badge/Swift-FA7343?logo=swift&logoColor=white%22%20alt=%22Swift%20Badge%22)</span>
+  <span style="vertical-align: middle;">![Swift UIKit](https://img.shields.io/badge/Swift_UIKit-FA7343?logo=swift&logoColor=white)</span>
 <span style="vertical-align: middle;"> ![MVVM](https://img.shields.io/badge/MVVM-4A90E2?logo=swift&logoColor=white)</span>
+  <span style="vertical-align: middle;">![Xcode](https://img.shields.io/badge/Xcode-007AFF?logo=xcode&logoColor=white)</span>
 
 - **Features:**
   - Developed a fully functional app with a clean and intuitive design.
