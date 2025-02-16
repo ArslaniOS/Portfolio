@@ -601,7 +601,31 @@
   }
 </style>
 
+### E-Com 
+This is a demo e-commerce project designed to showcase my coding abilities, architectural approach, and clean MVVM-based code structure.
+Completed this project in just 5 days with a scalable UI, flexible architecture, and clean, testable MVVM design. ✅ Built with reusable components, SOLID principles, and full responsiveness for iPhone & iPad. 🚀 Check out the code here: [Link](https://github.com/ArslaniOS/E_Com.git)
+- **Role:** iOS Developer 
+- **Technologies:**
+<span style="vertical-align: middle;">![SwiftUI](https://img.shields.io/badge/SwiftUI-FF4C00?logo=apple&logoColor=white)</span>
+<span style="vertical-align: middle;"> ![MVVM](https://img.shields.io/badge/MVVM-4A90E2?logo=swift&logoColor=white)</span>
 
+- **Features:**
+  - Developed a fully functional app with a clean and intuitive design.
+  - Ensured smooth user interactions for a seamless experience.
+  - Implemented key functionalities efficiently, meeting all project requirements within a short timeframe.
+
+<!---*Explore the project and contribute on GitHub: [Code2.0](https://github.com/ArslaniOS/Code2.0.git)-->
+
+<div style="background-color: #f0f4f8; padding: 15px; border-radius: 5px; border: 1px solid #e0e0e0; margin-bottom: 30px;">
+  <div style="display: flex; flex-wrap: wrap; justify-content: space-between; margin-bottom: 10px;">
+    <img src="images/Ecom/e1.png" alt="Screenshot 1" style="width: 16.5%; margin-bottom: 10px; border: 1px solid #ccc; border-radius: 5px; transition: transform 0.3s ease; transform: scale(1.05);">
+    <img src="images/Ecom/e2.png" alt="Screenshot 2" style="width: 16.5%; margin-bottom: 10px; border: 1px solid #ccc; border-radius: 5px; transition: transform 0.3s ease; transform: scale(1.05);">
+    <img src="images/Ecom/e3.png" alt="Screenshot 3" style="width: 16.5%; margin-bottom: 10px; border: 1px solid #ccc; border-radius: 5px; transition: transform 0.3s ease; transform: scale(1.05);">
+    <img src="images/Ecom/e4.png" alt="Screenshot 4" style="width: 16.5%; margin-bottom: 10px; border: 1px solid #ccc; border-radius: 5px; transition: transform 0.3s ease; transform: scale(1.05);">
+    <img src="images/Ecom/e5.png" alt="Screenshot 5" style="width: 16.5%; margin-bottom: 10px; border: 1px solid #ccc; border-radius: 5px; transition: transform 0.3s ease; transform: scale(1.05);">
+    <img src="images/Ecom/e6.png" alt="Screenshot 6" style="width: 16.5%; margin-bottom: 10px; border: 1px solid #ccc; border-radius: 5px; transition: transform 0.3s ease; transform: scale(1.05);">
+  </div>
+</div>
 
 ### Spiral 
 
