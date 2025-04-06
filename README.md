@@ -554,7 +554,7 @@
 </style>
 
 
-
+<!-- 
 ### Code2.0
 - **Role:** iOS Developer 
 
@@ -572,7 +572,7 @@
 
 <!---*Explore the project and contribute on GitHub: [Code2.0](https://github.com/ArslaniOS/Code2.0.git)-->
 
-<div style="padding: 15px; border-radius: 5px; border: 1px solid #e0e0e0; margin-bottom: 30px;">
+<!-- <div style="padding: 15px; border-radius: 5px; border: 1px solid #e0e0e0; margin-bottom: 30px;">
   <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(23%, 1fr)); gap: 10px;">
     <img src="images/Code2.0/c1.png" alt="Screenshot 1" style="width: 100%; border: 1px solid #ccc; border-radius: 5px; transition: transform 0.3s ease; transform: scale(1); object-fit: cover;">
     <img src="images/Code2.0/c2.png" alt="Screenshot 2" style="width: 100%; border: 1px solid #ccc; border-radius: 5px; transition: transform 0.3s ease; transform: scale(1); object-fit: cover;">
@@ -618,7 +618,7 @@ Completed this project in just 5 days with a scalable UI, flexible architecture,
 
 <!---*Explore the project and contribute on GitHub: [Code2.0](https://github.com/ArslaniOS/Code2.0.git)-->
 
-<div style="background-color: #f0f4f8; padding: 15px; border-radius: 5px; border: 1px solid #e0e0e0; margin-bottom: 30px;">
+<!-- <div style="background-color: #f0f4f8; padding: 15px; border-radius: 5px; border: 1px solid #e0e0e0; margin-bottom: 30px;">
   <div style="display: flex; flex-wrap: wrap; justify-content: space-between; margin-bottom: 10px;">
     <img src="images/Ecom/e1.png" alt="Screenshot 1" style="width: 16.5%; margin-bottom: 10px; border: 1px solid #ccc; border-radius: 5px; transition: transform 0.3s ease; transform: scale(1.05);">
     <img src="images/Ecom/e2.png" alt="Screenshot 2" style="width: 16.5%; margin-bottom: 10px; border: 1px solid #ccc; border-radius: 5px; transition: transform 0.3s ease; transform: scale(1.05);">
@@ -642,7 +642,7 @@ Completed this project in just 5 days with a scalable UI, flexible architecture,
   - Integrated key functionalities within a short timeframe, meeting all project requirements with precision.
 <!---*Explore the project and contribute on GitHub: [Code2.0](https://github.com/ArslaniOS/Code2.0.git)-->
 
-<div style="background-color: #f0f4f8; padding: 15px; border-radius: 5px; border: 1px solid #e0e0e0; margin-bottom: 30px;">
+<!-- <div style="background-color: #f0f4f8; padding: 15px; border-radius: 5px; border: 1px solid #e0e0e0; margin-bottom: 30px;">
   <div style="display: flex; flex-wrap: wrap; justify-content: space-between; margin-bottom: 10px;">
     <img src="images/Spiral/s1.png" alt="Screenshot 1" style="width: 16.5%; margin-bottom: 10px; border: 1px solid #ccc; border-radius: 5px; transition: transform 0.3s ease; transform: scale(1.05);">
     <img src="images/Spiral/s2.png" alt="Screenshot 2" style="width: 16.5%; margin-bottom: 10px; border: 1px solid #ccc; border-radius: 5px; transition: transform 0.3s ease; transform: scale(1.05);">
