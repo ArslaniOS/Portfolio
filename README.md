@@ -443,7 +443,7 @@
 
 
 
-
+<!-- 
 ### [HSA Second Opinion](https://apps.apple.com/us/app/hsa-second-opinion/id6503679610) | <span style="vertical-align: middle; font-size: smaller;">(Ninja Technologies (Pvt) Ltd.)</span>
 
 - **Role:** iOS Developer
@@ -497,7 +497,7 @@
     }
   }
 </style>
-
+-->
 
 
 
@@ -652,6 +652,6 @@ Completed this project in just 5 days with a scalable UI, flexible architecture,
     <img src="images/Spiral/s6.png" alt="Screenshot 6" style="width: 16.5%; margin-bottom: 10px; border: 1px solid #ccc; border-radius: 5px; transition: transform 0.3s ease; transform: scale(1.05);">
   </div>
 </div>
-
+-->
 
 
